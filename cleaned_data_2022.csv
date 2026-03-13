@@ -1,646 +1,646 @@
-uri,artist_names,track_name,peak_rank,weeks_on_chart,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,tempo,time_signature,duration_ms
-spotify:track:02MWAaffLxlfxAUY7c5dvx,glass animals,heat waves,1,65,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,80.87,4,238805
-spotify:track:5PjdY0CKGZdEuoNab3yDmX,"the kid laroi, justin bieber",stay (with justin bieber),1,37,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,169.928,4,141806
-spotify:track:3IAfUEeaXRX9s9UdKOJrFI,anitta,envolver,3,3,0.812,0.736,4,-5.421,0,0.0833,0.152,0.00254,0.0914,91.993,4,193806
-spotify:track:1HhNoOuqm1a5MXYEgAFl8o,"imagine dragons, jid, arcane, league of legends",enemy (with jid) - from the series arcane league of legends,3,21,0.728,0.783,11,-4.424,0,0.266,0.237,0.0,0.434,77.011,4,173381
-spotify:track:4fouWK6XVHhzl78KzQ1UjL,gayle,abcdefu,1,19,0.695,0.54,4,-5.692,1,0.0493,0.299,0.0,0.367,121.932,4,168602
-spotify:track:7rglLriMNBPAyuJOMGwi39,"elton john, dua lipa, pnau",cold heart - pnau remix,4,32,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,116.032,4,202735
-spotify:track:1ri9ZUkBJVFUdgwzCnfcYs,"becky g, karol g",mamiii,5,6,0.843,0.7,4,-3.563,0,0.0803,0.0934,0.0,0.14,93.991,4,226088
-spotify:track:5Z9KJZvQzH6PFmb8SNkxuk,"lil nas x, jack harlow",industry baby (feat. jack harlow),2,35,0.741,0.691,10,-7.395,0,0.0672,0.0221,0.0,0.0476,150.087,4,212353
-spotify:track:6mmPpaltUZK7xjNlBPQQ0p,"rauw alejandro, chencho corleone",desesperados,8,15,0.869,0.694,1,-3.35,0,0.0783,0.356,0.00125,0.0878,90.02,4,224997
-spotify:track:50nfwKoDiSYg8zOCREWAm5,ed sheeran,shivers,4,28,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,141.02,4,207853
-spotify:track:6Uj1ctrBOjOas8xZXGqKk4,doja cat,woman,6,37,0.824,0.764,5,-4.175,0,0.0854,0.0888,0.00294,0.117,107.998,4,172627
-spotify:track:46IZ0fSY2mpAiktS3KOqds,adele,easy on me,1,23,0.604,0.366,5,-7.519,1,0.0282,0.578,0.0,0.133,141.981,4,224695
-spotify:track:6I3mqTwhRpn34SLVafSH7G,justin bieber,ghost,11,27,0.601,0.741,2,-5.569,1,0.0478,0.185,2.91e-05,0.415,153.96,4,153190
-spotify:track:0QBzMgT7NIeoCYy3sJCof1,"camila cabello, ed sheeran",bam bam (feat. ed sheeran),13,3,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,94.996,4,206071
-spotify:track:58HvfVOeJY7lUuCqF0m3ly,elley duhé,middle of the night,14,13,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,185.727,3,184448
-spotify:track:1O2pcBJGej0pmH2Y9XZMs6,cris mj,una noche en medellín,16,4,0.87,0.548,10,-5.253,0,0.077,0.0924,4.6e-05,0.0534,96.018,4,153750
-spotify:track:0e8nrvls4Qqv5Rfa2UhqmO,lil nas x,thats what i want,3,27,0.737,0.846,1,-4.51,0,0.22,0.00614,0.0,0.0486,87.981,4,143901
-spotify:track:3uUuGVFu1V7jTQL60S1r8z,"lost frequencies, calum scott",where are you now,18,29,0.671,0.636,6,-8.117,0,0.103,0.515,0.000411,0.172,120.966,4,148197
-spotify:track:59CfNbkERJ3NoTXDvoURjj,dove cameron,boyfriend,11,6,0.345,0.612,7,-6.543,0,0.0608,0.232,0.0,0.194,179.773,3,153000
-spotify:track:3rmo8F54jFF8OgYsqTxm5d,ed sheeran,bad habits,3,39,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,126.011,4,230747
-spotify:track:1SOClUWhOi8vHZYMz3GluK,jaymes young,infinity,11,21,0.671,0.673,11,-6.941,0,0.0444,0.148,5.29e-05,0.304,121.963,4,237720
-spotify:track:2B4GHvToeLTOBB4QLzW3Ni,farruko,pepas,4,37,0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,130.001,4,287120
-spotify:track:18asYwWugKjjsihZ0YvRxO,"tiësto, ava max",the motto,23,20,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,117.953,4,164819
-spotify:track:4ZtFanR9U6ndgddUvNcjcG,olivia rodrigo,good 4 u,1,45,0.563,0.664,9,-5.044,1,0.154,0.335,0.0,0.0849,166.928,4,178147
-spotify:track:46HNZY1i7O6jwTA7Slo2PI,"coldplay, bts",my universe,3,26,0.573,0.711,1,-6.268,0,0.0406,0.0114,0.0,0.328,105.006,4,226198
-spotify:track:4SqWKzw0CbA05TGszDgMlc,the walters,i love you so,21,24,0.575,0.648,10,-4.891,1,0.0358,0.583,0.0,0.115,75.977,4,160240
-spotify:track:0VjIjW4GlUZAMYd2vXMi3b,the weeknd,blinding lights,1,121,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,171.005,4,200040
-spotify:track:4gzsuuZypVbxs0Af1LSZyB,"tainy, bad bunny, julieta venegas",lo siento bb:/ (with bad bunny & julieta venegas),12,25,0.639,0.703,4,-6.33,0,0.0794,0.0889,1.78e-06,0.0865,169.888,4,207301
-spotify:track:7mFj0LlWtEJaEigguaWqYh,"megan thee stallion, dua lipa",sweetest pie,17,2,0.814,0.628,7,-7.178,1,0.221,0.167,0.0,0.101,123.977,4,201334
-spotify:track:2WL6GQzPuK9Nrpy9XwNEbz,nirvana,something in the way,19,3,0.426,0.225,8,-12.422,1,0.0291,0.823,0.367,0.11,104.506,4,232204
-spotify:track:7jtQIBanIiJOMS6RyCx6jZ,tom odell,another love,31,50,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,122.758,4,244360
-spotify:track:20on25jryn53hWghthWWW3,"acraze, cherish",do it to it,9,21,0.854,0.806,11,-8.262,0,0.0886,0.0209,0.0542,0.0703,124.927,4,157890
-spotify:track:2QjOHCTQ1Jl3zawyYOpxh6,the neighbourhood,sweater weather,29,82,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,124.053,4,240400
-spotify:track:2JPLbjOn0wPCngEot2STUS,bad bunny,yonaguni,3,42,0.644,0.648,1,-4.601,1,0.118,0.276,0.0,0.135,179.951,4,206710
-spotify:track:3Vi5XqYrmQgOYBajMWSvCi,doja cat,need to know,6,41,0.664,0.609,1,-6.509,1,0.0707,0.304,0.0,0.0926,130.041,4,210560
-spotify:track:2eAvDnpXP5W0cVtiI0PUxV,ruth b.,dandelions,35,32,0.609,0.692,1,-2.958,1,0.0259,0.0157,0.0,0.0864,116.959,3,233720
-spotify:track:52xJxFP6TqMuO4Yt0eOkMz,"carolina gaitán - la gaita, mauro castillo, adassa, rhenzy feliz, diane guerrero, stephanie beatriz, encanto - cast",we don't talk about bruno,8,13,0.577,0.45,0,-8.516,0,0.0834,0.357,0.0,0.111,205.863,4,216120
-spotify:track:3DarAbFujv6eYNliUTyqtz,"doja cat, sza",kiss me more (feat. sza),3,50,0.764,0.705,8,-3.463,1,0.0284,0.259,8.92e-05,0.12,110.97,4,208667
-spotify:track:7BDHDiidJ8WV349p3HTxTV,stray kids,maniac,39,1,0.744,0.8,1,-2.63,1,0.266,0.181,0.0,0.0746,89.925,4,182758
-spotify:track:3AVXwaOGCEL8cmBecfcsFJ,charlie puth,light switch,19,9,0.69,0.626,6,-5.693,1,0.306,0.105,0.000335,0.0881,184.009,4,185681
-spotify:track:5nujrmhLynf4yMoMtj8AQF,"dua lipa, dababy",levitating (feat. dababy),4,77,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,102.977,4,203064
-spotify:track:5CZ40GBx1sQ9agT82CLQCT,olivia rodrigo,traitor,7,44,0.38,0.339,3,-7.885,1,0.0338,0.691,0.0,0.12,100.607,4,229227
-spotify:track:1oFAF1hdPOickyHgbuRjyX,"the weeknd, ariana grande",save your tears (remix) (with ariana grande) - bonus track,5,48,0.65,0.825,0,-4.645,1,0.0325,0.0215,2.44e-05,0.0936,118.091,4,191014
-spotify:track:70AYiGbc4mWZGEqiipBBDb,rosalía,candy,44,1,0.638,0.49,4,-5.726,0,0.226,0.885,0.0116,0.156,179.905,4,193480
-spotify:track:531KGXtBroSrOX9LVmiIgc,dave,starlight,45,3,0.954,0.367,4,-9.551,0,0.288,0.341,5.48e-06,0.0979,124.026,4,211935
-spotify:track:2K7xn816oNHJZ0aVqdQsha,the neighbourhood,softcore,35,11,0.575,0.568,9,-5.509,0,0.03,0.0484,0.000417,0.286,93.986,4,206280
-spotify:track:1SC5rEoYDGUK4NfG82494W,lil nas x,montero (call me by your name),1,52,0.593,0.503,8,-6.725,0,0.22,0.293,0.0,0.405,178.781,4,137704
-spotify:track:5zNxUkUW9WiV5oyg6gh2wB,"pedro sampaio, mc pedrinho",dançarina,32,5,0.778,0.571,9,-4.776,0,0.0788,0.0423,0.0,0.0964,134.999,4,110222
-spotify:track:7lQ8MOhq6IN2w8EYcFNSUk,eminem,without me,31,26,0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,112.238,4,290320
-spotify:track:6lX6l7OuA3qrnIRfdsr0dw,"blessd, justin quiles, lenny tavárez",medallo,48,18,0.787,0.7,4,-4.598,0,0.0768,0.568,0.00051,0.663,90.02,4,233453
-spotify:track:1mWdTewIgB3gtBM3TOSFhB,bts,butter,2,44,0.759,0.459,8,-5.187,1,0.0948,0.00323,0.0,0.0906,109.997,4,164442
-spotify:track:1ZdhOMWyFR8Iv9eylMGYg2,labrinth,mount everest,36,7,0.494,0.428,0,-7.239,0,0.205,0.236,0.0698,0.0816,87.724,4,157497
-spotify:track:2rDZhKnPaPG054ExZ6nXUS,ryan castro,jordan,53,4,0.796,0.68,10,-5.555,0,0.37,0.0575,0.000683,0.103,179.923,4,176143
-spotify:track:5QO79kh1waicV47BqGRL3g,the weeknd,save your tears,2,68,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24e-05,0.543,118.051,4,215627
-spotify:track:5wANPM4fQCJwkGd4rN57mH,olivia rodrigo,drivers license,1,63,0.561,0.431,10,-8.81,1,0.0578,0.768,1.42e-05,0.106,143.875,4,242013
-spotify:track:6Y46tOTRhkBamosyuWa6YX,"rosalía, the weeknd",la fama (with the weeknd),32,15,0.766,0.295,0,-7.893,0,0.0464,0.947,4.44e-05,0.119,136.016,4,188107
-spotify:track:58ge6dfP91o9oXMzq3XkIS,arctic monkeys,505,57,12,0.52,0.852,0,-5.866,1,0.0543,0.00237,5.79e-05,0.0733,140.267,4,253587
-spotify:track:0Bv7O6fmZk3GrNQFYJaXPn,"la pantera, quevedo, juseph, abhir hathi, bejo, cruz cafuné, el ima","cayó la noche (feat. cruz cafuné, abhir hathi, bejo, el ima) [remix]",58,8,0.672,0.745,5,-5.269,0,0.3,0.438,9.29e-06,0.0699,173.974,4,413111
-spotify:track:4MzXwWMhyBbmu6hOcLVD49,"bad bunny, jhay cortez",dákiti,1,73,0.731,0.573,4,-10.059,0,0.0544,0.401,5.22e-05,0.113,109.928,4,205090
-spotify:track:6ylDpki1VpIsc525KC1ojF,sebastian yatra,tacones rojos,45,18,0.746,0.844,11,-3.499,0,0.0359,0.062,0.0,0.149,123.014,4,189333
-spotify:track:3uwnnTQcHM1rDqSfA4gQNz,demi lovato,cool for the summer,61,1,0.583,0.61,5,-5.639,0,0.0382,0.00425,0.000105,0.14,114.06,4,214740
-spotify:track:5TMLavqGRKNxgzMBrVpC9R,"zzoilo, aitana",mon amour - remix,34,29,0.748,0.761,2,-6.621,1,0.102,0.122,6.56e-06,0.0984,116.041,4,179940
-spotify:track:0HqZX76SFLDz2aW8aiqi7G,imagine dragons,bones,63,2,0.773,0.742,5,-3.678,0,0.046,0.0206,0.0,0.0754,114.071,4,165265
-spotify:track:5gflgO9EPbIBf16n5TKnQS,zion & lennox,yo voy (feat. daddy yankee),63,5,0.808,0.697,10,-5.899,1,0.241,0.041,0.0,0.0546,95.06,4,232020
-spotify:track:72jYQj3RgTR1DFLfibD71B,uzi,arasan da,65,1,0.742,0.832,10,-6.812,1,0.156,0.425,0.242,0.108,105.978,4,191710
-spotify:track:4RVwu0g32PAqgUiJoXsdF8,billie eilish,happier than ever,6,34,0.332,0.225,0,-8.697,1,0.0348,0.767,0.00349,0.128,81.055,3,298899
-spotify:track:0IuVhCflrQPMGRrOyoY5RW,tate mcrae,she's all i wanna be,38,7,0.614,0.644,2,-5.372,0,0.0426,0.0134,7.07e-06,0.117,160.036,4,206772
-spotify:track:3XOalgusokruzA5ZBA2Qcb,"gunna, future, young thug",pushin p (feat. young thug),14,11,0.773,0.422,1,-4.572,0,0.187,0.00783,0.00693,0.129,77.502,1,136267
-spotify:track:3Wrjm47oTz2sjIgck11l5e,måneskin,beggin',1,42,0.714,0.8,11,-4.808,0,0.0504,0.127,0.0,0.359,134.002,4,211560
-spotify:track:2gQPv5jvVPqU2a9HhMNO1v,boywithuke,toxic,23,23,0.594,0.612,8,-6.627,0,0.363,0.835,0.0,0.461,179.629,4,168020
-spotify:track:2Xr1dTzJee307rmrkt8c0g,ckay,love nwantiti (ah ah ah),9,28,0.727,0.739,8,-3.805,1,0.0411,0.365,0.00137,0.161,93.005,4,145800
-spotify:track:1Al4Z4K76RCKj31mExavs7,"machine gun kelly, bring me the horizon",maybe (feat. bring me the horizon),72,1,0.522,0.922,5,-4.805,0,0.0616,0.000745,0.0,0.0976,176.105,4,170134
-spotify:track:6UelLqGlWMcVH1E5c4H7lY,harry styles,watermelon sugar,4,123,0.548,0.816,0,-4.209,1,0.0465,0.122,0.0,0.335,95.39,4,174000
-spotify:track:6Jrdb6CFOJEGaHjaa6c4WR,"boywithuke, blackbear",idgaf (with blackbear),74,1,0.783,0.75,5,-5.762,1,0.078,0.426,0.0,0.241,97.953,4,140665
-spotify:track:74WROFXsox6wkeUrEK2DS6,eden muñoz,chale,75,3,0.551,0.436,8,-8.029,1,0.0428,0.395,0.0,0.0719,188.651,3,170745
-spotify:track:3GZD6HmiNUhxXYf8Gch723,frank ocean,lost,50,10,0.913,0.603,8,-4.892,1,0.226,0.0272,0.000503,0.167,123.061,4,234093
-spotify:track:3i6sCTU7ENlnHpHvrHUitW,juice wrld,sometimes,77,1,0.674,0.58,8,-4.866,1,0.0311,0.0609,0.0,0.159,121.987,4,259672
-spotify:track:2hHeGD57S0BcopfVcmehdl,tulus,hati-hati di jalan,45,3,0.643,0.436,6,-11.322,1,0.0357,0.702,0.0889,0.115,71.969,4,242000
-spotify:track:3o9kpgkIcffx0iSwxhuNI2,em beihold,numb little bug,69,8,0.742,0.527,8,-6.892,0,0.0769,0.327,0.0,0.25,84.974,4,169238
-spotify:track:3yfqSUWxFvZELEM4PmlwIR,eminem,the real slim shady,51,42,0.949,0.661,5,-4.244,0,0.0572,0.0302,0.0,0.0454,104.504,4,284200
-spotify:track:4r9jkMEnArtWGH2rL2FZl0,bad bunny,a tu merced,52,19,0.86,0.791,0,-4.784,1,0.0568,0.169,0.000106,0.106,92.023,4,175918
-spotify:track:2FYGZDfsAnNsrm1gVbyKnG,rosalía,saoko,80,2,0.827,0.768,0,-5.702,1,0.265,0.79,2.45e-05,0.497,99.988,4,137533
-spotify:track:2vmfvSoZBFAt9hhRoEByLi,"aventura, bad bunny",volví,10,34,0.725,0.86,1,-3.726,1,0.182,0.422,0.000284,0.0674,175.896,4,230125
-spotify:track:00Blm7zeNqgYLPtW6zg8cj,"post malone, the weeknd",one right now (with the weeknd),9,20,0.687,0.781,1,-4.806,1,0.053,0.0361,0.0,0.0755,97.014,4,193507
-spotify:track:3PfIrDoz19wz7qK7tYeu62,dua lipa,don't start now,2,125,0.793,0.793,11,-4.521,0,0.083,0.0123,0.0,0.0951,123.95,4,183290
-spotify:track:6HU7h9RYOaPRFeh0R3UeAr,olivia rodrigo,deja vu,3,51,0.442,0.612,2,-7.222,1,0.112,0.584,5.7e-06,0.37,180.917,4,215507
-spotify:track:3rdAz1fbUfZxYgaCviYhRo,rauw alejandro,todo de ti,2,44,0.78,0.719,3,-3.613,0,0.0506,0.302,0.000196,0.0931,127.962,4,199604
-spotify:track:4iJyoBOLtHqaGxP12qzhQI,"justin bieber, daniel caesar, giveon",peaches (feat. daniel caesar & giveon),1,53,0.677,0.696,0,-6.181,1,0.119,0.321,0.0,0.42,90.03,4,198082
-spotify:track:3Kkjo3cT83cw09VJyrLNwX,adele,oh my god,3,18,0.534,0.725,1,-3.906,1,0.046,0.091,0.0,0.0264,88.098,4,225149
-spotify:track:0oA9wBGDY4uyILLg4GymWP,"annenmaykantereit, giant rooks",tom's diner,90,1,0.68,0.428,6,-8.107,0,0.135,0.376,0.000344,0.355,98.222,4,269333
-spotify:track:1Y5Jvi3eLi4Chwqch9GMem,kodak black,super gremlin,45,15,0.825,0.414,2,-6.634,1,0.144,0.00265,0.0,0.357,72.993,4,200548
-spotify:track:0pqnGHJpmpxLKifKRmU6WP,imagine dragons,believer,16,268,0.776,0.78,10,-4.374,0,0.128,0.0622,0.0,0.081,124.949,4,204347
-spotify:track:3yMC1KsTwh0ceXdIe4QQAQ,lauren spencer smith,fingers crossed,17,11,0.56,0.473,5,-7.23,1,0.0533,0.618,0.0,0.31,109.414,4,175345
-spotify:track:0RiRZpuVRbi7oqRdSMwhQY,"post malone, swae lee",sunflower - spider-man: into the spider-verse,1,179,0.755,0.522,2,-4.368,1,0.0575,0.533,0.0,0.0685,89.96,4,157560
-spotify:track:0sTlGEld0h8kIPZaKDYUf4,the rare occasions,notion,67,11,0.309,0.883,9,-3.825,1,0.0808,0.0673,0.00111,0.0849,159.488,4,195121
-spotify:track:37y7iDayfwm3WXn5BiAoRk,steve lacy,dark red,66,33,0.603,0.783,6,-4.023,1,0.062,0.449,7.96e-06,0.119,172.041,4,173104
-spotify:track:2gpWyfu7eZ01zzncHpxOtA,"swedish house mafia, the weeknd",moth to a flame (with the weeknd),7,22,0.542,0.659,8,-7.289,1,0.0389,0.00279,0.0,0.105,120.122,4,234000
-spotify:track:5vUnjhBzRJJIAOJPde6zDx,"jnr choi, sam tompkins",to the moon,55,11,0.745,0.65,2,-11.814,1,0.346,0.0451,0.00758,0.111,144.047,4,152137
-spotify:track:4srcMdbm2qzVG98tJajHxp,"alejo, feid, robi",pantysito,99,1,0.83,0.739,7,-5.395,0,0.0627,0.136,2.11e-06,0.162,97.993,4,240413
-spotify:track:5QDLhrAOJJdNAmCTJ8xMyW,bts,dynamite,2,83,0.746,0.765,6,-4.41,0,0.0993,0.0112,0.0,0.0936,114.044,4,199054
-spotify:track:503OTo2dSqe7qk76rgsbep,"dr. dre, snoop dogg",still d.r.e.,29,6,0.816,0.775,11,-3.323,1,0.234,0.16,0.00031,0.0543,93.431,4,270587
-spotify:track:1v7L65Lzy0j0vdpRjJewt1,eminem,"lose yourself - from ""8 mile"" soundtrack",44,66,0.686,0.735,2,-4.616,1,0.264,0.00921,0.00066,0.342,171.355,4,322227
-spotify:track:0u2P5u6lvoDfwTYjAADbn4,"billie eilish, khalid",lovely (with khalid),24,205,0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,115.284,4,200186
-spotify:track:76YSWx6L6FNsuaP6GWBb8P,"labrinth, zendaya",all for us,43,11,0.46,0.66,3,-6.642,1,0.0652,0.0108,0.000139,0.34,141.722,4,191710
-spotify:track:6LtHYDgYHRCHoKK3snfr2w,"labrinth, zendaya",i’m tired (with zendaya) - bonus track,29,4,0.375,0.133,0,-10.624,0,0.0352,0.651,0.0,0.0695,131.721,4,187944
-spotify:track:2gpQi3hbcUAcEG8m2dlgfB,paulo londra,plan a,106,1,0.583,0.834,0,-4.875,1,0.0444,0.0495,0.0,0.0658,173.935,4,178203
-spotify:track:7qEHsqek33rTcFNT9PFqLf,lewis capaldi,someone you loved,4,168,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,109.891,4,182161
-spotify:track:7hU3IHwjX150XLoTVmjD0q,lisa,money,5,28,0.831,0.554,1,-9.998,0,0.218,0.161,6.12e-05,0.152,140.026,4,168228
-spotify:track:0k4d5YPDr1r7FX77VdqWez,"doja cat, the weeknd",you right,15,39,0.828,0.621,8,-6.414,1,0.0565,0.0164,0.00233,0.0845,128.986,4,186173
-spotify:track:2Gq636OOGgxCTqEuzCZhsa,"bizarrap, tiago pzk","tiago pzk: bzrp music sessions, vol. 48",37,12,0.656,0.823,1,-3.059,0,0.315,0.47,0.0,0.103,96.474,4,160000
-spotify:track:3AJwUDP919kvQ9QcozQPxg,coldplay,yellow,101,66,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,173.372,4,266773
-spotify:track:69vlMrzHwATKzupwNcUPyK,"bad bunny, daddy yankee",la santa,14,23,0.744,0.868,1,-4.524,1,0.047,0.0326,0.0,0.0822,93.037,4,206420
-spotify:track:62Yo3FDddWY8ydu6PW2wyz,jack harlow,nail tech,36,5,0.677,0.557,1,-8.409,1,0.0694,0.00508,8.36e-06,0.0984,150.127,4,206385
-spotify:track:0NBgyml7T0IvUNbXIkcSpH,"xamã, gustah, neo beats",malvadão 3,33,13,0.821,0.609,6,-6.541,0,0.268,0.378,0.0,0.136,133.133,4,141770
-spotify:track:68Dni7IE4VyPkTOH9mRWHr,j. cole,no role modelz,113,35,0.69,0.521,10,-8.492,0,0.339,0.324,0.0,0.0534,100.028,4,292799
-spotify:track:5TXDeTFVRVY7Cvt0Dw4vWW,xxxtentacion,revenge,63,12,0.746,0.251,11,-16.169,0,0.259,0.782,0.00203,0.106,139.999,4,120027
-spotify:track:6EtKlIQmGPB9SX8UjDJG5s,labrinth,formula,68,10,0.574,0.664,11,-6.068,1,0.0409,0.0448,0.0553,0.146,144.654,4,91870
-spotify:track:0dcnrLo8s1rhjm8euGjI4n,treasure,darari,102,4,0.716,0.638,0,-6.87,1,0.0392,0.486,0.0,0.0702,84.955,4,220716
-spotify:track:7EkWXAI1wn8Ii883ecd9xr,surf curse,freaks,55,47,0.345,0.941,9,-9.918,1,0.0466,3.84e-05,0.633,0.0511,179.626,4,147062
-spotify:track:2BcMwX1MPV6ZHP4tUT9uq6,"drake, 21 savage, project pat",knife talk (with 21 savage ft. project pat),10,29,0.849,0.424,5,-9.579,0,0.324,0.0635,0.0,0.0834,145.887,4,242966
-spotify:track:78kygHp1dvW1kncYjBgbe1,ryan castro,mujeriego,92,8,0.758,0.621,9,-8.033,1,0.125,0.0628,0.0,0.0809,79.949,4,142500
-spotify:track:1UdzJEpgJxtuXAlCOvD4S0,danny ocean,fuera del mercado,122,1,0.453,0.673,8,-5.649,1,0.144,0.32,0.0,0.131,92.06,4,159849
-spotify:track:3sd2p4kE7xQmFH3lPnFl6h,"davi kneip, mc frog, dj gabriel do borel, luísa sonza",sentadona (remix) s2,123,1,0.925,0.454,3,-3.533,0,0.273,0.252,4.19e-06,0.128,135.02,4,125245
-spotify:track:0UXlu64mDLvfzR8IXMz06J,christian nodal,ya no somos ni seremos,37,5,0.588,0.452,7,-4.75,1,0.0268,0.437,0.0,0.344,139.953,4,185723
-spotify:track:0G2zPzWqVjR68iNPmx2TBe,"mora, bad bunny, sech",volando - remix,19,37,0.659,0.688,6,-4.649,1,0.0673,0.207,0.0,0.113,153.979,4,273474
-spotify:track:2tpWsVSb9UEmDRxAl1zhX1,onerepublic,counting stars,117,54,0.664,0.705,1,-4.972,0,0.0382,0.0654,0.0,0.118,122.016,4,257267
-spotify:track:3GaGWoU1KfVqgl7vnRHP55,c. tangana,demasiadas mujeres,127,3,0.658,0.453,9,-7.378,0,0.39,0.131,0.0002,0.0848,126.043,4,153960
-spotify:track:0gucTLf7trAf37Ua1uAyAu,nirvana,smells like teen spirit,109,63,0.489,0.918,1,-4.502,1,0.0554,3.53e-05,7.64e-05,0.0908,116.731,4,300893
-spotify:track:2J2Z1SkXYghSajLibnQHOa,sia,unstoppable,112,6,0.468,0.779,9,-4.839,1,0.0779,0.112,0.000373,0.101,173.799,4,217747
-spotify:track:1u8c2t2Cy7UBoG4ArRcF5g,taylor swift,blank space,130,20,0.76,0.703,5,-5.412,1,0.054,0.103,0.0,0.0913,95.997,4,231827
-spotify:track:3Oww84xrmgjyr5J1ilOmAf,"luude, colin hay",down under (feat. colin hay),72,10,0.308,0.86,11,-4.111,0,0.168,0.0116,0.000828,0.277,171.835,4,158774
-spotify:track:5E30LdtzQTGqRvNd7l6kG5,the neighbourhood,daddy issues,99,76,0.588,0.521,10,-9.461,1,0.0329,0.0678,0.149,0.123,85.012,4,260173
-spotify:track:5g7sDjBhZ4I3gcFIpkrLuI,bruno mars,locked out of heaven,111,12,0.728,0.697,5,-4.125,1,0.0456,0.0556,0.0,0.282,143.986,4,233653
-spotify:track:4xkOaSrkexMciUUogZKVTS,"eminem, nate dogg",'till i collapse,81,39,0.548,0.847,1,-3.237,1,0.186,0.0622,0.0,0.0816,171.447,4,297787
-spotify:track:1nH2PkJL1XoUq8oE6tBZoU,the weeknd,sacrifice,3,11,0.735,0.795,11,-6.523,0,0.113,0.0296,3.18e-05,0.0678,122.0,4,188918
-spotify:track:1XGmzt0PVuFgQYYnV2It7A,"maroon 5, wiz khalifa",payphone,136,14,0.743,0.752,4,-4.813,1,0.0414,0.0188,0.0,0.287,110.015,4,231173
-spotify:track:0fea68AdmYNygeTGI4RC18,"j balvin, bad bunny",la canción,17,64,0.754,0.646,7,-5.795,1,0.317,0.152,1.85e-05,0.108,176.089,4,242573
-spotify:track:0y60itmpH0aPKsFiGxmtnh,willow,wait a minute!,138,1,0.764,0.705,3,-5.279,0,0.0278,0.0371,1.94e-05,0.0943,101.003,4,196520
-spotify:track:1ojBtNRMzjL7ptLPZCzfRz,"kevin gates, juicy j",thinking with my dick (feat. juicy j),128,2,0.77,0.699,0,-6.59,1,0.199,0.0596,1.65e-05,0.17,81.003,4,165315
-spotify:track:7qiZfU4dY1lWllzX7mPBI3,ed sheeran,shape of you,1,269,0.825,0.652,1,-3.183,0,0.0802,0.581,0.0,0.0931,95.977,4,233713
-spotify:track:0ct6r3EGTcMLPtrXHDvVjc,avicii,the nights,44,54,0.527,0.835,6,-5.298,1,0.0433,0.0166,0.0,0.249,125.983,4,176658
-spotify:track:1DIXPcTDzTj8ZMHt3PDt8p,"coolio, l.v.",gangsta's paradise,116,22,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,79.975,4,240693
-spotify:track:6K5ph5mq1qprHae3TrgTj5,jessica darrow,"surface pressure - from ""encanto""/soundtrack version",23,12,0.652,0.583,2,-8.302,1,0.322,0.0165,1.65e-06,0.042,180.042,4,202227
-spotify:track:7yq4Qj7cqayVTp3FF9CWbm,vance joy,riptide,122,64,0.484,0.731,1,-6.694,1,0.0379,0.431,0.0,0.151,101.654,4,204280
-spotify:track:0W6I02J9xcqK8MtSeosEXb,doja cat,get into it (yuh),36,34,0.912,0.655,8,-6.029,0,0.162,0.315,3.39e-05,0.0894,91.942,4,138293
-spotify:track:6f5ExP43esnvdKPddwKXJH,"neiked, mae muller, polo g",better days (neiked x mae muller x polo g),32,23,0.717,0.671,0,-5.077,0,0.0337,0.0018,2.54e-06,0.0921,110.054,4,160657
-spotify:track:4u7EnebtmKWzUH433cf5Qv,queen,bohemian rhapsody - remastered 2011,11,182,0.414,0.404,0,-9.928,0,0.0499,0.271,0.0,0.3,71.105,4,354320
-spotify:track:48QmG1dfvMuYLxMPt7KSRA,"sean paul, dua lipa",no lie,80,34,0.742,0.882,7,-2.862,1,0.117,0.0466,0.0,0.206,102.04,4,221176
-spotify:track:7gVzhRCrLRUBEGdS7zNTp0,zé felipe,malvada,58,7,0.894,0.859,5,-2.981,0,0.0471,0.159,0.000153,0.075,134.947,4,145854
-spotify:track:0bI7K9Becu2dtXK1Q3cZNB,"tiësto, karol g",don't be shy,38,32,0.77,0.787,11,-3.748,0,0.0583,0.198,0.0,0.262,119.986,4,140500
-spotify:track:0tgVpDi06FyKpA1z0VMD4v,ed sheeran,perfect,4,262,0.599,0.448,8,-6.312,1,0.0232,0.163,0.0,0.106,95.05,3,263400
-spotify:track:6hH6QJ9ZAO0Z6m7PfvLoXW,rosalía,chicken teriyaki,152,1,0.788,0.4,2,-6.454,1,0.115,0.454,0.000141,0.0686,97.936,4,122227
-spotify:track:1zi7xx7UVEFkmKfv06H8x0,"drake, wizkid, kyla",one dance,12,120,0.792,0.625,1,-5.609,1,0.0536,0.00776,0.0018,0.329,103.967,4,173987
-spotify:track:2BEcap3xJtmiPaHKyfQi4e,"rvssian, rauw alejandro, chris brown",nostálgico,40,28,0.734,0.846,9,-3.425,0,0.0489,0.166,1.74e-06,0.235,98.026,4,209884
-spotify:track:4jPy3l0RUwlUI9T5XHBW2m,"24kgoldn, iann dior",mood (feat. iann dior),1,85,0.701,0.716,7,-3.671,0,0.0361,0.174,0.0,0.324,91.007,4,140533
-spotify:track:003vvx7Niy0yvhvHt4a68B,the killers,mr. brightside,98,87,0.352,0.911,1,-5.23,1,0.0747,0.00121,0.0,0.0995,148.033,4,222973
-spotify:track:4bV5sf2B4hWBBd5HQ8S7KB,"4*town (from disney and pixar’s turning red), jordan fisher, finneas o'connell, topher ngo, grayson villanueva, josh levi",nobody like u,157,1,0.905,0.631,9,-10.06,0,0.177,0.129,0.0,0.101,105.026,4,160947
-spotify:track:5enxwA8aAbwZbf5qCHORXi,taylor swift,all too well (10 minute version) (taylor's version) (from the vault),1,19,0.631,0.518,0,-8.771,1,0.0303,0.274,0.0,0.088,93.023,4,613027
-spotify:track:21jGcNKet2qwijlDFuPiPb,post malone,circles,1,134,0.695,0.762,0,-3.497,1,0.0395,0.192,0.00244,0.0863,120.042,4,215280
-spotify:track:5kqNIqFjijuzvVLhuY9B8j,bad bunny,la zona,60,7,0.762,0.801,1,-3.661,0,0.0409,0.2,7.04e-05,0.254,93.992,4,136893
-spotify:track:3dYD57lRAUcMHufyqn9GcI,hozier,take me to church,108,75,0.566,0.664,4,-5.303,0,0.0464,0.634,0.0,0.116,128.945,4,241688
-spotify:track:4xqrdfXkTW4T0RauPLv3WA,conan gray,heather,12,87,0.357,0.425,5,-7.301,1,0.0333,0.584,0.0,0.322,102.078,3,198040
-spotify:track:7iL6o9tox1zgHpKUfh9vuC,50 cent,in da club,77,6,0.899,0.713,6,-2.752,0,0.366,0.255,0.0,0.0708,90.051,4,193467
-spotify:track:5719MEdRQcH4c3phXqX7WN,"hugo & guilherme, marília mendonça",mal feito - ao vivo,72,10,0.732,0.831,0,-3.791,0,0.0691,0.554,0.0,0.903,123.942,4,177935
-spotify:track:4UPQiDmYScn2C6S2C2WATY,pharrell williams,just a cloud away,165,1,0.888,0.459,2,-8.154,1,0.0357,0.426,0.0,0.11,112.56,3,176078
-spotify:track:4UG2Fm0E98LhE2dlNxiAXx,jvke,this is what falling in love feels like,142,3,0.424,0.438,11,-5.53,1,0.0553,0.617,0.0,0.0837,128.983,5,120308
-spotify:track:2N8m6CYs74qQO4mjVcXO30,tones and i,dance monkey,1,140,0.824,0.587,6,-6.401,0,0.0937,0.69,0.000105,0.149,98.029,4,209438
-spotify:track:2tGvwE8GcFKwNdAXMnlbfl,olivia rodrigo,happier,12,44,0.395,0.443,6,-9.72,1,0.133,0.765,9.67e-06,0.0839,168.924,3,175933
-spotify:track:2ZRo7axmMPeSVUvDbGkJah,xxxtentacion,hope,42,35,0.592,0.457,9,-6.081,0,0.0603,0.661,0.000331,0.146,146.04,4,110886
-spotify:track:5W1qmxHrMlQGGAiFA3ZQqP,"dímelo flow, dalex, sech, justin quiles, arcangel, de la ghetto, lenny tavárez",se le ve,110,12,0.562,0.755,7,-4.367,0,0.112,0.0967,2.25e-05,0.143,83.997,4,277693
-spotify:track:07MDkzWARZaLEdKxo6yArG,"the anxiety, willow, tyler cole",meet me at our spot,24,29,0.773,0.47,2,-7.93,1,0.0299,0.0153,0.000193,0.0851,94.995,4,162680
-spotify:track:0nrRP2bk19rLc0orkWPQk2,avicii,wake me up,13,68,0.532,0.783,2,-5.697,1,0.0523,0.0038,0.0012,0.161,124.08,4,247427
-spotify:track:2dG9k8jtnkjzJjUToz9i9i,"bizarrap, residente","residente: bzrp music sessions, vol. 49",18,3,0.586,0.74,1,-2.997,0,0.404,0.555,0.0,0.11,71.378,3,519289
-spotify:track:4gvrJnKCKIPiacNsWVQwEU,"ckay, dj yo!, ax'el",love nwantiti (feat. dj yo! & ax'el) - remix,14,27,0.579,0.596,8,-4.823,1,0.0561,0.436,0.0938,0.0549,119.9,3,188369
-spotify:track:3vySEUpD0tc801F2WZDLYw,"tyga, doja cat",freaky deaky,83,4,0.799,0.653,2,-5.453,0,0.037,0.019,0.0,0.0935,104.019,4,215281
-spotify:track:29m79w9xPMH4YCD6r8JSmV,"ap dhillon, gurinder gill, intense",excuses,56,10,0.837,0.717,5,-7.749,0,0.0822,0.0842,0.0,0.149,94.984,4,176233
-spotify:track:48q0vSHcJdhK3IiXH8C5WJ,arctic monkeys,why'd you only call me when you're high?,104,33,0.691,0.631,2,-6.478,1,0.0368,0.0483,1.13e-05,0.104,92.004,4,161124
-spotify:track:285pBltuF7vW8TeWk8hdRR,juice wrld,lucid dreams,3,194,0.511,0.566,6,-7.23,0,0.2,0.349,0.0,0.34,83.903,4,239836
-spotify:track:2vXKRlJBXyOcvZYTdNeckS,"gesaffelstein, the weeknd",lost in the fire (feat. the weeknd),12,21,0.658,0.671,2,-12.21,1,0.0363,0.0933,0.000927,0.115,100.966,4,202093
-spotify:track:4kXxEhuatrvwrTQycA7s9B,rosalía,bizcochito,180,1,0.93,0.774,1,-4.203,1,0.0744,0.605,0.0238,0.12,116.972,4,109120
-spotify:track:7FIWs0pqAYbP91WWM0vlTQ,"eminem, juice wrld",godzilla (feat. juice wrld),4,76,0.808,0.745,10,-5.26,0,0.342,0.145,0.0,0.292,165.995,4,210800
-spotify:track:22skzmqfdWrjJylampe0kt,"macklemore & ryan lewis, macklemore, ryan lewis, ray dalton",can't hold us (feat. ray dalton),149,22,0.633,0.927,2,-4.468,1,0.0839,0.0267,0.0,0.0986,146.097,4,258432
-spotify:track:35mvY5S1H3J2QZyna3TFe0,ariana grande,positions,1,74,0.737,0.802,0,-4.771,1,0.0878,0.468,0.0,0.0931,144.015,4,172325
-spotify:track:7BbaIYAdi3pg4MGl6PHwPv,yeat,monëy so big,184,3,0.693,0.575,2,-7.633,1,0.0906,0.121,0.0,0.104,138.016,4,160052
-spotify:track:161DnLWsx1i3u1JT05lzqU,bruno mars,talking to the moon,45,50,0.498,0.59,1,-4.721,0,0.032,0.511,0.0,0.107,145.867,4,217867
-spotify:track:4kroNlz8BTfswE4M0i3YCh,rosalía,hentai,186,1,0.583,0.297,7,-11.273,0,0.406,0.879,0.0,0.127,124.279,3,162907
-spotify:track:5lAnYvAIkSDNXqfo7DyFUm,doja cat,ain't shit,22,21,0.855,0.488,3,-4.601,1,0.208,0.506,0.0,0.347,124.097,4,174253
-spotify:track:02VBYrHfVwfEWXk5DXyf0T,"bruno mars, anderson .paak, silk sonic",leave the door open,5,55,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,148.088,4,242096
-spotify:track:0IGUXY4JbK18bu9oD4mPIm,(g)i-dle,tomboy,189,1,0.755,0.87,1,-2.414,0,0.0936,0.00988,0.0,0.0917,124.032,4,174387
-spotify:track:6RUKPb4LETWmmr3iAEQktW,"the chainsmokers, coldplay",something just like this,2,172,0.617,0.635,11,-6.769,0,0.0317,0.0498,1.44e-05,0.164,103.019,4,247160
-spotify:track:2USlegnFJLrVLpoVfPimKB,"gabry ponte, lum!x, prezioso",thunder,110,16,0.67,0.896,1,-4.673,1,0.058,0.0342,3.21e-05,0.344,101.216,3,160000
-spotify:track:39LLxExYz6ewLAcYrzQQyP,dua lipa,levitating,52,38,0.695,0.884,6,-2.278,0,0.0753,0.0561,0.0,0.213,103.014,4,203808
-spotify:track:3rq5w4bQGigXOfdN30ATJt,arctic monkeys,do i wanna know?,117,34,0.548,0.532,5,-7.596,1,0.0323,0.186,0.000263,0.217,85.03,4,272394
-spotify:track:53RxHysDJ0cjugMcPymwja,luan santana,abalo emocional - ao vivo,194,1,0.441,0.915,3,-4.096,0,0.112,0.306,0.0,0.252,185.936,4,153226
-spotify:track:6v3KW9xbzN5yKLt9YKDYA2,"shawn mendes, camila cabello",señorita,1,138,0.759,0.548,9,-6.049,0,0.029,0.0392,0.0,0.0828,116.967,4,190800
-spotify:track:3UmaczJpikHgJFyBTAJVoz,"eminem, dido",stan,138,6,0.78,0.768,6,-4.325,0,0.238,0.0371,2.34e-06,0.518,80.063,4,404107
-spotify:track:2gMXnyrvIjhVBUZwvLZDMP,lewis capaldi,before you go,19,122,0.459,0.575,3,-4.858,1,0.0573,0.604,0.0,0.0885,111.881,4,215107
-spotify:track:7H0ya83CMmgFcOhw0UB6ow,beach house,space song,174,10,0.508,0.792,0,-7.311,0,0.0297,0.229,0.124,0.145,147.067,4,320467
-spotify:track:5uCax9HTNlzGybIStD3vDh,james arthur,say you won't let go,7,268,0.358,0.557,10,-7.398,1,0.059,0.695,0.0,0.0902,85.043,4,211467
-spotify:track:60ynsPSSKe6O3sfwRnIBRf,doja cat,streets,9,45,0.749,0.463,11,-8.433,1,0.0842,0.21,0.0382,0.338,90.035,4,226987
-spotify:track:2tTmW7RDtMQtBk7m2rYeSw,"bizarrap, quevedo","quevedo: bzrp music sessions, vol. 52",1,5,0.621,0.782,2,-5.548,1,0.044,0.0125,0.033,0.23,128.033,4,198938
-spotify:track:4Dvkj6JhhA12EX05fT7y2e,harry styles,as it was,1,19,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,173.93,4,167303
-spotify:track:6Sq7ltF9Qa7SNFBsV5Cogx,"bad bunny, chencho corleone",me porto bonito,2,14,0.911,0.712,1,-5.105,0,0.0817,0.0901,2.68e-05,0.0933,92.005,4,178567
-spotify:track:1IHWl5LamUGEuP4ozKQSXZ,bad bunny,tití me preguntó,4,14,0.65,0.715,5,-5.198,0,0.253,0.0993,0.000291,0.126,106.672,4,243717
-spotify:track:75FEaRjZTKLhTrFGsfMUXR,kate bush,running up that hill (a deal with god),1,11,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,108.375,4,298933
-spotify:track:5ildQOEKmJuWGl2vRkFdYc,rosalía,despechá,6,2,0.919,0.623,7,-6.521,1,0.0992,0.184,1.63e-05,0.0609,130.037,4,157018
-spotify:track:5Eax0qFko2dh7Rl2lYs3bx,bad bunny,efecto,7,14,0.801,0.475,7,-8.797,0,0.0516,0.141,1.73e-05,0.0639,98.047,4,213061
-spotify:track:6xGruZOHLs39ZbVccQTuPZ,joji,glimpse of us,1,9,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,169.914,3,233456
-spotify:track:3k3NWokhRRkEPhCzPmV8TW,"bad bunny, bomba estéreo",ojitos lindos,3,14,0.647,0.686,3,-5.745,0,0.0413,0.08,1.34e-06,0.528,79.928,4,258299
-spotify:track:4k6Uh1HXdhtusDW5y8Gbvy,steve lacy,bad habit,10,5,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,168.946,4,232067
-spotify:track:6Xom58OOXk2SoU711L2IXO,bad bunny,moscow mule,2,14,0.804,0.674,5,-5.453,0,0.0333,0.294,1.18e-06,0.115,99.968,4,245940
-spotify:track:5ww2BF9slyYgNOk37BlC4u,manuel turizo,la bachata,13,6,0.835,0.679,7,-5.329,0,0.0364,0.583,1.98e-06,0.218,124.98,4,162638
-spotify:track:7dSZ6zGTQx66c2GF91xCrb,karol g,provenza,6,16,0.87,0.516,1,-8.006,1,0.0541,0.656,0.00823,0.11,111.005,4,210200
-spotify:track:0xzI1KAr0Yd9tv8jlIk3sn,"benny blanco, bts, snoop dogg",bad decisions (with bts & snoop dogg),15,1,0.762,0.861,0,-3.296,1,0.0955,0.0185,0.0,0.264,120.048,4,172714
-spotify:track:4h9wh7iOZ0GGn8QVp4RAOB,onerepublic,i ain't worried,13,10,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,139.994,4,148486
-spotify:track:0mBP9X2gPCuapvpZ7TGDk3,"charlie puth, jung kook, bts",left and right (feat. jung kook of bts),7,7,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,101.058,4,154487
-spotify:track:3LtpKP5abr2qqjunvjlX5i,central cee,doja,15,3,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,140.04,4,97393
-spotify:track:5pyoxDZ1PX0KxBxiRVxA4U,beyoncé,break my soul,12,8,0.693,0.887,1,-5.039,0,0.0795,0.0581,2.71e-06,0.27,114.942,4,278282
-spotify:track:6HMtHNpW6YPi1hrw9tgF8P,lizzo,about damn time,9,15,0.836,0.743,10,-6.305,0,0.0653,0.0974,0.0,0.335,108.965,4,191938
-spotify:track:0g2Bbgy7P41pFjMWJuzsf4,"dj khaled, drake, lil baby",staying alive (feat. drake & lil baby),21,1,0.718,0.461,4,-7.676,0,0.0797,0.068,0.0,0.283,129.953,4,178176
-spotify:track:41oY4WCTj5kccfesTVFnvN,"bad bunny, jhay cortez",tarot,9,14,0.795,0.684,11,-3.971,0,0.0419,0.0225,0.0,0.658,114.011,4,237895
-spotify:track:2rurDawMfoKP4uHyb2kJBt,"shakira, rauw alejandro",te felicito,13,16,0.695,0.636,5,-4.654,1,0.317,0.234,0.0,0.081,174.14,4,172235
-spotify:track:76OGwb5RA9h4FxQPT33ekc,rosa linn,snap,26,5,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,170.01,4,179551
-spotify:track:1qEmFfgcLObUfQm0j1W2CK,harry styles,late night talking,2,12,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,114.996,4,177955
-spotify:track:4tYFy8ALRjIZvnvSLw5lxN,"bad bunny, rauw alejandro",party,6,14,0.829,0.799,9,-5.389,1,0.0897,0.0151,0.000543,0.242,97.013,4,227629
-spotify:track:0O6u0VJ46W86TxN9wgyqDj,"post malone, doja cat",i like you (a happier song) (with doja cat),10,10,0.733,0.67,5,-6.009,1,0.0751,0.121,0.0,0.121,100.964,4,192841
-spotify:track:3F5CgOj3wFlRv51JsHbxhe,"drake, 21 savage",jimmy cooks (feat. 21 savage),7,8,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,165.921,4,218365
-spotify:track:5IgjP7X4th6nMNDh4akUHb,chris brown,under the influence,32,3,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,116.992,4,184613
-spotify:track:4h4QlmocP3IuwYEj2j14p8,"nicky youre, dazy",sunroof,28,14,0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,131.443,4,163026
-spotify:track:4zN21mbAuaD0WqtmaTZZeP,"james hype, miggy dela rosa",ferrari,36,10,0.847,0.69,1,-7.877,0,0.0493,0.0127,6e-05,0.0526,125.004,4,186662
-spotify:track:1797zYiX4cKosMH836X9Gt,"bad bunny, tony dize",la corriente,17,14,0.663,0.786,11,-3.51,0,0.195,0.229,0.0,0.219,196.12,4,198367
-spotify:track:7ef4DlsgrMEH11cDZd32M6,"calvin harris, dua lipa",one kiss (with dua lipa),2,83,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,123.994,4,214847
-spotify:track:0hquQWY3xvYqN4qtiquniF,doja cat,vegas (from the original motion picture soundtrack elvis),26,10,0.801,0.601,8,-7.574,0,0.255,0.0777,3.23e-05,0.145,159.969,4,182907
-spotify:track:2LBqCSwhJGcFQeTHMVGwy3,the weeknd,die for you,41,26,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,133.629,4,260253
-spotify:track:0T5iIrXA4p5GsubkhuBIKV,stephen sanchez,until i found you,30,14,0.539,0.508,10,-6.05,1,0.0288,0.727,0.0,0.174,101.358,3,177720
-spotify:track:0wHFktze2PHC5jDt3B17DC,jack harlow,first class,2,18,0.902,0.582,5,-5.902,0,0.109,0.111,3.18e-06,0.111,107.005,4,173948
-spotify:track:6VBhH7CyP56BXjp8VsDFPZ,"pritam, arijit singh, amitabh bhattacharya","kesariya (from ""brahmastra"")",33,4,0.577,0.574,0,-6.525,1,0.0278,0.572,0.0,0.1,94.009,4,268165
-spotify:track:1dm6z1fWB0cErMszU25dy2,bad bunny,después de la playa,7,14,0.564,0.903,5,-3.221,1,0.307,0.356,0.0,0.175,78.293,4,230400
-spotify:track:3fjN3y5x4hN53rykAN2LHQ,rels b,cómo dormiste?,53,1,0.627,0.429,1,-8.255,1,0.234,0.238,0.0,0.122,126.426,5,112572
-spotify:track:4hceSKjrkDTO0nMKFcb3sj,"bizarrap, villano antillano","villano antillano: bzrp music sessions, vol. 51",45,9,0.82,0.752,1,-7.635,0,0.0648,0.0584,0.00417,0.628,127.999,4,187500
-spotify:track:6DoL1yYIwEW7VZMRaJhoJI,"chris jedi, anuel aa, chencho corleone, ñengo flow",la llevo al cielo (ft. ñengo flow),53,12,0.795,0.845,9,-3.809,0,0.135,0.105,1.14e-05,0.172,170.023,4,254920
-spotify:track:1Hohk6AufHZOrrhMXZppax,beyoncé,alien superstar,24,2,0.545,0.641,10,-6.398,0,0.0998,0.00453,6.59e-05,0.171,121.892,4,215460
-spotify:track:59nOXPmaKlBfGMDeOVGrIK,"future, drake, tems",wait for u (feat. drake & tems),10,15,0.463,0.642,1,-4.474,1,0.34,0.314,0.0,0.0686,83.389,4,189893
-spotify:track:5CzixCxDkRXX9mScCmah8O,bad bunny,un ratito,10,14,0.787,0.546,0,-7.094,0,0.0532,0.305,4.55e-05,0.122,93.05,4,176936
-spotify:track:2bbwjxA68m9PHZFWgF1fze,duki,givenchy,25,3,0.607,0.619,8,-6.726,1,0.396,0.142,0.0,0.231,102.974,3,182611
-spotify:track:31i56LZnwE6uSu3exoHjtB,bad bunny,neverita,15,14,0.876,0.498,10,-7.511,1,0.0478,0.0706,0.0,0.143,122.016,4,173119
-spotify:track:09mEdoA6zrmBPgTEN5qXmN,the weeknd,call out my name,1,42,0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,134.17,3,228373
-spotify:track:3hUxzQpSfdDqwM3ZTFQY0K,taylor swift,august,11,7,0.532,0.623,5,-9.208,1,0.0331,0.538,7.28e-05,0.0925,89.937,4,261923
-spotify:track:2z9YkcLojiOE7Eu2p9lPZR,feid,normal,57,5,0.712,0.557,4,-4.861,0,0.115,0.0397,0.0,0.27,170.079,4,171987
-spotify:track:1xzi1Jcr7mEi9K2RfzLOqS,beyoncé,cuff it,30,2,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,115.042,4,225389
-spotify:track:1cKHdTo9u0ZymJdPGSh6nq,"the weeknd, gesaffelstein",i was never there,17,10,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,113.26,4,241067
-spotify:track:6wtZPYBIXUvCpXwVjMCJBf,"polimá westcoast, pailita, feid, paloma mami, de la ghetto",ultra solo remix,44,8,0.909,0.824,1,-4.627,1,0.0797,0.0777,0.00387,0.0638,109.97,4,322347
-spotify:track:4cacyP5c3PMlfnyjpg13xW,yung gravy,betty (get money),78,5,0.723,0.772,1,-6.784,1,0.0792,0.00524,1.15e-05,0.367,102.004,4,146471
-spotify:track:7gwT3HGL84vF7bgtwL1N88,lasso,ojos marrones,72,6,0.809,0.649,8,-4.433,0,0.0416,0.0407,0.0,0.145,120.014,4,198520
-spotify:track:2MuWTIM3b0YEAskbeeFE1i,metallica,master of puppets,20,6,0.543,0.836,4,-9.11,0,0.0353,0.000647,0.431,0.153,105.173,4,515387
-spotify:track:7MXVkk9YMctZqd1Srtv4MB,"the weeknd, daft punk",starboy,1,97,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,186.003,4,230453
-spotify:track:44XjoNvtwevktFKjvVe1vH,"bad bunny, buscabulla",andrea,21,14,0.797,0.616,1,-10.229,0,0.375,0.762,0.000293,0.0979,103.071,4,339612
-spotify:track:6VrQTLzzuyGIYjUDe4kAZk,bad bunny,un coco,25,14,0.839,0.69,11,-4.464,1,0.0615,0.207,8.33e-06,0.176,151.991,4,196413
-spotify:track:02jLfqc9gMo8PkHEGHY3OT,feid,si te la encuentras por ahí,86,1,0.743,0.576,8,-3.552,0,0.076,0.151,5.87e-05,0.128,171.945,4,191573
-spotify:track:7fZBQnc0zXwVybgCIrQQil,"imanbek, byor",belly dancer,77,11,0.845,0.797,1,-4.984,1,0.139,0.0582,5.57e-06,0.167,121.985,4,151475
-spotify:track:5YbPxJwPfrj7uswNwoF1pJ,burna boy,last last,93,5,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,87.925,4,172342
-spotify:track:4d4ZXH4dr5bYfgErHiZCX2,bad bunny,dos mil 16,19,14,0.817,0.67,1,-6.534,1,0.0506,0.123,1.92e-06,0.128,130.058,3,208615
-spotify:track:6clzeGvi1CFioMOolbAOlX,"calvin harris, justin timberlake, halsey, pharrell williams","stay with me (with justin timberlake, halsey & pharrell)",86,3,0.81,0.733,9,-6.338,1,0.0444,0.276,6.73e-06,0.288,125.975,4,229283
-spotify:track:7a8GawTVgHZvBLQOh46he7,arctic monkeys,i wanna be yours,103,5,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,67.528,4,183956
-spotify:track:4RvWPyQ5RL0ao9LPZeSouE,tears for fears,everybody wants to rule the world,105,10,0.645,0.795,7,-12.095,1,0.0527,0.347,0.00389,0.104,112.067,4,251489
-spotify:track:1R0a2iXumgCiFb7HEZ7gUE,taylor swift,don’t blame me,72,13,0.615,0.534,9,-6.719,0,0.0386,0.106,1.76e-05,0.0607,135.917,4,236413
-spotify:track:62ke5zFUJN6RvtXZgVH0F8,paloma faith,only love can hurt like this,93,12,0.566,0.885,8,-4.528,1,0.0818,0.0958,9.97e-05,0.334,90.99,4,232893
-spotify:track:1JSTJqkT5qHq8MDJnJbRE1,the police,every breath you take,109,61,0.82,0.452,1,-9.796,1,0.0348,0.543,0.00294,0.0714,117.401,4,253920
-spotify:track:1ei3hzQmrgealgRKFxIcWn,benson boone,in the stars,54,15,0.362,0.54,10,-6.031,1,0.0528,0.338,0.0,0.139,78.007,3,216410
-spotify:track:0zCgWGmDF0aih5qexATyBn,mr.kitty,after dark,112,17,0.579,0.601,8,-10.492,1,0.0322,0.0673,0.414,0.0778,140.019,4,257147
-spotify:track:5kVZxyMY1gfdCLiChsfjn1,bad bunny,yo no soy celoso,11,14,0.872,0.588,0,-6.276,1,0.0492,0.275,0.0,0.17,142.004,4,230704
-spotify:track:5O2P9iiztwhomNh8xkR9lJ,one direction,night changes,111,11,0.672,0.52,8,-7.747,1,0.0353,0.859,0.0,0.115,120.001,4,226600
-spotify:track:7fBv7CLKzipRk6EC6TWHOB,the weeknd,the hills,52,50,0.585,0.564,0,-7.063,0,0.0515,0.0671,0.0,0.135,113.003,4,242253
-spotify:track:3GYlZ7tbxLOxe6ewMNVTkw,billie eilish,tv,27,3,0.412,0.236,4,-15.159,0,0.0379,0.83,0.00653,0.147,140.214,4,281381
-spotify:track:28GCbKgjlVD9eDmasGbe0T,bad bunny,me fui de vacaciones,14,14,0.714,0.645,10,-5.493,1,0.0514,0.229,0.00083,0.0942,85.046,4,180930
-spotify:track:5jt25aFjW2kNoBqaEVaz5W,"mora, feid",la inocente,121,6,0.757,0.789,5,-3.46,0,0.0583,0.307,0.0,0.0717,91.911,4,202174
-spotify:track:1FEiijYPJtyswChfcpv3p0,lana del rey,summertime sadness,122,3,0.568,0.646,1,-6.793,0,0.0332,0.0464,0.0,0.121,111.945,4,264773
-spotify:track:1Fid2jjqsHViMX6xNH70hE,seafret,atlantis,126,3,0.4,0.479,8,-7.989,0,0.0308,0.0529,2.14e-06,0.115,166.159,4,229173
-spotify:track:10xV5l9nhLvFpR8mqzs0bL,"marshmello, khalid",numb,114,9,0.912,0.774,0,-4.673,0,0.0455,0.121,0.0127,0.101,119.966,4,155589
-spotify:track:0OTNHGKcqQbk51bOYe462Y,"polimá westcoast, pailita",ultra solo,42,16,0.802,0.846,1,-4.495,1,0.207,0.233,1.92e-05,0.114,109.982,4,227221
-spotify:track:3BnDvpeuGOj21Ir2aVEtQo,rema,calm down,130,5,0.814,0.789,11,-6.29,1,0.0405,0.365,0.000502,0.137,107.003,4,219669
-spotify:track:0oiv4E896TUTTeQU0cmIui,drake,massive,18,8,0.499,0.671,4,-6.774,0,0.0561,0.114,0.0169,0.148,124.994,3,336924
-spotify:track:2uflssWlCaJ6CbTMOsUpNI,bad bunny,aguacero,22,14,0.861,0.645,6,-6.96,0,0.0743,0.423,0.000592,0.349,121.391,5,210989
-spotify:track:5rJ7bdPmr8nfmm2JQ8xHOz,nayeon,pop!,68,7,0.793,0.859,2,-2.998,1,0.0544,0.0356,0.0,0.0343,97.001,4,168107
-spotify:track:3AVrVz5rK8Hrqo9YGiVGN5,cigarettes after sex,apocalypse,135,5,0.369,0.467,5,-9.018,1,0.0274,0.0194,0.46,0.109,94.473,4,290147
-spotify:track:0E0DRHf5PfMeor0ZCwB3oT,"bad bunny, the marías",otro atardecer,24,14,0.777,0.595,2,-6.79,1,0.0375,0.59,0.00139,0.0669,108.02,4,244444
-spotify:track:4w273WCBXwM4P3jTX5HkB2,"grupo marca registrada, junior h",el rescate,129,3,0.794,0.594,7,-8.698,0,0.139,0.283,0.000381,0.109,99.238,3,160897
-spotify:track:7o2CTH4ctstm8TNelqjb51,guns n' roses,sweet child o' mine,101,10,0.454,0.91,6,-7.766,1,0.0448,0.0866,0.0996,0.116,125.116,4,354520
-spotify:track:71wFwRo8xGc4lrcyKwsvba,"bad bunny, tainy",callaita,7,67,0.608,0.626,2,-4.773,1,0.301,0.597,2.16e-06,0.25,176.086,4,250534
-spotify:track:3h8tI65xdfpQyTAy7Grqwa,"calvin harris, dua lipa, young thug",potion (with dua lipa & young thug),26,10,0.824,0.697,11,-4.869,0,0.0473,0.158,4.11e-05,0.0751,99.987,4,215216
-spotify:track:1WCEAGGRD066z2Q89ObXTq,"david guetta, becky hill, ella henderson",crazy what love can do,127,14,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,122.872,4,169756
-spotify:track:40SBS57su9xLiE1WqkXOVr,lf system,afraid to feel,150,5,0.578,0.912,1,-3.929,1,0.114,0.0166,0.00362,0.273,127.87,4,177525
-spotify:track:1gH1h30wkQdd9zhY3j7a8T,rex orange county,the shade,161,3,0.898,0.509,5,-7.973,1,0.062,0.391,0.0,0.0876,119.869,4,181507
-spotify:track:32vE1nuG8T9c8bhmZdRY6d,"post malone, roddy ricch",cooped up (with roddy ricch),18,13,0.669,0.773,0,-5.619,1,0.153,0.038,0.0,0.113,93.923,4,185857
-spotify:track:5gDWsRxpJ2lZAffh5p7K0w,"the weeknd, lana del rey",stargirl interlude,168,4,0.715,0.47,5,-12.638,0,0.0772,0.353,0.0923,0.104,89.965,4,111627
-spotify:track:0314PeD1sQNonfVWix3B2K,"beyoncé, beam",energy (feat. beam),34,2,0.903,0.519,1,-9.151,1,0.26,0.281,0.000106,0.155,114.991,4,116727
-spotify:track:6uvh0In7u1Xn4HgxOfAn8O,harry styles,matilda,5,12,0.507,0.294,2,-10.0,1,0.04,0.896,1.97e-05,0.0966,114.199,4,245964
-spotify:track:5LYMamLv12UPbemOaTPyeV,harry styles,music for a sushi restaurant,6,12,0.72,0.715,11,-4.652,1,0.04,0.258,0.0568,0.107,107.041,4,193813
-spotify:track:2DgdHcjWmO3qd50RzuBLgZ,panic! at the disco,house of memories,64,16,0.506,0.817,11,-5.051,0,0.0335,0.00272,0.0,0.0486,109.952,4,208707
-spotify:track:2SwQShWjZsxoGviEyaEMOX,ezhel,nerdesin,164,3,0.816,0.696,8,-6.75,0,0.153,0.201,0.000643,0.13,100.004,4,176268
-spotify:track:3GdWfmQBiiJrDUvSZS1bGv,"nav, lil baby, travis scott",never sleep (with lil baby feat. travis scott),101,2,0.819,0.651,1,-5.829,1,0.169,0.00639,0.0,0.122,139.957,4,185786
-spotify:track:7AwVSKaQxpidrtYBerkHKk,"ana castela, melody, dj chris no beat",pipoco,100,4,0.774,0.742,8,-4.178,1,0.0766,0.473,0.000472,0.342,134.991,4,194023
-spotify:track:48AJSd42lXpicsGqcgopof,"daddy yankee, bad bunny",x última vez,18,20,0.812,0.855,7,-3.725,1,0.0554,0.0789,0.000167,0.108,90.04,4,192477
-spotify:track:7JJmb5XwzOO8jgpou264Ml,shawn mendes,there's nothing holdin' me back,5,72,0.866,0.813,11,-4.063,0,0.0554,0.38,0.0,0.0779,121.998,4,199440
-spotify:track:2m6Ko3CY1qXNNja8AlugNc,troye sivan,angel baby,59,19,0.559,0.559,11,-6.425,1,0.0358,0.0145,0.0,0.138,72.498,4,220780
-spotify:track:3HyR1j49TY5ACP2lseF1jx,beyoncé,summer renaissance,46,2,0.674,0.625,1,-9.593,1,0.0514,0.0843,0.0015,0.11,120.004,4,273998
-spotify:track:1I4dwH7C0jBAEtz5DjlJgQ,sofia carson,come back home,193,1,0.552,0.531,7,-7.732,1,0.0421,0.241,1.21e-05,0.122,144.946,4,176859
-spotify:track:10SRMwb9EuVS1K9rYsBfHQ,bts,yet to come,7,8,0.559,0.885,1,-4.515,1,0.189,0.0432,0.0,0.333,172.029,4,193594
-spotify:track:5qaEfEh1AtSdrdrByCP7qR,imagine dragons,demons,194,2,0.505,0.71,3,-3.015,1,0.0321,0.19,0.00025,0.269,89.938,4,177507
-spotify:track:7lvDsmTRXFE3dK4OjvRiWB,"shae gill, ali sethi",pasoori,109,16,0.714,0.596,11,-6.206,0,0.043,0.0657,0.0,0.0625,91.991,4,224147
-spotify:track:4EWCNWgDS8707fNSZ1oaA5,kanye west,heartless,198,1,0.79,0.647,10,-5.983,0,0.136,0.0515,0.0,0.248,87.999,4,211000
-spotify:track:1MpCaOeUWhox2Fgigbe1cL,beyoncé,i'm that girl,33,1,0.554,0.535,5,-8.959,0,0.186,0.0616,1.32e-05,0.124,105.865,4,208014
-spotify:track:2mqTtvbKxH7SoEQ2oGAnsA,beyoncé,church girl,39,1,0.792,0.919,2,-5.688,1,0.276,0.0381,5.1e-06,0.368,92.028,4,224473
-spotify:track:0mKGwFMHzTprtS2vpR3b6s,beyoncé,cozy,50,1,0.556,0.63,7,-8.15,1,0.102,0.000828,0.00468,0.155,149.147,5,210372
-spotify:track:0Fl4eWzVaMUOdXcOrj6F1q,beyoncé,virgo's groove,77,1,0.683,0.85,11,-5.042,0,0.0699,0.0781,1.09e-06,0.741,107.988,4,368758
-spotify:track:6ufcuVInt0ocHrUimDjGlb,beyoncé,plastic off the sofa,85,1,0.618,0.712,1,-8.246,1,0.114,0.14,4.53e-06,0.575,97.057,4,254319
-spotify:track:1w7cgGZR86yWz1pA2puVJD,beyoncé,heated,93,1,0.785,0.732,1,-5.724,1,0.164,0.0636,0.000807,0.265,110.952,4,260771
-spotify:track:5YLGlPYkZBDXieMwzVve7g,"beyoncé, grace jones, tems",move (feat. grace jones & tems),96,1,0.876,0.628,1,-6.595,1,0.0935,0.0165,0.0339,0.0938,118.028,4,203383
-spotify:track:1LCm0lFnEsxR2oPqyHLGX9,beyoncé,thique,102,1,0.823,0.536,5,-10.123,0,0.319,0.0616,0.0143,0.326,128.955,4,244792
-spotify:track:4DByEumlGTZKSzuVEZ35eo,beyoncé,pure/honey,114,1,0.857,0.558,1,-7.888,1,0.134,0.0122,4.8e-05,0.288,123.973,4,288255
-spotify:track:3k4CoiIQXiNBrwrmbBMDxj,beyoncé,all up in your mind,148,1,0.744,0.577,9,-7.228,1,0.0631,0.0672,3.06e-06,0.178,135.869,4,169820
-spotify:track:2XMAWynSTIst5KmLSv0Npf,beyoncé,america has a problem,152,1,0.789,0.614,1,-6.491,1,0.0579,0.00348,0.00152,0.283,126.035,4,198898
-spotify:track:7KWKWJnbGJ3Soag6Oopion,luísa sonza,cachorrinhas,109,2,0.709,0.696,8,-4.837,0,0.275,0.16,0.0,0.248,98.119,4,134937
-spotify:track:5SHpuW2qjkQtFRpE6P9Nks,billie eilish,the 30th,64,2,0.387,0.135,7,-14.398,1,0.051,0.929,0.0,0.0948,82.987,4,216448
-spotify:track:5vC8UAOHeG95ehRzZChniB,"l7nnon, dj biel do furduncinho, bianca",ai preto,140,5,0.953,0.57,6,-5.149,1,0.245,0.537,0.0,0.0993,129.947,4,131583
-spotify:track:1c2hJSwcCfoPEw1su83Sw0,lady gaga,hold my hand,110,10,0.53,0.612,7,-4.286,1,0.0331,0.0403,0.0,0.393,148.009,3,225280
-spotify:track:760jhRscwGbIIe1m1IIQpU,jessica darrow,surface pressure,26,3,0.65,0.584,2,-8.286,1,0.307,0.0174,1.54e-06,0.042,180.088,4,202227
-spotify:track:2SLwbpExuoBDZBpjfefCtV,the weeknd,out of time,10,2,0.65,0.76,0,-4.422,0,0.0446,0.255,0.0,0.339,93.057,4,214194
-spotify:track:6Ab81Bs9fcOwaTYuBsUUpI,"the game, kanye west",eazy,35,1,0.716,0.551,1,-6.987,1,0.47,0.167,0.0,0.197,82.393,4,234288
-spotify:track:0mL82sxCRjrs3br407IdJh,the weeknd,is there someone else?,11,2,0.702,0.586,9,-7.83,0,0.0313,0.0388,7.27e-05,0.156,134.951,4,199111
-spotify:track:4TGwERXRlyQtBdggYTHo6j,"tiago pzk, lit killah, maria becerra, nicki nicole",entre nosotros (remix) [con nicki nicole],53,2,0.7,0.438,5,-5.784,0,0.0433,0.401,0.0,0.373,170.106,3,260000
-spotify:track:2KnLkZ3z7PO3kgVGHGqDpD,shawn mendes,it'll be okay,55,7,0.398,0.286,7,-11.881,1,0.033,0.616,0.000146,0.0912,78.262,4,222800
-spotify:track:37BZB0z9T8Xu7U3e65qxFy,"the weeknd, ariana grande",save your tears (with ariana grande) (remix),5,39,0.65,0.825,0,-4.645,1,0.0325,0.0215,2.44e-05,0.0936,118.091,4,191014
-spotify:track:5dXWFMwD7I7zXsInONVl0H,sza,i hate u,19,7,0.535,0.388,7,-9.805,0,0.155,0.507,0.0,0.11,106.703,5,174000
-spotify:track:3nOz1U41SZZ0N3fuUWr9nb,emmy meli,i am woman,51,8,0.646,0.471,10,-9.247,1,0.157,0.122,0.0,0.125,170.084,4,232813
-spotify:track:3KyKxJ4P3pVCgaZwaq2rUC,the weeknd,gasoline,13,2,0.728,0.741,6,-7.075,0,0.0473,0.000582,0.00206,0.33,123.006,4,212166
-spotify:track:2Ghp894n1laIf2w98VeAOJ,the weeknd,how do i make you love me?,14,2,0.805,0.498,7,-7.927,0,0.0737,0.0203,2.37e-05,0.085,121.006,4,214215
-spotify:track:2D4dV2KXDTszzJ3p3cFqhA,the weeknd,less than zero,23,2,0.535,0.791,0,-5.55,1,0.0327,0.00096,0.000155,0.0788,142.981,4,211814
-spotify:track:7sMBvZCSUl99bJLXZaLa0b,"bruno mars, anderson .paak, silk sonic",smokin out the window,8,11,0.627,0.618,2,-8.529,1,0.0437,0.0558,0.0,0.351,82.03,4,197443
-spotify:track:0lEjxUUlKqjqXrVlIHFduD,"gunna, drake",p power (feat. drake),81,1,0.828,0.591,1,-6.217,1,0.109,0.0199,0.000323,0.361,119.251,4,193347
-spotify:track:09gysnJpfQ3ublBmJDfcEC,"amaarae, kali uchis, moliy",sad girlz luv money remix (feat. kali uchis and moliy),23,12,0.87,0.523,1,-8.052,0,0.0602,0.433,2.07e-05,0.113,110.02,4,204764
-spotify:track:4b1yxSdlumA8N4fEk4UOZp,"stephanie beatriz, olga merediz, encanto - cast",the family madrigal,87,2,0.594,0.628,1,-6.345,1,0.359,0.12,0.0,0.0582,141.391,4,257213
-spotify:track:0eu4C55hL6x29mmeAjytzC,oliver tree,life goes on,15,20,0.7,0.49,0,-5.187,1,0.076,0.186,0.0,0.117,79.982,4,161803
-spotify:track:2vgUijXOTRMnWXDtvgMp2b,the weeknd,take my breath,22,2,0.698,0.769,8,-7.154,1,0.0368,0.0128,0.00166,0.238,121.02,4,339023
-spotify:track:1c4htMHiolERc0YJvZNdlc,"george henrique & rodrigo, marília mendonça",vai lá em casa hoje,66,9,0.456,0.83,8,-3.646,0,0.281,0.53,0.0,0.968,157.628,4,191524
-spotify:track:3XoYqtiWHhsk59frZupImG,"diane guerrero, stephanie beatriz",what else can i do?,101,2,0.718,0.709,4,-5.568,1,0.039,0.258,0.0,0.101,119.974,4,179427
-spotify:track:5rohUzwEoRsUvAA1Bf3DLo,sebastian yatra,dos oruguitas,104,2,0.423,0.355,0,-10.565,1,0.0454,0.761,0.0,0.0915,93.788,4,214613
-spotify:track:6nkoWsFZeFt5dUdNmlIceh,gusttavo lima,bloqueado - ao vivo,106,4,0.828,0.721,1,-4.274,0,0.0558,0.153,0.0,0.547,129.092,4,168689
-spotify:track:6P096SaOzrgGxs8NWOfX7M,"tiago pzk, trueno",salimo de noche,72,12,0.669,0.628,2,-4.177,1,0.0526,0.294,1.83e-05,0.124,83.803,4,177857
-spotify:track:3eJH2nAjvNXdmPfBkALiPZ,jason derulo,acapulco,90,15,0.774,0.792,10,-4.021,1,0.0523,0.051,0.0,0.155,122.062,4,139672
-spotify:track:5Ts1DYOuouQLgzTaisxWYh,edison lighthouse,love grows (where my rosemary goes),112,3,0.568,0.824,9,-4.613,1,0.0299,0.403,0.0,0.0855,108.625,4,174760
-spotify:track:7bp3zmEvpHLa0h32nhDUkB,stromae,l’enfer,113,1,0.4,0.547,2,-8.381,0,0.177,0.33,0.0,0.241,177.595,4,189720
-spotify:track:1E5Xu8dur0fAjSP1VpVhAZ,the weeknd,best friends,26,2,0.737,0.564,4,-7.045,0,0.105,0.436,0.0,0.351,90.0,4,163504
-spotify:track:4qsOrxBv09HhNSpsgMRXdC,"marília mendonça, maiara & maraisa",esqueça-me se for capaz,67,11,0.799,0.685,6,-5.366,0,0.0725,0.276,0.0,0.13,122.013,4,169059
-spotify:track:1NhjYYcYTRywc0di98xHxf,"the weeknd, tyler, the creator","here we go… again (feat. tyler, the creator)",25,2,0.469,0.623,1,-4.432,1,0.0302,0.345,0.0,0.588,134.943,4,209778
-spotify:track:68HocO7fx9z0MgDU0ZPHro,niki,every summertime,124,2,0.628,0.676,6,-4.227,1,0.0424,0.393,6.94e-05,0.0978,78.996,4,215687
-spotify:track:6IAZHEBUIGJ6NJKxxOBIEr,adele,rolling in the deep,36,16,0.73,0.769,8,-5.114,1,0.0298,0.138,0.0,0.0473,104.948,4,228093
-spotify:track:4HzqWEdAbzcVFDv0pvxV4w,maluma,sobrio,41,28,0.762,0.77,5,-2.758,1,0.223,0.138,0.0,0.15,177.998,4,201181
-spotify:track:6f3Slt0GbA2bPZlz0aIFXN,tiësto,the business,9,64,0.798,0.62,8,-7.079,0,0.232,0.414,0.0192,0.112,120.031,4,164000
-spotify:track:0yL7K9MzC20uBesZTPY81r,"dj matt d, menor mc, mc gp, vulgo fk",pandora,129,3,0.688,0.458,1,-9.138,0,0.588,0.14,0.0,0.407,124.553,4,177000
-spotify:track:4hJhHbkhZFnxmWbAkZRoe0,"fireboy dml, ed sheeran",peru,89,4,0.956,0.417,7,-7.892,0,0.0926,0.572,0.00071,0.0782,108.015,4,187111
-spotify:track:29TPjc8wxfz4XMn21O7VsZ,playboi carti,sky,113,14,0.785,0.903,2,-4.184,1,0.21,0.258,0.0,0.169,139.98,4,193234
-spotify:track:7n2FZQsaLb7ZRfRPfEeIvr,ive,eleven,103,7,0.828,0.731,9,-3.033,1,0.111,0.0617,0.0,0.048,119.978,4,178453
-spotify:track:0k1WUmIRnG3xU6fvvDVfRG,"drake, future, young thug",way 2 sexy (with future & young thug),5,20,0.803,0.597,11,-6.035,0,0.141,0.000619,4.5e-06,0.323,136.008,4,257605
-spotify:track:1kjs5eR4DMzyB0gm1Z8waV,trueno,dance crip,79,9,0.857,0.766,0,-3.699,1,0.0978,0.108,0.0,0.0817,106.024,4,165019
-spotify:track:3JCaq3KDSROg3TXhdiDa9n,"jhay cortez, anuel aa",ley seca,44,20,0.759,0.842,8,-3.758,1,0.096,0.101,0.0,0.134,105.059,4,263253
-spotify:track:4pt5fDVTg5GhEvEtlz9dKk,måneskin,i wanna be your slave,8,35,0.75,0.608,1,-4.008,1,0.0387,0.00165,0.0,0.178,132.507,4,173347
-spotify:track:5VTjBl3ddZEiG2LrH4VzyR,"zé felipe, mc danny",toma toma vapo vapo,75,8,0.763,0.859,4,-3.3,0,0.0479,0.322,0.0003,0.117,164.055,4,156760
-spotify:track:0WSEq9Ko4kFPt8yo3ICd6T,kanye west,praise god,16,19,0.798,0.545,1,-6.466,1,0.168,0.00904,9.48e-05,0.258,118.029,4,226653
-spotify:track:1FlL8ycld6uVDDyhV7P5FA,rauw alejandro,cúrame,35,26,0.765,0.625,9,-3.599,0,0.0548,0.584,0.00111,0.112,102.101,4,164706
-spotify:track:4cG7HUWYHBV6R6tHn1gxrl,"riton, nightcrawlers, mufasa & hypeman, dopamine",friday (feat. mufasa & hypeman) - dopamine re-edit,15,48,0.824,0.862,2,-3.424,1,0.126,0.0076,0.000132,0.303,122.98,4,169153
-spotify:track:4XvcHTUfIlWfyJTRG0aqlo,sleepy hallow,2055,31,27,0.829,0.512,6,-5.865,0,0.187,0.492,0.0,0.12,80.511,4,123987
-spotify:track:45bE4HXI0AwGZXfZtMp8JR,tate mcrae,you broke me first,13,78,0.667,0.373,4,-9.389,1,0.05,0.785,0.0,0.0906,124.148,4,169266
-spotify:track:5JCoSi02qi3jJeHdZXMmR8,olivia rodrigo,favorite crime,11,31,0.369,0.272,9,-10.497,1,0.0364,0.866,0.0,0.147,172.929,4,152667
-spotify:track:2VxeLyX666F8uXCJ0dZF8B,"lady gaga, bradley cooper",shallow,3,171,0.572,0.385,7,-6.362,1,0.0308,0.371,0.0,0.231,95.799,4,215733
-spotify:track:6E90gq0KO6FYZVOXx8kCcC,masked wolf,astronaut in the ocean,3,53,0.778,0.695,4,-6.865,0,0.0913,0.175,0.0,0.15,149.996,4,132780
-spotify:track:05bfbizlM5AX6Mf1RRyMho,"nio garcia, j balvin, bad bunny",am remix,14,30,0.743,0.655,6,-5.015,0,0.159,0.114,0.0,0.0764,172.031,4,261335
-spotify:track:3U4isOIWM3VvDubwSI3y7a,john legend,all of me,110,145,0.422,0.264,8,-7.064,1,0.0322,0.922,0.0,0.132,119.93,4,269560
-spotify:track:1qE8DOtw7zdXHMgZm20eLM,twice,the feels,57,16,0.808,0.903,9,-2.179,1,0.0729,0.0899,0.0,0.0816,120.044,4,198053
-spotify:track:6Dy1jexKYriXAVG6evyUTJ,"joel corry, jax jones, charli xcx, saweetie",out out (feat. charli xcx & saweetie),42,21,0.787,0.833,8,-4.403,1,0.0478,0.018,0.00747,0.0374,123.97,4,162604
-spotify:track:5UlnuulVAVmmesw4VzqHdG,"imagine dragons, arcane, league of legends",enemy - from the series arcane league of legends,171,3,0.722,0.745,7,-4.164,1,0.256,0.247,0.0,0.419,77.029,4,173381
-spotify:track:04sN26COy28wTXYj3dMoiZ,billie eilish,bored,51,16,0.614,0.318,7,-12.695,1,0.0478,0.896,0.00239,0.0795,119.959,4,180933
-spotify:track:6D2TCm4nf5nxAcdGJ7w3QP,"j balvin, maria becerra",qué más pues?,9,34,0.903,0.817,8,-3.972,1,0.095,0.0272,0.000311,0.242,102.014,4,217360
-spotify:track:1J14CdDAvBTE1AJYUOwl6C,duncan laurence,arcade,23,52,0.453,0.35,9,-11.639,0,0.0425,0.827,0.00122,0.144,72.017,3,185147
-spotify:track:3FAJ6O0NOHQV8Mc5Ri6ENp,giveon,heartbreak anniversary,8,47,0.449,0.465,0,-8.964,1,0.0791,0.524,1.02e-06,0.303,89.087,3,198371
-spotify:track:5902W4uHWzhtOff1UK7the,"alesso, katy perry",when i’m gone (with katy perry),135,3,0.685,0.886,0,-4.179,1,0.034,0.028,0.0,0.481,125.034,4,161267
-spotify:track:3QFInJAm9eyaho5vBzxInN,"baby keem, kendrick lamar",family ties (with kendrick lamar),30,20,0.711,0.611,1,-5.453,1,0.33,0.00588,0.0,0.23,134.093,4,252262
-spotify:track:32BeYxKPrig1LefHsC0Xuo,billie eilish,happier than ever - edit,70,17,0.334,0.599,0,-5.742,1,0.0365,0.0468,0.000392,0.205,161.74,3,151444
-spotify:track:4cktbXiXOapiLBMprHFErI,maroon 5,memories,2,116,0.775,0.327,11,-7.241,1,0.0557,0.841,0.0,0.0821,91.05,4,189486
-spotify:track:7iHHlCbsFou5DZSW5HCPfs,"boza, lunay, lenny tavárez, juhn, beéle",ella - remix,188,1,0.747,0.812,3,-4.274,0,0.111,0.341,0.000131,0.174,180.062,4,330478
-spotify:track:18vXApRmJSgQ6wG2ll9AOg,polo g,rapstar,3,40,0.789,0.536,6,-6.862,1,0.242,0.41,0.0,0.129,81.039,4,165926
-spotify:track:04S1pkp1VaIqjg8zZqknR5,taylor swift,enchanted,61,10,0.535,0.618,8,-3.913,1,0.0273,0.0716,0.000388,0.169,81.975,4,352200
-spotify:track:0hQNbQKW2dDATH1ngj4TI6,kep1er,wa da da,191,1,0.785,0.907,10,-2.657,1,0.0938,0.00122,3.11e-06,0.213,126.004,4,183693
-spotify:track:0cOa970mzTWAxKtltpkpLc,"tini, maria becerra",miénteme,41,35,0.85,0.541,2,-4.522,1,0.0674,0.161,5.01e-06,0.286,92.003,4,165275
-spotify:track:72g37RoelSnovZakG5MwnF,"mari fernandez, marcynho sensação",parada louca,107,3,0.693,0.936,7,-1.322,1,0.0524,0.302,0.0,0.339,166.034,4,179032
-spotify:track:40iJIUlhi6renaREYGeIDS,"drake, travis scott",fair trade (with travis scott),3,19,0.666,0.465,1,-8.545,1,0.26,0.0503,0.0,0.215,167.937,4,291175
-spotify:track:4qu63nuBpdn0qHUHuObEj1,"marshmello, jonas brothers",leave before you love me (with jonas brothers),52,30,0.721,0.738,7,-4.77,1,0.0403,0.00226,4.41e-06,0.118,119.976,4,154983
-spotify:track:6gBFPUFcJLzWGx4lenP6h2,travis scott,goosebumps,13,226,0.841,0.728,7,-3.37,1,0.0484,0.0847,0.0,0.149,130.049,4,243837
-spotify:track:0bBd6K5X4W7t9GyXcaVOA7,"j balvin, ed sheeran",sigue,45,1,0.889,0.641,7,-4.494,1,0.0668,0.0515,2.75e-05,0.19,87.99,4,159387
-spotify:track:3XjN0mvFkQp1FMVM9Ro5hm,daddy yankee,rumbatón,58,1,0.685,0.909,3,-4.034,0,0.0396,0.0471,0.0,0.35,95.004,4,248769
-spotify:track:2bdqU7C4softKNcMYDFi96,tate mcrae,chaotic,83,1,0.412,0.382,2,-7.023,0,0.0497,0.59,0.0,0.0931,81.493,3,178721
-spotify:track:50eJOxJiGmJ7PBZaTKpje1,"machine gun kelly, blackbear",make up sex (feat. blackbear),91,1,0.665,0.678,5,-4.122,0,0.0315,0.00156,0.0,0.474,131.986,4,122570
-spotify:track:6HJIZUOiZDE814XMhRGSZN,yahritza y su esencia,soy el unico,97,1,0.708,0.449,4,-4.369,0,0.0286,0.451,0.0,0.111,84.396,1,214000
-spotify:track:2oBMZYteeO8DyXV9gDx6Za,red velvet,feel my rhythm,114,1,0.412,0.94,1,-2.171,1,0.215,0.0648,0.0,0.358,157.964,4,210253
-spotify:track:5UWwZ5lm5PKu6eKsHAGxOk,foo fighters,everlong,164,1,0.413,0.881,11,-5.541,0,0.0367,5.99e-05,0.000308,0.0805,158.066,4,250547
-spotify:track:65MqlYPOWReasKWcuCaOCW,daddy yankee,remix,166,1,0.819,0.781,1,-4.879,1,0.0547,0.0323,0.0012,0.121,100.062,4,163680
-spotify:track:3tBZ60j1jQ7NJm8IjelyQe,"machine gun kelly, willow",emo girl (feat. willow),111,2,0.412,0.881,2,-3.502,1,0.087,0.00039,5.82e-05,0.923,165.012,4,159096
-spotify:track:0MMyJUC3WNnFS1lit5pTjk,olivia rodrigo,"jealousy, jealousy",17,29,0.695,0.575,10,-6.334,0,0.116,0.198,0.0,0.0614,163.929,4,173160
-spotify:track:272vIYVYzfAgHUQRUYWmhP,"daddy yankee, sech",para siempre,193,1,0.794,0.828,8,-5.883,0,0.0756,0.0999,0.0,0.102,90.015,4,210333
-spotify:track:7BqBn9nzAq8spo5e7cZ0dJ,bruno mars,just the way you are,133,22,0.635,0.841,5,-5.379,1,0.0422,0.0134,0.0,0.0622,109.021,4,220734
-spotify:track:50kpGaPAhYJ3sGmk6vplg0,justin bieber,love yourself,62,50,0.609,0.378,4,-9.828,1,0.438,0.835,0.0,0.28,100.418,4,233720
-spotify:track:51Zw1cKDgkad0CXv23HCMU,harry styles,daylight,10,2,0.686,0.445,0,-7.189,1,0.0398,0.484,0.00144,0.175,145.5,3,164533
-spotify:track:3i058E8uxTsYqJ5NWZzqSj,harry styles,little freak,8,2,0.559,0.535,3,-7.723,1,0.039,0.719,0.000143,0.0954,141.96,4,202183
-spotify:track:06JvOZ39sK8D8SqiqfaxDU,"kanye west, xxxtentacion",true love,24,1,0.712,0.861,5,-5.487,0,0.25,0.0182,6.09e-06,0.511,84.042,4,148571
-spotify:track:4j6kId9QIqhoXvqHKgSKa0,harry styles,grapejuice,11,2,0.645,0.721,5,-4.394,1,0.0336,0.357,0.143,0.204,182.928,4,191959
-spotify:track:0rzaRSujxA0bKyjJl6vHYq,harry styles,satellite,14,2,0.576,0.457,0,-6.473,1,0.0304,0.143,3.05e-05,0.0917,138.984,4,218577
-spotify:track:2FeBslNBMdR9V58uv6hd2t,kendrick lamar,n95,3,3,0.79,0.67,1,-5.527,1,0.105,0.377,2.32e-06,0.119,139.956,4,195950
-spotify:track:1mw0RgNXIpYRyyCdBQbLgA,harry styles,love of my life,15,2,0.555,0.536,7,-8.233,1,0.0452,0.669,0.0,0.0623,118.057,4,191638
-spotify:track:35TyJIMR3xRouUuo2sjS6v,harry styles,cinema,13,2,0.829,0.644,9,-7.696,0,0.0427,0.354,0.0511,0.0944,105.993,4,243508
-spotify:track:69w5X6uTrOaWM32IetSzvO,harry styles,daydreaming,16,2,0.707,0.811,4,-5.298,0,0.0304,0.311,0.0152,0.131,113.971,4,187342
-spotify:track:2NcQic8JxdjAlAHuNbOIRE,harry styles,keep driving,19,2,0.721,0.479,9,-9.669,1,0.226,0.321,0.00156,0.182,164.948,3,140242
-spotify:track:6gI9b2VsoWhjhIuIeToDVs,"kendrick lamar, blxst, amanda reifer",die hard,8,3,0.775,0.736,1,-8.072,0,0.247,0.319,0.00116,0.127,100.988,4,239027
-spotify:track:6qj02zSeEJGWZ4c0dn5QzJ,harry styles,boyfriends,22,2,0.417,0.202,0,-10.976,1,0.0357,0.935,0.0,0.108,118.029,4,194544
-spotify:track:6hFwju6M40CKovKBPu5IpY,jovem dionisio,acorda pedrinho,77,2,0.876,0.359,11,-11.169,0,0.341,0.187,1.71e-06,0.666,124.016,4,173085
-spotify:track:18HOjcvTVV7W8YzBuOsAPS,bad bunny,un verano sin ti,20,4,0.503,0.496,5,-9.123,0,0.0556,0.693,0.0,0.123,187.844,4,148143
-spotify:track:2NMjggapJcXXM7WccGEBUO,bad bunny,enséñame a bailar,27,4,0.81,0.789,8,-5.08,1,0.0846,0.191,1.08e-05,0.467,105.009,4,176000
-spotify:track:6EbVuwU7EnKeF2hdpViXCH,"sleepy hallow, 347aidan",die young (feat. 347aidan),97,1,0.808,0.582,11,-6.26,1,0.338,0.827,0.0,0.111,77.471,4,148817
-spotify:track:1r8ZCjfrQxoy2wVaBUbpwg,the kid laroi,thousand miles,18,6,0.376,0.657,7,-4.658,1,0.0768,0.0858,0.0,0.0884,80.565,4,164782
-spotify:track:0UvZcEfpzVyx47QsRbjyBz,bad bunny,el apagón,28,4,0.629,0.698,8,-4.485,1,0.308,0.0509,0.00166,0.0909,117.765,4,201816
-spotify:track:63WuQOXohQIxOxIFA2K7bR,måneskin,supermodel,89,3,0.636,0.876,7,-3.413,1,0.0555,0.00164,0.0,0.117,120.983,4,148064
-spotify:track:0wihfILRNOwE2156Shezc8,bad bunny,agosto,30,4,0.849,0.584,1,-8.195,0,0.115,0.0929,6.18e-06,0.492,115.018,4,139041
-spotify:track:3sa06xVNmLLYIxdNNmVQN8,"jax jones, mnek",where did you go? (feat. mnek),116,7,0.763,0.782,7,-4.541,0,0.0346,0.182,7.08e-06,0.293,127.034,4,177689
-spotify:track:6Qyc6fS4DsZjB2mRW9DsQs,the goo goo dolls,iris,124,5,0.315,0.715,11,-8.072,0,0.0362,0.00125,7.97e-06,0.0942,155.925,3,289533
-spotify:track:5oH4DQAuu1J1800RzUsBWa,"psy, suga",that that (prod. & feat. suga of bts),21,5,0.905,0.962,4,-3.197,1,0.0856,0.0299,0.0,0.0272,129.969,4,174647
-spotify:track:6kYGOFNUMxpab09L5Ukoke,kendrick lamar,rich spirit,17,3,0.852,0.421,10,-9.153,0,0.208,0.428,2.28e-06,0.106,95.977,4,202285
-spotify:track:0LnS7aOdOdI1dNKZqdOLz4,jack harlow,dua lipa,37,4,0.833,0.652,11,-6.942,1,0.0762,0.00161,0.0985,0.106,158.022,4,135053
-spotify:track:1qMMYpVatbRITKCfq1gasi,future,puffin on zootiez,40,5,0.883,0.657,8,-5.748,1,0.305,0.0603,0.0,0.128,124.992,4,172933
-spotify:track:2NWaWZZLFMcr5P4uI2KvWy,victor cibrian,en el radio un cochinero,148,1,0.696,0.623,6,-8.738,0,0.0438,0.466,8.61e-06,0.0983,154.028,3,223431
-spotify:track:30W8VKHrAZmHzObnwAoc1u,"mora, sech",tus lágrimas,93,6,0.683,0.714,1,-4.898,1,0.252,0.181,1e-06,0.111,173.963,4,174483
-spotify:track:3ehHqgYRzmeUi345MfHS2N,"morat, duki",parís,130,2,0.582,0.804,11,-4.155,1,0.0389,0.0493,0.0,0.0624,138.014,4,182188
-spotify:track:3jjujdWJ72nww5eGnfs2E7,harry styles,adore you,6,104,0.676,0.771,8,-3.675,1,0.0483,0.0237,7e-06,0.102,99.048,4,207133
-spotify:track:296nXCOv97WJNRWzIBQnoj,le sserafim,fearless,149,4,0.863,0.62,7,-7.167,1,0.135,0.0508,0.00324,0.129,103.971,4,168437
-spotify:track:6Jkm5kUldvIqxzI1Pa7nXH,leah kate,10 things i hate about you,117,6,0.544,0.786,8,-2.97,1,0.0501,0.00991,0.0,0.169,153.967,4,157138
-spotify:track:0Q5VnK2DYzRyfqQRJuUtvi,ive,love dive,51,8,0.703,0.709,1,-4.169,0,0.0433,0.00379,5.43e-05,0.333,117.941,4,177187
-spotify:track:2qmG7dokbGpDGD0T5wORWt,"matheus fernandes, xand avião",balanço da rede,171,2,0.764,0.796,6,-4.611,0,0.033,0.193,0.0,0.0853,140.072,4,166436
-spotify:track:75UMtPC77vqKRwfSuYuNPO,kevin kaarl,san lucas,149,5,0.577,0.363,7,-12.378,1,0.0263,0.86,0.000282,0.0868,91.511,4,247197
-spotify:track:3tYTyAt1q6BFBiGyYVOLhi,"kendrick lamar, kodak black",silent hill,21,3,0.907,0.577,1,-6.737,0,0.0767,0.438,3.19e-05,0.137,140.07,4,220779
-spotify:track:05zd5Nv0e02ZqrlC8A2cwx,kendrick lamar,united in grief,11,3,0.529,0.845,8,-8.142,1,0.404,0.244,0.0,0.143,85.63,3,255378
-spotify:track:2XRn6Qu0Wd1KvOND8JbaTx,luciano,beautiful girl,59,5,0.839,0.412,11,-8.816,0,0.0935,0.287,0.000796,0.101,139.901,4,179187
-spotify:track:4IaxDf2FixiQXq0mW7key9,jessi,zoom,89,6,0.874,0.6,6,-6.064,1,0.158,0.00942,0.0,0.126,100.012,4,174840
-spotify:track:0U1W2LZVUX7qTm7dDpqxh6,shawn mendes,when you're gone,21,9,0.603,0.691,5,-5.805,1,0.0372,0.0248,0.0,0.583,147.148,4,172267
-spotify:track:69xohKu8C1fsflYAiSNbwM,bts,run bts,11,1,0.724,0.818,8,-3.747,1,0.168,0.0201,0.0,0.0358,77.004,4,204940
-spotify:track:4JzCFEc3O2UEdjKzevvFH5,bts,for youth,30,1,0.633,0.511,2,-5.665,1,0.0368,0.434,0.0,0.248,116.855,3,264481
-spotify:track:1IthE5GNiRzFN5CVaCa445,bts,born singer,43,1,0.602,0.841,8,-3.334,0,0.109,0.0354,0.0,0.235,157.937,4,238628
-spotify:track:3S68RFe1lsdCdTMPIMJM3X,"pharrell williams, 21 savage, tyler, the creator",cash in cash out,53,1,0.877,0.56,7,-3.751,1,0.0596,0.00721,1.45e-06,0.0839,119.971,4,216136
-spotify:track:1BkY0N8ChFk2mdLbAUu8ZK,musical youth,pass the dutchie,85,2,0.805,0.418,7,-14.374,1,0.0979,0.459,0.0,0.288,149.724,4,205427
-spotify:track:6kxaaIeowajN7w21PfMLbu,halsey,so good,95,1,0.576,0.627,3,-4.649,0,0.0449,0.0385,0.0,0.181,164.998,4,176059
-spotify:track:6ojZtz3sZr6ynvejLOqgCj,"tiago pzk, ozuna",nos comemos (feat. ozuna),140,2,0.827,0.819,6,-3.701,1,0.052,0.1,0.0,0.089,92.017,4,191087
-spotify:track:31tf1qEai5o5f4r66Kd0pU,childish gambino,me and your mama,158,2,0.554,0.433,5,-12.628,1,0.0341,0.0116,0.0449,0.0667,117.996,3,379227
-spotify:track:4RtPruLRZbyirtJGqYHPQm,duki,antes de perderte,173,1,0.812,0.925,5,-3.092,0,0.113,0.487,0.0,0.115,110.031,4,176727
-spotify:track:5W7DOVGQLTigu09afW7QMT,sidhu moose wala,295,141,2,0.557,0.794,11,-5.698,0,0.2,0.179,0.0,0.106,91.366,4,270000
-spotify:track:4a9tbd947vo9K8Vti9JwcI,"bts, halsey",boy with luv (feat. halsey),3,46,0.645,0.862,11,-4.761,0,0.0845,0.0933,0.0,0.193,119.947,4,229773
-spotify:track:0rKtyWc8bvkriBthvHKY8d,joji,slow dancing in the dark,75,36,0.515,0.479,3,-7.458,1,0.0261,0.544,0.00598,0.191,88.964,4,209274
-spotify:track:1HvTxgCj0mTzQlEo0zLvFb,lil tjay,in my head,30,1,0.684,0.545,1,-6.885,1,0.121,0.159,0.0,0.102,143.049,4,135264
-spotify:track:40w8JmvwYUP2HUiXPxjy99,"ak4:20, pailita, cris mj",me arrepentí,80,1,0.861,0.786,0,-4.934,1,0.164,0.289,0.0,0.601,92.031,4,232000
-spotify:track:6bQ5823aHmFVKLZW8E7rRo,"duki, de la ghetto, quevedo",si quieren frontear,113,1,0.789,0.837,10,-3.247,1,0.23,0.125,0.0,0.209,81.536,4,200337
-spotify:track:1ZMiCix7XSAbfAJlEZWMCp,harry styles,falling,29,81,0.567,0.267,4,-6.502,1,0.0299,0.839,1.46e-06,0.089,110.011,4,240133
-spotify:track:4WghJOMjDpGdlk3b8aJIgy,"kehlani, justin bieber",up at night (feat. justin bieber),131,1,0.563,0.756,0,-3.852,0,0.0579,0.196,0.0,0.245,100.012,4,182227
-spotify:track:45S5WTQEGOB1VHr1Q4FuPl,harry styles,golden,44,34,0.448,0.838,4,-5.257,0,0.0557,0.21,0.000131,0.131,139.863,4,208907
-spotify:track:7afaZ37wJJL6880z1NRgJS,teto,fim de semana no rio,139,1,0.867,0.494,1,-6.514,0,0.084,0.118,0.0,0.101,118.868,4,165882
-spotify:track:3TSLqZssCoCdDlMhCJ08XW,bigbang,still life,148,1,0.68,0.584,8,-4.457,1,0.034,0.443,0.0,0.0628,118.06,4,188369
-spotify:track:0B7wvvmu9EISAwZnOpjhNI,bruno mars,when i was your man,181,2,0.601,0.271,0,-8.688,1,0.0403,0.937,0.0,0.144,145.494,4,213827
-spotify:track:5Ohxk2dO5COHF1krpoPigN,harry styles,sign of the times,14,39,0.516,0.595,5,-4.63,1,0.0313,0.0275,0.0,0.109,119.972,4,340707
-spotify:track:3hRV0jL3vUpRrcy398teAU,lord huron,the night we met,55,29,0.544,0.369,2,-9.514,1,0.038,0.969,0.279,0.639,87.01,3,208212
-spotify:track:7KA4W4McWYRpgf0fWsJZWB,"tyler, the creator, kali uchis",see you again (feat. kali uchis),144,2,0.558,0.559,6,-9.222,1,0.0959,0.371,7.49e-06,0.109,78.558,4,180387
-spotify:track:3QGxgNaqaFSpORp2OVLXHR,"chefin, mainstreet",212,89,1,0.789,0.519,2,-4.84,0,0.0697,0.659,0.0,0.085,154.037,4,150610
-spotify:track:1G1R0XgChe18Zr1o6tlmN6,lana del rey,watercolor eyes - from “euphoria” an hbo original series,90,1,0.444,0.26,7,-10.045,1,0.0316,0.964,0.0815,0.125,120.443,4,211613
-spotify:track:3xRH6FPVtheDyNla3T1FE7,muni long,hrs & hrs,119,1,0.511,0.525,8,-4.595,0,0.183,0.604,0.0,0.111,139.885,3,204317
-spotify:track:10hMM5nsZQf66ldBlgWBfG,"labrinth, zendaya",all for us - from the hbo original series euphoria,108,3,0.348,0.652,3,-7.145,1,0.0931,0.0165,0.000264,0.33,70.956,4,192987
-spotify:track:3M0lSi5WW79CXQamgSBIjx,chase atlantic,swim,134,1,0.666,0.542,8,-6.429,1,0.0392,0.27,0.0,0.0765,120.134,4,228787
-spotify:track:3oRW9ZGPRbLRMneQ5lwflt,stephanie beatriz,waiting on a miracle,155,1,0.48,0.554,1,-8.145,0,0.069,0.171,0.0,0.131,190.066,3,161840
-spotify:track:1mSviQV9iQnGSRyvTIuxAj,"alvaro diaz, rauw alejandro",problemón,158,1,0.706,0.739,10,-3.753,1,0.0586,0.266,2.62e-05,0.126,91.906,4,192613
-spotify:track:186NCtNk1tUYS7c2DxgJ7O,v,christmas tree,100,2,0.437,0.384,5,-8.384,1,0.042,0.699,2.33e-05,0.121,139.009,4,209947
-spotify:track:7m9OqQk4RVRkw9JJdeAw96,xxxtentacion,jocelyn flores,7,216,0.872,0.391,0,-9.144,0,0.242,0.469,4.13e-06,0.297,134.021,4,119133
-spotify:track:2SJZdZ5DLtlRosJ2xHJJJa,paulo londra,chance,56,1,0.721,0.463,1,-9.483,0,0.0646,0.241,0.0,0.0929,137.915,3,204003
-spotify:track:73cnVqsbZygieKi8xF10sO,"camila cabello, willow",psychofreak (feat. willow),71,1,0.629,0.64,7,-7.638,0,0.0752,0.342,1.17e-05,0.0928,179.989,4,201495
-spotify:track:6bTdZ7xfKp3NqqADJ8HLyj,"matuê, wiu, teto",vampiro,82,1,0.782,0.643,8,-4.956,0,0.0438,0.0136,0.0,0.0654,114.994,4,250435
-spotify:track:6ws54n2IzyrIxxyzlG2bVJ,lil baby,right on,103,1,0.535,0.618,2,-5.668,1,0.382,0.0245,0.0,0.103,165.991,4,213976
-spotify:track:1jIMjbzcGCcCQn5iMu9CUc,charlie puth,that's hilarious,112,1,0.714,0.442,6,-5.909,1,0.0605,0.742,0.0,0.114,108.039,4,146855
-spotify:track:4QWumyD2uwiePBBha9XBHI,felipe amorim,no ouvidinho,154,1,0.885,0.834,3,-3.374,1,0.0394,0.403,3.22e-05,0.0865,124.018,4,183871
-spotify:track:2Foc5Q5nqNiosCNqttzHof,"daft punk, pharrell williams, nile rodgers",get lucky (feat. pharrell williams & nile rodgers) - radio edit,167,1,0.794,0.811,6,-8.966,0,0.038,0.0426,1.07e-06,0.101,116.047,4,248413
-spotify:track:2uky0VCI2EZni0nArOPznM,"bizarrap, paulo londra","paulo londra: bzrp music sessions, vol. 23",19,1,0.456,0.91,0,-2.659,1,0.136,0.256,0.0,0.0921,95.927,4,258542
-spotify:track:2gzhQaCTeNgxpeB2TPllyY,"jimin, ha sung woon",with you,32,1,0.532,0.426,3,-6.117,1,0.0288,0.639,0.0,0.134,149.898,3,201905
-spotify:track:6Z165JvPnS8PYvGW8oLGLc,lauren spencer smith,flowers,72,2,0.684,0.449,3,-9.738,1,0.611,0.869,0.0,0.0881,66.165,4,157373
-spotify:track:123hB20IVD2yw1NMIgrqb3,cakal,i̇mdat,97,1,0.786,0.748,4,-7.568,0,0.162,0.267,3.76e-06,0.0729,133.967,4,136120
-spotify:track:5IQvs70wHdurk63TnCV6ZP,"t-low, miksu / macloud",we made it,99,1,0.782,0.711,5,-5.383,0,0.0558,0.585,8.26e-06,0.26,116.049,4,211827
-spotify:track:2UN0lp72LAusrXi8LLVomt,"ed sheeran, lil baby",2step (feat. lil baby),131,1,0.693,0.643,4,-5.867,0,0.0828,0.138,0.0,0.108,95.055,4,163450
-spotify:track:1dp8aQANyTRKssDeAYPiZe,"pusha t, lil uzi vert, don toliver",scrape it off (feat. lil uzi vert & don toliver),184,1,0.594,0.679,7,-3.702,1,0.345,0.484,7.83e-06,0.114,106.726,5,152613
-spotify:track:6fxVffaTuwjgEk5h9QyRjy,ed sheeran,photograph,41,154,0.614,0.379,4,-10.48,1,0.0476,0.607,0.000464,0.0986,107.989,4,258987
-spotify:track:6OrTKLtcF7EBayOV2QqkSK,"southside, future, travis scott",hold that heat (feat. travis scott),196,1,0.744,0.608,2,-6.386,1,0.0442,0.0295,0.0,0.397,130.045,4,221538
-spotify:track:4xIhSUJantE6BMl3u8dtCJ,"kendrick lamar, sampha",father time (feat. sampha),14,2,0.514,0.779,10,-4.365,0,0.344,0.181,0.0,0.099,152.869,4,222497
-spotify:track:7pj6P5WnxkZsw3XRc8eMe1,kendrick lamar,count me out,24,2,0.776,0.431,4,-7.544,0,0.091,0.671,0.0,0.153,133.999,4,283642
-spotify:track:0YeUVm23SAkUruwEx9LWnt,"kendrick lamar, baby keem, sam dew",savior,29,2,0.605,0.692,8,-7.45,1,0.446,0.495,0.0,0.303,124.84,5,224466
-spotify:track:5uU1uuyaUIBOiiUSQG7Wl3,morgan wallen,you proof,91,2,0.731,0.85,9,-4.913,1,0.0336,0.252,0.0,0.605,119.706,4,157478
-spotify:track:6OZwia8loN0aPS0vTvsBjR,"alonzo, ninho, naps",tout va bien (feat. ninho & naps),183,1,0.66,0.72,3,-5.874,0,0.0753,0.301,0.0,0.226,99.937,4,192960
-spotify:track:2KdKh9vHbKW0tZLqtpxxI0,"justin bieber, don toliver",honest (feat. don toliver),29,4,0.81,0.655,8,-6.779,0,0.0698,0.127,8.16e-05,0.105,150.002,4,193322
-spotify:track:0RAvy97QRPzO2AfK5Dw6j3,"kendrick lamar, taylour paige",we cry together,22,2,0.648,0.68,11,-7.276,1,0.345,0.292,0.0,0.0808,106.89,3,341307
-spotify:track:5p56JT5F9a1z9pwXnqTg7d,kendrick lamar,worldwide steppers,20,1,0.514,0.472,8,-11.106,0,0.368,0.753,0.00012,0.0746,77.215,3,203367
-spotify:track:401160izncPtca3CmX3dvM,"kendrick lamar, summer walker, ghostface killah",purple hearts,27,1,0.567,0.824,3,-6.973,0,0.296,0.167,2.65e-06,0.149,138.202,4,329295
-spotify:track:2Az5ykbQiZtFWtACCMvWlP,kendrick lamar,rich - interlude,41,1,0.481,0.406,7,-11.52,1,0.0775,0.864,0.000315,0.0869,91.589,4,103319
-spotify:track:7zvfDihYiJ8RQ1nRcpKBF5,"kendrick lamar, tanna leone",mr. morale,53,1,0.727,0.53,9,-8.616,1,0.312,0.283,2.76e-05,0.392,174.025,3,210841
-spotify:track:2IwbW2jd0Ncv99Aroe77Ru,kendrick lamar,crown,54,1,0.355,0.245,1,-13.475,0,0.0358,0.801,9.11e-05,0.112,173.329,4,264299
-spotify:track:19Fg3WrTfo35Ji3PtfZE6J,kendrick lamar,auntie diaries,61,1,0.52,0.375,0,-13.409,1,0.358,0.745,0.0122,0.429,127.544,5,281070
-spotify:track:5PPUw4Xo3Hz6rl4GpBfd3c,kendrick lamar,savior - interlude,73,1,0.618,0.43,5,-9.38,0,0.216,0.807,0.0,0.189,117.125,4,152986
-spotify:track:5LOiuvbH62YGtnwe6Ltt4T,kendrick lamar,mirror,76,1,0.652,0.67,2,-8.766,1,0.0639,0.225,1.4e-05,0.0804,91.933,4,256008
-spotify:track:6NZOc8kO0Fxo0fLPvIdLnW,"kendrick lamar, beth gibbons",mother i sober (feat. beth gibbons of portishead),79,1,0.492,0.369,8,-14.861,0,0.329,0.87,2.85e-05,0.11,140.012,4,406528
-spotify:track:2vHzOWRKYPLu8umRPIFuOq,kalush,stefania (kalush orchestra),109,1,0.832,0.817,2,-5.182,1,0.0422,0.145,0.00169,0.115,104.985,4,179546
-spotify:track:5MMW4CZsZiZt2iuqAXzzWC,kendrick lamar,the heart part 5,44,2,0.7,0.812,1,-8.128,0,0.297,0.183,0.0,0.0756,97.405,4,332229
-spotify:track:3EMp20j5E42MxfFbsEsIvD,"jack harlow, drake",churchill downs (feat. drake),57,2,0.71,0.522,11,-9.102,1,0.36,0.615,0.0,0.11,96.448,4,309327
-spotify:track:6Pif6RkFoYzLygdqktus4Q,my chemical romance,the foundations of decay,140,1,0.363,0.67,1,-6.652,0,0.0552,0.000582,0.548,0.317,150.15,4,360760
-spotify:track:4d1CG5ei1E2vGbvmgf5KKv,taylor swift,this love (taylor’s version),50,2,0.47,0.494,4,-8.672,1,0.0349,0.302,0.0,0.0672,144.039,4,250100
-spotify:track:3XREkzDHsWdBL5tybyCDBH,chanel,slomo,179,1,0.728,0.814,1,-3.29,0,0.0571,0.125,0.00448,0.0927,104.962,4,176286
-spotify:track:3nhGk6VnrDHy67pXvMhdPa,sam ryder,space man,186,1,0.467,0.828,11,-2.22,1,0.0489,0.181,0.0,0.102,79.978,4,217320
-spotify:track:2HbKqm4o0w5wEeEFXm2sD4,"kendrick lamar, jay rock",money trees,143,8,0.716,0.531,7,-7.355,1,0.122,0.0703,0.0,0.224,71.994,4,386907
-spotify:track:1ZMGp9MTXbtAPvcKa0U3zS,"mahmood, blanco",brividi,9,2,0.523,0.614,7,-4.435,1,0.0347,0.448,0.0,0.254,122.962,4,199146
-spotify:track:42Xba467wgGvYrR2EE6s0i,juice wrld,cigarettes,27,1,0.597,0.615,2,-6.346,1,0.0421,0.0303,0.0,0.378,160.014,4,227527
-spotify:track:79nEEoEPY2w8EXj9hjn5oc,yung lean,ginseng strip 2002,44,2,0.601,0.712,1,-9.433,1,0.0431,0.0848,0.0,0.479,114.998,4,154000
-spotify:track:1PNs0uGru3TcrA94kpyGnc,"nicki minaj, lil baby",do we have a problem?,48,1,0.842,0.505,1,-8.627,0,0.402,0.472,0.000322,0.117,119.993,4,207065
-spotify:track:3a94TbZOxhkI9xuNwYL53b,red hot chili peppers,black summer,79,1,0.417,0.682,1,-5.071,1,0.0295,0.0267,0.000669,0.109,105.542,4,232412
-spotify:track:0hluyTCTSua59xYuIRqpe5,irama,ovunque sarai,112,1,0.359,0.434,0,-6.068,1,0.0305,0.582,0.0,0.205,79.133,4,200429
-spotify:track:11iIikXxC6NP0Ma8vMD27x,vundabar,alien blues,118,4,0.467,0.757,3,-5.093,1,0.033,0.0807,0.908,0.0876,82.282,4,155933
-spotify:track:6BczFLHW9aIf9aWn5NFuNL,"king von, 21 savage",don't play that,144,1,0.947,0.605,10,-8.621,0,0.346,0.0748,7.54e-06,0.0901,129.988,4,133613
-spotify:track:3t4KHjd8uQpJJ2fa0fRIpR,the chainsmokers,high,70,2,0.601,0.787,0,-6.178,1,0.031,0.0492,0.0,0.142,134.981,4,175163
-spotify:track:0jLeyuu6mtsD384054xLah,la rappresentante di lista,ciao ciao,151,1,0.747,0.819,4,-4.602,0,0.134,0.125,2.61e-06,0.331,117.994,4,184311
-spotify:track:5elW2CKSoqjYoJ32AGDxf1,enhypen,polaroid love,158,2,0.738,0.67,7,-3.766,0,0.0439,0.458,0.0,0.361,138.055,4,184602
-spotify:track:6N22FZs2ZhPBYi3b9XPajV,labrinth,still don't know my name,53,16,0.316,0.63,5,-5.963,1,0.117,0.471,0.262,0.205,89.643,1,153294
-spotify:track:0GsZZWhBMIQXAmPYPJ3PRQ,rkomi,insuperabile,180,1,0.667,0.848,4,-5.195,0,0.0851,0.0344,0.0,0.183,122.035,4,172462
-spotify:track:5HujDMiRNqZwEzVAh3oFD3,sangiovanni,farfalle,181,1,0.733,0.784,3,-5.211,1,0.0606,0.0927,0.0,0.195,120.016,4,164000
-spotify:track:2t16D9V5FmmRAJjsSpwvZf,labrinth,when i r.i.p.,192,1,0.417,0.551,8,-6.456,0,0.174,0.73,0.00166,0.0907,87.614,4,174568
-spotify:track:2QWEMqQMJR1KDf6hDjJOs6,j-hope,arson,37,1,0.938,0.798,1,-3.998,1,0.103,0.00813,7.03e-05,0.146,99.992,4,159762
-spotify:track:7GARzfC1mwhDuk4t9WOACq,j-hope,more,22,3,0.783,0.722,2,-4.864,1,0.0357,0.00537,0.00209,0.105,97.031,4,180022
-spotify:track:3ujiq7yK4Uan5z4876fHLK,"dj robin, schürze",layla,61,3,0.442,0.922,5,-2.918,0,0.0695,0.00134,0.0,0.432,140.082,4,185437
-spotify:track:5lfWrciYtohtIMVDVZd0Rf,"calvin harris, justin timberlake, halsey, pharrell williams","stay with me (with justin timberlake, halsey, & pharrell)",86,1,0.81,0.733,9,-6.338,1,0.0444,0.276,6.73e-06,0.288,125.975,4,229283
-spotify:track:4rmVZajAF7PkrCagGPHbqa,drake,sticky,17,5,0.853,0.495,6,-14.63,1,0.14,0.0917,0.000217,0.0844,137.027,4,243228
-spotify:track:13Irp51zj01BZu2XtDrnAg,lizzo,2 be loved (am i ready),167,1,0.721,0.769,7,-4.111,1,0.105,0.0922,0.0,0.0817,155.932,4,187108
-spotify:track:0i4UV3HjjvsUuV3BajEXoD,"mc tairon, mc vitin da igrejinha, dj win",baile no morro,154,3,0.714,0.404,3,-7.903,0,0.453,0.457,0.0,0.0701,130.088,4,140308
-spotify:track:5PZAbR6JHYYV9xp5gv0XES,"zé felipe, mc mari",bandido,125,4,0.882,0.721,11,-2.851,0,0.0512,0.0958,0.0,0.0989,120.018,4,132045
-spotify:track:737gzPI5VAmgUGWiJ9yXuu,"sofía reyes, jason derulo, de la ghetto","1, 2, 3 (feat. jason derulo & de la ghetto)",31,36,0.792,0.895,1,-3.112,0,0.0587,0.165,0.0,0.0501,94.968,4,201526
-spotify:track:3gUzi41YOt3VExeyHSLsMj,"thasup, lazza, sfera ebbasta",s!r! (feat. lazza & sfera ebbasta),185,1,0.675,0.739,6,-4.603,0,0.0524,0.387,0.0,0.177,149.959,4,237701
-spotify:track:3AbNNvo2OmyeDMvRBgf9vk,"tini, becky g, anitta",la loto,157,2,0.855,0.83,1,-2.815,1,0.106,0.0783,1.31e-06,0.08,90.009,4,190667
-spotify:track:21szgNA72iLwvBxHQLgwBh,nessa barrett,die first,194,1,0.444,0.669,8,-6.727,0,0.125,0.0669,0.0,0.124,183.441,4,177109
-spotify:track:7CAdT0HdiQNlt1C7xk2hep,jung kook,stay alive (prod. suga of bts),10,1,0.512,0.76,2,-5.889,0,0.0682,0.299,0.0,0.103,130.096,4,210928
-spotify:track:6N1K5OVVCopBjGViHs2IvP,"ed sheeran, taylor swift",the joker and the queen (feat. taylor swift),20,1,0.528,0.309,0,-7.398,1,0.0329,0.924,2.1e-06,0.282,133.83,4,185422
-spotify:track:4huBDGP4I3S0pYI0EaRN1c,"fivio foreign, kanye west, alicia keys",city of gods,57,1,0.474,0.801,8,-5.978,0,0.375,0.102,0.0,0.322,147.356,4,256000
-spotify:track:4LwU4Vp6od3Sb08CsP99GC,"dr. dre, snoop dogg",the next episode,86,1,0.922,0.909,10,-2.429,0,0.27,0.0281,0.0,0.0856,95.295,4,161507
-spotify:track:7lcI4X8RZxK4zIknJcwpBq,"nicki minaj, lil baby",bussin,122,1,0.893,0.699,11,-8.059,1,0.0517,0.0576,3.02e-06,0.128,139.972,4,136761
-spotify:track:7KXjTSCq5nL1LoYtL7XAwS,kendrick lamar,humble.,1,96,0.908,0.621,1,-6.638,0,0.102,0.000282,5.39e-05,0.0958,150.011,4,177000
-spotify:track:6potEImiklXkwD9qFzpu15,labrinth,forever,185,1,0.563,0.459,4,-7.781,0,0.0292,0.92,0.724,0.11,79.983,4,202536
-spotify:track:70pwY1UfPmSVE3ybPjFy0p,future,worst day,192,1,0.646,0.597,1,-6.045,1,0.401,0.11,0.0,0.0958,88.506,4,184893
-spotify:track:0fv2KH6hac06J86hBUTcSf,"tyler, the creator",new magic wand,54,3,0.621,0.73,5,-5.414,0,0.107,0.0967,0.000131,0.673,139.566,4,195320
-spotify:track:35wvL50xvKpCHEJPxLOLPI,bad bunny,si estuviésemos juntos,197,1,0.672,0.594,1,-6.813,0,0.0789,0.0626,5.14e-05,0.152,171.854,4,169248
-spotify:track:35COLcFjvONwVv6jkG23gI,anitta,boys don't cry,107,1,0.589,0.842,5,-4.86,1,0.0372,0.00178,0.0,0.113,164.163,4,136012
-spotify:track:6MOst484piqXpzPPRRe8i5,xxxtentacion,vice city,181,1,0.853,0.467,9,-6.843,0,0.195,0.00596,0.00171,0.203,87.023,4,220709
-spotify:track:0KCSJzsQVxkloxoT7dyrqV,sim,the rumbling (tv size),192,1,0.408,0.875,8,-1.536,1,0.0546,1.68e-05,0.000101,0.264,144.975,4,90266
-spotify:track:1Ov37jtRQ2YNAe8HzfczkL,taylor swift,wildest dreams (taylor's version),29,11,0.583,0.67,8,-7.289,1,0.0646,0.0374,0.0001,0.126,140.061,4,220433
-spotify:track:6NHpyYvJyQsg2nXXzGYc2R,morgan wallen,thought you should know,123,1,0.529,0.695,6,-6.174,1,0.0278,0.488,1.24e-05,0.142,139.993,4,215572
-spotify:track:6wyhUr4Xw8z5uSy0AhoZfU,"future, drake",i'm on one (feat. drake),48,2,0.773,0.707,11,-5.71,1,0.0568,0.0103,1.04e-05,0.296,76.977,4,236187
-spotify:track:7IBLt4Qarf4JDLxIQDv2O5,a$ap rocky,d.m.b.,159,1,0.727,0.616,8,-8.487,1,0.338,0.542,4.47e-06,0.482,140.014,4,291612
-spotify:track:7Bot6AB2dsvZEyqzUL8AUH,jack harlow,i'd do anything to make you smile,187,1,0.832,0.522,2,-7.244,1,0.05,0.012,0.079,0.377,150.044,4,193765
-spotify:track:3FSwpQ9dBZBeBV6UdYHI2R,future,712pm,61,1,0.711,0.686,5,-6.409,0,0.271,0.0355,0.0,0.124,146.971,4,173187
-spotify:track:7rWCWzPRftzZTZtIyQtaDU,"future, kanye west",keep it burnin (feat. kanye west),85,1,0.652,0.578,0,-6.187,1,0.161,0.00861,0.0,0.285,87.395,4,207213
-spotify:track:0AAVJIN4plafvmNKqRCltG,future,i'm dat n****,86,1,0.911,0.573,2,-5.573,1,0.163,0.0112,5.83e-05,0.131,144.026,4,271840
-spotify:track:4XJRpBOG0bU3Nxnvam3FnC,future,love you better,131,1,0.709,0.357,5,-9.289,1,0.214,0.478,0.000294,0.112,75.494,4,129480
-spotify:track:7HCX1Ch3mklJyEdpwPZBFW,"future, gunna, young thug",for a nut (feat. gunna & young thug),139,1,0.824,0.667,10,-6.603,0,0.0814,0.00321,2.65e-06,0.0956,82.037,4,207933
-spotify:track:2tzgSUZOUKopYbRqQOVT8X,future,massaging me,180,1,0.916,0.453,1,-4.148,1,0.158,0.000189,0.0,0.137,145.007,4,106133
-spotify:track:1Ijpng3ZLhTRcEd8iqh4p4,future,gold stacks,190,1,0.763,0.526,5,-6.753,0,0.355,0.00937,2.25e-06,0.111,181.856,4,162333
-spotify:track:5bLGQqcpsz5ISWeihZfJnR,"russ, ed sheeran",are you entertained (feat. ed sheeran),60,1,0.587,0.61,10,-6.881,0,0.234,0.0402,0.0,0.167,130.063,4,156083
-spotify:track:0N9C80kcgL0xXGduKnYKWi,"mac miller, the temper trap",love lost,175,1,0.735,0.812,2,-4.417,1,0.151,0.528,0.0,0.186,109.835,4,162876
-spotify:track:4xxeEWGQNFQ6qehlnev5LS,marília mendonça,te amo demais,177,1,0.713,0.625,0,-3.473,1,0.0268,0.573,0.0,0.11,114.023,4,205685
-spotify:track:3uJFmluXzYedoJcvhpC1AW,"cardi b, kanye west, lil durk",hot shit (feat. ye & lil durk),54,2,0.878,0.685,9,-5.28,1,0.225,0.00152,0.0,0.0753,157.003,4,211649
-spotify:track:00imgaPlYRrMGn9o83hfmk,brent faiyaz,loose change,178,1,0.574,0.369,1,-8.931,0,0.0814,0.753,0.0,0.147,84.975,4,226011
-spotify:track:3XgGQ1wjo5khvq2UImjyNF,brent faiyaz,all mine,188,1,0.617,0.378,9,-8.54,1,0.0315,0.428,9.16e-05,0.11,141.967,4,216063
-spotify:track:5QvW5lK6mkfTegpAK9JOO7,"fivio foreign, the kid laroi",paris to tokyo,198,1,0.642,0.787,5,-6.389,0,0.17,0.0185,0.0,0.288,146.733,4,130897
-spotify:track:3Z7CaxQkqbIs1rewKi6v4W,"tiësto, charli xcx",hot in it,150,1,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,123.045,4,129817
-spotify:track:7sA2SKTo1QbTSSYn5YvJC4,imagine dragons,sharks,111,2,0.927,0.642,10,-4.466,0,0.0657,0.00791,3.62e-05,0.279,123.969,4,190883
-spotify:track:6Kfoo60npYPdvNxMPMiDpX,post malone,wrapped around your finger,69,1,0.744,0.628,2,-5.435,1,0.0287,0.0493,0.0,0.317,119.966,4,193565
-spotify:track:1NvpO1o8SpkdH3txtJQQc7,post malone,lemon tree,71,1,0.611,0.584,11,-6.897,0,0.0301,0.083,0.0,0.432,116.106,4,243486
-spotify:track:67dU06KGaJHLLlo5Y5bkD2,post malone,reputation,74,1,0.314,0.439,2,-5.726,1,0.0311,0.671,0.0,0.181,180.119,4,248178
-spotify:track:2OcSE0EXzgUuqkM1NIJPHJ,"post malone, the kid laroi",wasting angels (with the kid laroi),75,1,0.583,0.43,9,-7.748,1,0.0353,0.801,0.0,0.0867,84.967,4,243158
-spotify:track:4IxeKzzxUSEgivgtbSbyIK,"post malone, gunna",i cannot be (a sadder song) (with gunna),86,1,0.517,0.668,1,-6.012,1,0.116,0.0712,0.0,0.407,79.782,4,169824
-spotify:track:2meHtZ7N97pJfvTL4hYtfv,post malone,insane,97,1,0.645,0.671,10,-7.208,0,0.0459,0.0597,8e-06,0.11,82.546,4,169661
-spotify:track:6R9c642Hs3tOdLowjYaWt2,"post malone, fleet foxes",love/hate letter to alcohol (with fleet foxes),115,1,0.475,0.569,4,-7.073,0,0.0343,0.037,0.00129,0.232,108.007,4,183816
-spotify:track:1oc92BMKYkNxK17C2GtyRM,polo g,distraction,121,1,0.713,0.689,11,-5.99,1,0.255,0.16,0.0,0.136,156.934,4,171319
-spotify:track:5Ja2u1FPlVxrxeMWEa2dcn,post malone,when i’m alone,177,1,0.485,0.656,10,-6.121,0,0.0528,0.0346,0.0,0.155,140.107,4,195111
-spotify:track:7JyFwJC3uRpiNfq7oKafgn,post malone,euthanasia,191,1,0.301,0.303,4,-12.39,1,0.0458,0.177,0.031,0.0979,141.997,4,145796
-spotify:track:4C6Uex2ILwJi9sZXRdmqXp,nicki minaj,super freaky girl,16,1,0.95,0.891,2,-2.653,1,0.241,0.0645,1.77e-05,0.309,133.01,4,170977
-spotify:track:6i1g5ZRmJZAkDwBaUZ3f2i,luar la l,caile,75,1,0.704,0.756,0,-4.948,1,0.448,0.298,3.75e-06,0.0852,121.737,3,141340
-spotify:track:79HZAZNnOE97rb2hnI0XQr,"rauw alejandro, lyanno, brray",lokera,95,1,0.834,0.828,11,-2.657,0,0.0452,0.21,5.91e-06,0.103,102.019,4,195294
-spotify:track:2HZLXBOnaSRhXStMLrq9fD,ghost,mary on a cross,135,1,0.466,0.9,11,-4.469,1,0.0447,0.000235,0.00104,0.103,130.02,4,244804
-spotify:track:2pIUpMhHL6L9Z5lnKxJJr9,newjeans,attention,137,1,0.811,0.648,10,-3.684,0,0.0368,0.236,0.0,0.0761,104.988,4,180067
-spotify:track:6qyS9qBy0mEk3qYaH8mPss,kordhell,murder in my mind,163,1,0.712,0.972,10,-0.514,1,0.112,0.00547,7.06e-05,0.128,119.966,4,145000
-spotify:track:0a4MMyCrzT0En247IhqZbD,newjeans,hype boy,171,1,0.593,0.935,4,-3.43,0,0.225,0.268,0.0,0.286,99.976,4,179027
-spotify:track:5kpxVMDvYGRmNqawPqDTYR,"la adictiva banda san josé de mesillas, luis r conriquez",jgl,173,1,0.702,0.586,8,-5.317,1,0.118,0.55,0.0,0.27,112.852,4,158093
-spotify:track:7DbdUf8aHSYoliSjO6LZv6,beach weather,"sex, drugs, etc.",175,1,0.572,0.839,4,-5.083,0,0.0377,0.013,0.00976,0.522,143.969,4,196784
-spotify:track:4UyVCLbNG8yhrqbzeSmdho,"black eyed peas, shakira, david guetta",don't you worry,189,1,0.816,0.874,11,-4.822,1,0.0308,0.201,0.0,0.209,131.967,4,196364
-spotify:track:6tTeRmhhuwDl5Y4UiJdHuO,"omah lay, justin bieber",attention,104,1,0.817,0.72,5,-8.134,0,0.0809,0.172,0.000726,0.109,119.989,4,180563
-spotify:track:374EllG6WyKdKvklfanNZT,"machine gun kelly, lil wayne",ay! (feat. lil wayne),114,1,0.741,0.616,2,-6.686,1,0.034,0.052,5.86e-05,0.0705,147.008,4,124188
-spotify:track:7JIIY2oDPFkURYMCLJuzhe,"dominic fike, zendaya","elliot's song - from ""euphoria"" an hbo original series",130,1,0.394,0.327,4,-14.291,1,0.114,0.849,0.0,0.125,93.358,4,150320
-spotify:track:1W1N3usYjgI3XGQA0iX9Vq,"miksu / macloud, t-low",sehnsucht,200,1,0.804,0.645,6,-7.069,0,0.0773,0.642,0.0,0.173,142.09,4,152827
-spotify:track:5zyZM1EiSqrniyqtprwxpv,drake,falling back,10,1,0.718,0.758,10,-8.29,1,0.0703,0.238,0.00653,0.11,118.989,4,266179
-spotify:track:7a5fliY9SsZENrQWQBZron,drake,texts go green,25,1,0.765,0.627,0,-4.607,1,0.0622,0.000916,0.195,0.0847,118.997,4,308820
-spotify:track:0nAZGkBGKQCXyaoSJfRhC1,drake,a keeper,28,1,0.6,0.482,1,-11.596,1,0.0701,0.512,0.000104,0.115,121.909,4,173097
-spotify:track:7sT7kZEYd1MrmzLLIRVZas,drake,calling my name,30,1,0.826,0.276,11,-11.227,0,0.266,0.62,8.53e-05,0.118,123.985,4,129965
-spotify:track:7IaeavdRzXYQWfu2Wt5GlU,drake,currents,38,1,0.883,0.283,0,-12.653,1,0.113,0.104,0.00167,0.0935,122.013,4,157390
-spotify:track:23Z3bbYcl1PdcPJemLa4zc,drake,flight's booked,49,1,0.593,0.41,3,-13.097,0,0.0531,0.886,0.0993,0.115,122.584,4,254407
-spotify:track:5lVmzrKaqPpPYtF7udoiNq,drake,intro,61,1,0.193,0.0218,0,-31.16,0,0.0389,0.955,0.88,0.117,125.501,3,36935
-spotify:track:1MJHXJ8bdoynpEtCLCbkWf,drake,overdrive,68,1,0.502,0.645,2,-10.611,0,0.122,0.444,0.00964,0.107,109.739,4,202451
-spotify:track:5KW4KhJIAbVVSH6pJ4GPkb,drake,tie that binds,87,1,0.775,0.688,4,-10.912,0,0.0593,0.0176,0.0917,0.108,120.017,4,336005
-spotify:track:0PKpNkxX3FkcfgxCQUXXds,drake,down hill,89,1,0.718,0.319,3,-11.261,1,0.0435,0.965,0.00036,0.0895,109.994,4,250865
-spotify:track:2vy9Ry1TNjCD85TiCbTz0r,drake,liability,96,1,0.557,0.706,0,-6.592,1,0.0649,0.268,0.0,0.132,105.013,4,237933
-spotify:track:28n8z9IQKyjMPxmvYMBqZa,luke combs,the kind of love we make,194,1,0.608,0.745,1,-4.13,1,0.0277,0.0226,6.47e-06,0.0942,102.025,4,224427
-spotify:track:0qYW2jULeN9giEty0ee9Fy,mc rogerinho,botadinha saliente,105,1,0.985,0.698,0,-2.531,1,0.0341,0.142,0.0,0.321,119.959,4,158000
-spotify:track:1M5OUvKG03C0QtzvxRS4Zk,"dj guuga, wesley safadão, zé felipe",depende,129,1,0.886,0.909,2,-1.84,0,0.0642,0.125,0.0,0.0755,130.027,4,156923
-spotify:track:3ITkrUvAA6gzxer2UIom3P,jorge & mateus,molhando o volante,186,2,0.772,0.647,10,-5.404,1,0.0758,0.707,0.0,0.113,130.183,5,162539
-spotify:track:7BKLCZ1jbUBVqRi2FVlTVw,"the chainsmokers, halsey",closer,2,179,0.748,0.524,8,-5.599,1,0.0338,0.414,0.0,0.111,95.01,4,244960
-spotify:track:3XYRV7ZSHqIRDG87DKTtry,bts,permission to dance,5,26,0.702,0.741,9,-5.33,1,0.0427,0.00544,0.0,0.337,124.925,4,187585
-spotify:track:6krYS8KtmNAYyb5uTZiYW4,the weeknd,dawn fm,27,1,0.28,0.478,9,-8.755,0,0.037,0.674,5.85e-05,0.483,111.65,4,96240
-spotify:track:5XbA7TAqsD0fj0dGBrbb0D,"the weeknd, lil wayne",i heard you’re married (feat. lil wayne),28,1,0.736,0.848,9,-5.494,0,0.171,0.103,0.0,0.299,109.946,4,263642
-spotify:track:6zzdyvVWjGrQBraSvuqJPY,the weeknd,starry eyes,35,1,0.309,0.418,9,-8.622,0,0.031,0.465,7.58e-05,0.295,134.23,4,148000
-spotify:track:759ndr57jb0URg4j9YSWml,the weeknd,a tale by quincy,54,1,0.447,0.513,5,-8.67,0,0.127,0.679,2.98e-05,0.096,67.289,3,96232
-spotify:track:6a4GH1gljLL7VvmO9u5O92,the weeknd,don’t break my heart,55,1,0.767,0.618,10,-7.163,1,0.032,0.31,0.0,0.179,121.959,4,205469
-spotify:track:3vJcz8exedHCjQ9ed95NqU,the weeknd,every angel is terrifying,62,1,0.447,0.959,0,-5.59,1,0.348,0.109,2.75e-05,0.0498,118.167,4,167256
-spotify:track:1NlK2NtpuUazpziLhnJwEV,the weeknd,phantom regret by jim,92,1,0.394,0.519,9,-11.042,0,0.0465,0.75,0.195,0.129,110.113,4,179580
-spotify:track:3XLbDUB5BX2WqL2qoAsvtb,"gunna, 21 savage",thought i was playing,94,1,0.679,0.73,1,-7.483,1,0.0689,0.00421,0.0,0.0736,148.038,4,167840
-spotify:track:6gPPoRYJwCsoB2VVdPJfmo,david kushner,miserable man,135,1,0.632,0.349,10,-10.289,1,0.0346,0.926,7.5e-05,0.294,109.981,4,232992
-spotify:track:0boodYr1uIpSVmGSP65Fmk,"gunna, lil baby",25k jacket (feat. lil baby),141,1,0.903,0.537,5,-6.854,0,0.283,0.16,0.0,0.129,115.013,4,120000
-spotify:track:2iCDO8ePNuCvMiMFc0FQdA,gunna,alotta cake,146,1,0.895,0.543,11,-6.766,0,0.298,0.181,0.0,0.12,120.078,4,193987
-spotify:track:2ZGEjmwyeZ3rpEezkZwqOP,"gunna, young thug",mop (feat. young thug),160,1,0.878,0.575,9,-8.732,1,0.284,0.00293,0.0,0.273,144.918,4,185213
-spotify:track:6M3PsepEj5gyJoIi7Xvr7u,the weeknd,take my breath - single version,7,21,0.747,0.739,8,-6.008,1,0.0487,0.0106,2.22e-05,0.101,120.996,4,220196
-spotify:track:0lJE8f0lx8mUSfMyxeYpiC,"tini, l-gante",bar,99,9,0.523,0.691,1,-3.802,1,0.0833,0.133,0.0,0.327,94.148,4,160213
-spotify:track:0So2sgVa8aJiARPl2P29u2,sales,pope is a rockstar,108,5,0.725,0.446,4,-8.958,0,0.0287,0.85,0.243,0.107,90.024,4,187333
-spotify:track:1TUuhV75FeOF6UObRsABo2,morgan wallen,don't think jesus,96,1,0.578,0.431,2,-7.034,1,0.0269,0.469,0.0,0.137,116.979,3,226975
-spotify:track:3GbQcjKWT7eVpUfzqwUjxv,"lil nas x, youngboy never broke again",late to da party (f*ck bet) (feat. youngboy never broke again),86,1,0.872,0.422,1,-7.415,0,0.363,0.0254,0.0,0.109,149.956,4,180666
-spotify:track:7My9ca9QEIR8MvIOdIrTWA,"eminem, snoop dogg",from the d 2 the lbc (with snoop dogg),135,1,0.73,0.785,9,-7.986,0,0.243,0.105,0.0,0.0445,82.037,4,215120
-spotify:track:4axSuOg3BqsowKjRpj59RU,taylor swift,carolina - from the motion picture “where the crawdads sing”,152,1,0.476,0.189,11,-13.777,0,0.0329,0.904,4.52e-06,0.254,115.851,4,264439
+uri,track_name,artist_names,peak_rank,weeks_on_chart,danceability,energy,key,loudness,mode,speechiness,acousticness,tempo
+spotify:track:02MWAaffLxlfxAUY7c5dvx,heat waves,glass animals,1,65,0.761,0.525,B,-6.9,Major,0.0944,0.44,80.87
+spotify:track:5PjdY0CKGZdEuoNab3yDmX,stay (with justin bieber),"the kid laroi, justin bieber",1,37,0.591,0.764,C#,-5.484,Major,0.0483,0.0383,169.928
+spotify:track:3IAfUEeaXRX9s9UdKOJrFI,envolver,anitta,3,3,0.812,0.736,E,-5.421,Minor,0.0833,0.152,91.993
+spotify:track:1HhNoOuqm1a5MXYEgAFl8o,enemy (with jid) - from the series arcane league of legends,"imagine dragons, jid, arcane, league of legends",3,21,0.728,0.783,B,-4.424,Minor,0.266,0.237,77.011
+spotify:track:4fouWK6XVHhzl78KzQ1UjL,abcdefu,gayle,1,19,0.695,0.54,E,-5.692,Major,0.0493,0.299,121.932
+spotify:track:7rglLriMNBPAyuJOMGwi39,cold heart - pnau remix,"elton john, dua lipa, pnau",4,32,0.795,0.8,C#,-6.32,Major,0.0309,0.0354,116.032
+spotify:track:1ri9ZUkBJVFUdgwzCnfcYs,mamiii,"becky g, karol g",5,6,0.843,0.7,E,-3.563,Minor,0.0803,0.0934,93.991
+spotify:track:5Z9KJZvQzH6PFmb8SNkxuk,industry baby (feat. jack harlow),"lil nas x, jack harlow",2,35,0.741,0.691,A#,-7.395,Minor,0.0672,0.0221,150.087
+spotify:track:6mmPpaltUZK7xjNlBPQQ0p,desesperados,"rauw alejandro, chencho corleone",8,15,0.869,0.694,C#,-3.35,Minor,0.0783,0.356,90.02
+spotify:track:50nfwKoDiSYg8zOCREWAm5,shivers,ed sheeran,4,28,0.788,0.859,D,-2.724,Major,0.0856,0.281,141.02
+spotify:track:6Uj1ctrBOjOas8xZXGqKk4,woman,doja cat,6,37,0.824,0.764,F,-4.175,Minor,0.0854,0.0888,107.998
+spotify:track:46IZ0fSY2mpAiktS3KOqds,easy on me,adele,1,23,0.604,0.366,F,-7.519,Major,0.0282,0.578,141.981
+spotify:track:6I3mqTwhRpn34SLVafSH7G,ghost,justin bieber,11,27,0.601,0.741,D,-5.569,Major,0.0478,0.185,153.96
+spotify:track:0QBzMgT7NIeoCYy3sJCof1,bam bam (feat. ed sheeran),"camila cabello, ed sheeran",13,3,0.756,0.697,G#,-6.377,Major,0.0401,0.182,94.996
+spotify:track:58HvfVOeJY7lUuCqF0m3ly,middle of the night,elley duhé,14,13,0.41,0.611,E,-8.271,Minor,0.0467,0.0228,185.727
+spotify:track:1O2pcBJGej0pmH2Y9XZMs6,una noche en medellín,cris mj,16,4,0.87,0.548,A#,-5.253,Minor,0.077,0.0924,96.018
+spotify:track:0e8nrvls4Qqv5Rfa2UhqmO,thats what i want,lil nas x,3,27,0.737,0.846,C#,-4.51,Minor,0.22,0.00614,87.981
+spotify:track:3uUuGVFu1V7jTQL60S1r8z,where are you now,"lost frequencies, calum scott",18,29,0.671,0.636,F#,-8.117,Minor,0.103,0.515,120.966
+spotify:track:59CfNbkERJ3NoTXDvoURjj,boyfriend,dove cameron,11,6,0.345,0.612,G,-6.543,Minor,0.0608,0.232,179.773
+spotify:track:3rmo8F54jFF8OgYsqTxm5d,bad habits,ed sheeran,3,39,0.807,0.893,B,-3.745,Minor,0.0347,0.0451,126.011
+spotify:track:1SOClUWhOi8vHZYMz3GluK,infinity,jaymes young,11,21,0.671,0.673,B,-6.941,Minor,0.0444,0.148,121.963
+spotify:track:2B4GHvToeLTOBB4QLzW3Ni,pepas,farruko,4,37,0.762,0.766,G,-3.955,Major,0.0343,0.00776,130.001
+spotify:track:18asYwWugKjjsihZ0YvRxO,the motto,"tiësto, ava max",23,20,0.754,0.763,G,-4.627,Minor,0.0435,0.0301,117.953
+spotify:track:4ZtFanR9U6ndgddUvNcjcG,good 4 u,olivia rodrigo,1,45,0.563,0.664,A,-5.044,Major,0.154,0.335,166.928
+spotify:track:46HNZY1i7O6jwTA7Slo2PI,my universe,"coldplay, bts",3,26,0.573,0.711,C#,-6.268,Minor,0.0406,0.0114,105.006
+spotify:track:4SqWKzw0CbA05TGszDgMlc,i love you so,the walters,21,24,0.575,0.648,A#,-4.891,Major,0.0358,0.583,75.977
+spotify:track:0VjIjW4GlUZAMYd2vXMi3b,blinding lights,the weeknd,1,121,0.514,0.73,C#,-5.934,Major,0.0598,0.00146,171.005
+spotify:track:4gzsuuZypVbxs0Af1LSZyB,lo siento bb:/ (with bad bunny & julieta venegas),"tainy, bad bunny, julieta venegas",12,25,0.639,0.703,E,-6.33,Minor,0.0794,0.0889,169.888
+spotify:track:7mFj0LlWtEJaEigguaWqYh,sweetest pie,"megan thee stallion, dua lipa",17,2,0.814,0.628,G,-7.178,Major,0.221,0.167,123.977
+spotify:track:2WL6GQzPuK9Nrpy9XwNEbz,something in the way,nirvana,19,3,0.426,0.225,G#,-12.422,Major,0.0291,0.823,104.506
+spotify:track:7jtQIBanIiJOMS6RyCx6jZ,another love,tom odell,31,50,0.442,0.538,E,-8.55,Minor,0.0451,0.717,122.758
+spotify:track:20on25jryn53hWghthWWW3,do it to it,"acraze, cherish",9,21,0.854,0.806,B,-8.262,Minor,0.0886,0.0209,124.927
+spotify:track:2QjOHCTQ1Jl3zawyYOpxh6,sweater weather,the neighbourhood,29,82,0.612,0.807,A#,-2.81,Major,0.0336,0.0495,124.053
+spotify:track:2JPLbjOn0wPCngEot2STUS,yonaguni,bad bunny,3,42,0.644,0.648,C#,-4.601,Major,0.118,0.276,179.951
+spotify:track:3Vi5XqYrmQgOYBajMWSvCi,need to know,doja cat,6,41,0.664,0.609,C#,-6.509,Major,0.0707,0.304,130.041
+spotify:track:2eAvDnpXP5W0cVtiI0PUxV,dandelions,ruth b.,35,32,0.609,0.692,C#,-2.958,Major,0.0259,0.0157,116.959
+spotify:track:52xJxFP6TqMuO4Yt0eOkMz,we don't talk about bruno,"carolina gaitán - la gaita, mauro castillo, adassa, rhenzy feliz, diane guerrero, stephanie beatriz, encanto - cast",8,13,0.577,0.45,C,-8.516,Minor,0.0834,0.357,205.863
+spotify:track:3DarAbFujv6eYNliUTyqtz,kiss me more (feat. sza),"doja cat, sza",3,50,0.764,0.705,G#,-3.463,Major,0.0284,0.259,110.97
+spotify:track:7BDHDiidJ8WV349p3HTxTV,maniac,stray kids,39,1,0.744,0.8,C#,-2.63,Major,0.266,0.181,89.925
+spotify:track:3AVXwaOGCEL8cmBecfcsFJ,light switch,charlie puth,19,9,0.69,0.626,F#,-5.693,Major,0.306,0.105,184.009
+spotify:track:5nujrmhLynf4yMoMtj8AQF,levitating (feat. dababy),"dua lipa, dababy",4,77,0.702,0.825,F#,-3.787,Minor,0.0601,0.00883,102.977
+spotify:track:5CZ40GBx1sQ9agT82CLQCT,traitor,olivia rodrigo,7,44,0.38,0.339,D#,-7.885,Major,0.0338,0.691,100.607
+spotify:track:1oFAF1hdPOickyHgbuRjyX,save your tears (remix) (with ariana grande) - bonus track,"the weeknd, ariana grande",5,48,0.65,0.825,C,-4.645,Major,0.0325,0.0215,118.091
+spotify:track:70AYiGbc4mWZGEqiipBBDb,candy,rosalía,44,1,0.638,0.49,E,-5.726,Minor,0.226,0.885,179.905
+spotify:track:531KGXtBroSrOX9LVmiIgc,starlight,dave,45,3,0.954,0.367,E,-9.551,Minor,0.288,0.341,124.026
+spotify:track:2K7xn816oNHJZ0aVqdQsha,softcore,the neighbourhood,35,11,0.575,0.568,A,-5.509,Minor,0.03,0.0484,93.986
+spotify:track:1SC5rEoYDGUK4NfG82494W,montero (call me by your name),lil nas x,1,52,0.593,0.503,G#,-6.725,Minor,0.22,0.293,178.781
+spotify:track:5zNxUkUW9WiV5oyg6gh2wB,dançarina,"pedro sampaio, mc pedrinho",32,5,0.778,0.571,A,-4.776,Minor,0.0788,0.0423,134.999
+spotify:track:7lQ8MOhq6IN2w8EYcFNSUk,without me,eminem,31,26,0.908,0.669,G,-2.827,Major,0.0738,0.00286,112.238
+spotify:track:6lX6l7OuA3qrnIRfdsr0dw,medallo,"blessd, justin quiles, lenny tavárez",48,18,0.787,0.7,E,-4.598,Minor,0.0768,0.568,90.02
+spotify:track:1mWdTewIgB3gtBM3TOSFhB,butter,bts,2,44,0.759,0.459,G#,-5.187,Major,0.0948,0.00323,109.997
+spotify:track:1ZdhOMWyFR8Iv9eylMGYg2,mount everest,labrinth,36,7,0.494,0.428,C,-7.239,Minor,0.205,0.236,87.724
+spotify:track:2rDZhKnPaPG054ExZ6nXUS,jordan,ryan castro,53,4,0.796,0.68,A#,-5.555,Minor,0.37,0.0575,179.923
+spotify:track:5QO79kh1waicV47BqGRL3g,save your tears,the weeknd,2,68,0.68,0.826,C,-5.487,Major,0.0309,0.0212,118.051
+spotify:track:5wANPM4fQCJwkGd4rN57mH,drivers license,olivia rodrigo,1,63,0.561,0.431,A#,-8.81,Major,0.0578,0.768,143.875
+spotify:track:6Y46tOTRhkBamosyuWa6YX,la fama (with the weeknd),"rosalía, the weeknd",32,15,0.766,0.295,C,-7.893,Minor,0.0464,0.947,136.016
+spotify:track:58ge6dfP91o9oXMzq3XkIS,505,arctic monkeys,57,12,0.52,0.852,C,-5.866,Major,0.0543,0.00237,140.267
+spotify:track:0Bv7O6fmZk3GrNQFYJaXPn,"cayó la noche (feat. cruz cafuné, abhir hathi, bejo, el ima) [remix]","la pantera, quevedo, juseph, abhir hathi, bejo, cruz cafuné, el ima",58,8,0.672,0.745,F,-5.269,Minor,0.3,0.438,173.974
+spotify:track:4MzXwWMhyBbmu6hOcLVD49,dákiti,"bad bunny, jhay cortez",1,73,0.731,0.573,E,-10.059,Minor,0.0544,0.401,109.928
+spotify:track:6ylDpki1VpIsc525KC1ojF,tacones rojos,sebastian yatra,45,18,0.746,0.844,B,-3.499,Minor,0.0359,0.062,123.014
+spotify:track:3uwnnTQcHM1rDqSfA4gQNz,cool for the summer,demi lovato,61,1,0.583,0.61,F,-5.639,Minor,0.0382,0.00425,114.06
+spotify:track:5TMLavqGRKNxgzMBrVpC9R,mon amour - remix,"zzoilo, aitana",34,29,0.748,0.761,D,-6.621,Major,0.102,0.122,116.041
+spotify:track:0HqZX76SFLDz2aW8aiqi7G,bones,imagine dragons,63,2,0.773,0.742,F,-3.678,Minor,0.046,0.0206,114.071
+spotify:track:5gflgO9EPbIBf16n5TKnQS,yo voy (feat. daddy yankee),zion & lennox,63,5,0.808,0.697,A#,-5.899,Major,0.241,0.041,95.06
+spotify:track:72jYQj3RgTR1DFLfibD71B,arasan da,uzi,65,1,0.742,0.832,A#,-6.812,Major,0.156,0.425,105.978
+spotify:track:4RVwu0g32PAqgUiJoXsdF8,happier than ever,billie eilish,6,34,0.332,0.225,C,-8.697,Major,0.0348,0.767,81.055
+spotify:track:0IuVhCflrQPMGRrOyoY5RW,she's all i wanna be,tate mcrae,38,7,0.614,0.644,D,-5.372,Minor,0.0426,0.0134,160.036
+spotify:track:3XOalgusokruzA5ZBA2Qcb,pushin p (feat. young thug),"gunna, future, young thug",14,11,0.773,0.422,C#,-4.572,Minor,0.187,0.00783,77.502
+spotify:track:3Wrjm47oTz2sjIgck11l5e,beggin',måneskin,1,42,0.714,0.8,B,-4.808,Minor,0.0504,0.127,134.002
+spotify:track:2gQPv5jvVPqU2a9HhMNO1v,toxic,boywithuke,23,23,0.594,0.612,G#,-6.627,Minor,0.363,0.835,179.629
+spotify:track:2Xr1dTzJee307rmrkt8c0g,love nwantiti (ah ah ah),ckay,9,28,0.727,0.739,G#,-3.805,Major,0.0411,0.365,93.005
+spotify:track:1Al4Z4K76RCKj31mExavs7,maybe (feat. bring me the horizon),"machine gun kelly, bring me the horizon",72,1,0.522,0.922,F,-4.805,Minor,0.0616,0.000745,176.105
+spotify:track:6UelLqGlWMcVH1E5c4H7lY,watermelon sugar,harry styles,4,123,0.548,0.816,C,-4.209,Major,0.0465,0.122,95.39
+spotify:track:6Jrdb6CFOJEGaHjaa6c4WR,idgaf (with blackbear),"boywithuke, blackbear",74,1,0.783,0.75,F,-5.762,Major,0.078,0.426,97.953
+spotify:track:74WROFXsox6wkeUrEK2DS6,chale,eden muñoz,75,3,0.551,0.436,G#,-8.029,Major,0.0428,0.395,188.651
+spotify:track:3GZD6HmiNUhxXYf8Gch723,lost,frank ocean,50,10,0.913,0.603,G#,-4.892,Major,0.226,0.0272,123.061
+spotify:track:3i6sCTU7ENlnHpHvrHUitW,sometimes,juice wrld,77,1,0.674,0.58,G#,-4.866,Major,0.0311,0.0609,121.987
+spotify:track:2hHeGD57S0BcopfVcmehdl,hati-hati di jalan,tulus,45,3,0.643,0.436,F#,-11.322,Major,0.0357,0.702,71.969
+spotify:track:3o9kpgkIcffx0iSwxhuNI2,numb little bug,em beihold,69,8,0.742,0.527,G#,-6.892,Minor,0.0769,0.327,84.974
+spotify:track:3yfqSUWxFvZELEM4PmlwIR,the real slim shady,eminem,51,42,0.949,0.661,F,-4.244,Minor,0.0572,0.0302,104.504
+spotify:track:4r9jkMEnArtWGH2rL2FZl0,a tu merced,bad bunny,52,19,0.86,0.791,C,-4.784,Major,0.0568,0.169,92.023
+spotify:track:2FYGZDfsAnNsrm1gVbyKnG,saoko,rosalía,80,2,0.827,0.768,C,-5.702,Major,0.265,0.79,99.988
+spotify:track:2vmfvSoZBFAt9hhRoEByLi,volví,"aventura, bad bunny",10,34,0.725,0.86,C#,-3.726,Major,0.182,0.422,175.896
+spotify:track:00Blm7zeNqgYLPtW6zg8cj,one right now (with the weeknd),"post malone, the weeknd",9,20,0.687,0.781,C#,-4.806,Major,0.053,0.0361,97.014
+spotify:track:3PfIrDoz19wz7qK7tYeu62,don't start now,dua lipa,2,125,0.793,0.793,B,-4.521,Minor,0.083,0.0123,123.95
+spotify:track:6HU7h9RYOaPRFeh0R3UeAr,deja vu,olivia rodrigo,3,51,0.442,0.612,D,-7.222,Major,0.112,0.584,180.917
+spotify:track:3rdAz1fbUfZxYgaCviYhRo,todo de ti,rauw alejandro,2,44,0.78,0.719,D#,-3.613,Minor,0.0506,0.302,127.962
+spotify:track:4iJyoBOLtHqaGxP12qzhQI,peaches (feat. daniel caesar & giveon),"justin bieber, daniel caesar, giveon",1,53,0.677,0.696,C,-6.181,Major,0.119,0.321,90.03
+spotify:track:3Kkjo3cT83cw09VJyrLNwX,oh my god,adele,3,18,0.534,0.725,C#,-3.906,Major,0.046,0.091,88.098
+spotify:track:0oA9wBGDY4uyILLg4GymWP,tom's diner,"annenmaykantereit, giant rooks",90,1,0.68,0.428,F#,-8.107,Minor,0.135,0.376,98.222
+spotify:track:1Y5Jvi3eLi4Chwqch9GMem,super gremlin,kodak black,45,15,0.825,0.414,D,-6.634,Major,0.144,0.00265,72.993
+spotify:track:0pqnGHJpmpxLKifKRmU6WP,believer,imagine dragons,16,268,0.776,0.78,A#,-4.374,Minor,0.128,0.0622,124.949
+spotify:track:3yMC1KsTwh0ceXdIe4QQAQ,fingers crossed,lauren spencer smith,17,11,0.56,0.473,F,-7.23,Major,0.0533,0.618,109.414
+spotify:track:0RiRZpuVRbi7oqRdSMwhQY,sunflower - spider-man: into the spider-verse,"post malone, swae lee",1,179,0.755,0.522,D,-4.368,Major,0.0575,0.533,89.96
+spotify:track:0sTlGEld0h8kIPZaKDYUf4,notion,the rare occasions,67,11,0.309,0.883,A,-3.825,Major,0.0808,0.0673,159.488
+spotify:track:37y7iDayfwm3WXn5BiAoRk,dark red,steve lacy,66,33,0.603,0.783,F#,-4.023,Major,0.062,0.449,172.041
+spotify:track:2gpWyfu7eZ01zzncHpxOtA,moth to a flame (with the weeknd),"swedish house mafia, the weeknd",7,22,0.542,0.659,G#,-7.289,Major,0.0389,0.00279,120.122
+spotify:track:5vUnjhBzRJJIAOJPde6zDx,to the moon,"jnr choi, sam tompkins",55,11,0.745,0.65,D,-11.814,Major,0.346,0.0451,144.047
+spotify:track:4srcMdbm2qzVG98tJajHxp,pantysito,"alejo, feid, robi",99,1,0.83,0.739,G,-5.395,Minor,0.0627,0.136,97.993
+spotify:track:5QDLhrAOJJdNAmCTJ8xMyW,dynamite,bts,2,83,0.746,0.765,F#,-4.41,Minor,0.0993,0.0112,114.044
+spotify:track:503OTo2dSqe7qk76rgsbep,still d.r.e.,"dr. dre, snoop dogg",29,6,0.816,0.775,B,-3.323,Major,0.234,0.16,93.431
+spotify:track:1v7L65Lzy0j0vdpRjJewt1,"lose yourself - from ""8 mile"" soundtrack",eminem,44,66,0.686,0.735,D,-4.616,Major,0.264,0.00921,171.355
+spotify:track:0u2P5u6lvoDfwTYjAADbn4,lovely (with khalid),"billie eilish, khalid",24,205,0.351,0.296,E,-10.109,Minor,0.0333,0.934,115.284
+spotify:track:76YSWx6L6FNsuaP6GWBb8P,all for us,"labrinth, zendaya",43,11,0.46,0.66,D#,-6.642,Major,0.0652,0.0108,141.722
+spotify:track:6LtHYDgYHRCHoKK3snfr2w,i’m tired (with zendaya) - bonus track,"labrinth, zendaya",29,4,0.375,0.133,C,-10.624,Minor,0.0352,0.651,131.721
+spotify:track:2gpQi3hbcUAcEG8m2dlgfB,plan a,paulo londra,106,1,0.583,0.834,C,-4.875,Major,0.0444,0.0495,173.935
+spotify:track:7qEHsqek33rTcFNT9PFqLf,someone you loved,lewis capaldi,4,168,0.501,0.405,C#,-5.679,Major,0.0319,0.751,109.891
+spotify:track:7hU3IHwjX150XLoTVmjD0q,money,lisa,5,28,0.831,0.554,C#,-9.998,Minor,0.218,0.161,140.026
+spotify:track:0k4d5YPDr1r7FX77VdqWez,you right,"doja cat, the weeknd",15,39,0.828,0.621,G#,-6.414,Major,0.0565,0.0164,128.986
+spotify:track:2Gq636OOGgxCTqEuzCZhsa,"tiago pzk: bzrp music sessions, vol. 48","bizarrap, tiago pzk",37,12,0.656,0.823,C#,-3.059,Minor,0.315,0.47,96.474
+spotify:track:3AJwUDP919kvQ9QcozQPxg,yellow,coldplay,101,66,0.429,0.661,B,-7.227,Major,0.0281,0.00239,173.372
+spotify:track:69vlMrzHwATKzupwNcUPyK,la santa,"bad bunny, daddy yankee",14,23,0.744,0.868,C#,-4.524,Major,0.047,0.0326,93.037
+spotify:track:62Yo3FDddWY8ydu6PW2wyz,nail tech,jack harlow,36,5,0.677,0.557,C#,-8.409,Major,0.0694,0.00508,150.127
+spotify:track:0NBgyml7T0IvUNbXIkcSpH,malvadão 3,"xamã, gustah, neo beats",33,13,0.821,0.609,F#,-6.541,Minor,0.268,0.378,133.133
+spotify:track:68Dni7IE4VyPkTOH9mRWHr,no role modelz,j. cole,113,35,0.69,0.521,A#,-8.492,Minor,0.339,0.324,100.028
+spotify:track:5TXDeTFVRVY7Cvt0Dw4vWW,revenge,xxxtentacion,63,12,0.746,0.251,B,-16.169,Minor,0.259,0.782,139.999
+spotify:track:6EtKlIQmGPB9SX8UjDJG5s,formula,labrinth,68,10,0.574,0.664,B,-6.068,Major,0.0409,0.0448,144.654
+spotify:track:0dcnrLo8s1rhjm8euGjI4n,darari,treasure,102,4,0.716,0.638,C,-6.87,Major,0.0392,0.486,84.955
+spotify:track:7EkWXAI1wn8Ii883ecd9xr,freaks,surf curse,55,47,0.345,0.941,A,-9.918,Major,0.0466,3.84e-05,179.626
+spotify:track:2BcMwX1MPV6ZHP4tUT9uq6,knife talk (with 21 savage ft. project pat),"drake, 21 savage, project pat",10,29,0.849,0.424,F,-9.579,Minor,0.324,0.0635,145.887
+spotify:track:78kygHp1dvW1kncYjBgbe1,mujeriego,ryan castro,92,8,0.758,0.621,A,-8.033,Major,0.125,0.0628,79.949
+spotify:track:1UdzJEpgJxtuXAlCOvD4S0,fuera del mercado,danny ocean,122,1,0.453,0.673,G#,-5.649,Major,0.144,0.32,92.06
+spotify:track:3sd2p4kE7xQmFH3lPnFl6h,sentadona (remix) s2,"davi kneip, mc frog, dj gabriel do borel, luísa sonza",123,1,0.925,0.454,D#,-3.533,Minor,0.273,0.252,135.02
+spotify:track:0UXlu64mDLvfzR8IXMz06J,ya no somos ni seremos,christian nodal,37,5,0.588,0.452,G,-4.75,Major,0.0268,0.437,139.953
+spotify:track:0G2zPzWqVjR68iNPmx2TBe,volando - remix,"mora, bad bunny, sech",19,37,0.659,0.688,F#,-4.649,Major,0.0673,0.207,153.979
+spotify:track:2tpWsVSb9UEmDRxAl1zhX1,counting stars,onerepublic,117,54,0.664,0.705,C#,-4.972,Minor,0.0382,0.0654,122.016
+spotify:track:3GaGWoU1KfVqgl7vnRHP55,demasiadas mujeres,c. tangana,127,3,0.658,0.453,A,-7.378,Minor,0.39,0.131,126.043
+spotify:track:0gucTLf7trAf37Ua1uAyAu,smells like teen spirit,nirvana,109,63,0.489,0.918,C#,-4.502,Major,0.0554,3.53e-05,116.731
+spotify:track:2J2Z1SkXYghSajLibnQHOa,unstoppable,sia,112,6,0.468,0.779,A,-4.839,Major,0.0779,0.112,173.799
+spotify:track:1u8c2t2Cy7UBoG4ArRcF5g,blank space,taylor swift,130,20,0.76,0.703,F,-5.412,Major,0.054,0.103,95.997
+spotify:track:3Oww84xrmgjyr5J1ilOmAf,down under (feat. colin hay),"luude, colin hay",72,10,0.308,0.86,B,-4.111,Minor,0.168,0.0116,171.835
+spotify:track:5E30LdtzQTGqRvNd7l6kG5,daddy issues,the neighbourhood,99,76,0.588,0.521,A#,-9.461,Major,0.0329,0.0678,85.012
+spotify:track:5g7sDjBhZ4I3gcFIpkrLuI,locked out of heaven,bruno mars,111,12,0.728,0.697,F,-4.125,Major,0.0456,0.0556,143.986
+spotify:track:4xkOaSrkexMciUUogZKVTS,'till i collapse,"eminem, nate dogg",81,39,0.548,0.847,C#,-3.237,Major,0.186,0.0622,171.447
+spotify:track:1nH2PkJL1XoUq8oE6tBZoU,sacrifice,the weeknd,3,11,0.735,0.795,B,-6.523,Minor,0.113,0.0296,122.0
+spotify:track:1XGmzt0PVuFgQYYnV2It7A,payphone,"maroon 5, wiz khalifa",136,14,0.743,0.752,E,-4.813,Major,0.0414,0.0188,110.015
+spotify:track:0fea68AdmYNygeTGI4RC18,la canción,"j balvin, bad bunny",17,64,0.754,0.646,G,-5.795,Major,0.317,0.152,176.089
+spotify:track:0y60itmpH0aPKsFiGxmtnh,wait a minute!,willow,138,1,0.764,0.705,D#,-5.279,Minor,0.0278,0.0371,101.003
+spotify:track:1ojBtNRMzjL7ptLPZCzfRz,thinking with my dick (feat. juicy j),"kevin gates, juicy j",128,2,0.77,0.699,C,-6.59,Major,0.199,0.0596,81.003
+spotify:track:7qiZfU4dY1lWllzX7mPBI3,shape of you,ed sheeran,1,269,0.825,0.652,C#,-3.183,Minor,0.0802,0.581,95.977
+spotify:track:0ct6r3EGTcMLPtrXHDvVjc,the nights,avicii,44,54,0.527,0.835,F#,-5.298,Major,0.0433,0.0166,125.983
+spotify:track:1DIXPcTDzTj8ZMHt3PDt8p,gangsta's paradise,"coolio, l.v.",116,22,0.647,0.514,G#,-10.05,Major,0.0593,0.0655,79.975
+spotify:track:6K5ph5mq1qprHae3TrgTj5,"surface pressure - from ""encanto""/soundtrack version",jessica darrow,23,12,0.652,0.583,D,-8.302,Major,0.322,0.0165,180.042
+spotify:track:7yq4Qj7cqayVTp3FF9CWbm,riptide,vance joy,122,64,0.484,0.731,C#,-6.694,Major,0.0379,0.431,101.654
+spotify:track:0W6I02J9xcqK8MtSeosEXb,get into it (yuh),doja cat,36,34,0.912,0.655,G#,-6.029,Minor,0.162,0.315,91.942
+spotify:track:6f5ExP43esnvdKPddwKXJH,better days (neiked x mae muller x polo g),"neiked, mae muller, polo g",32,23,0.717,0.671,C,-5.077,Minor,0.0337,0.0018,110.054
+spotify:track:4u7EnebtmKWzUH433cf5Qv,bohemian rhapsody - remastered 2011,queen,11,182,0.414,0.404,C,-9.928,Minor,0.0499,0.271,71.105
+spotify:track:48QmG1dfvMuYLxMPt7KSRA,no lie,"sean paul, dua lipa",80,34,0.742,0.882,G,-2.862,Major,0.117,0.0466,102.04
+spotify:track:7gVzhRCrLRUBEGdS7zNTp0,malvada,zé felipe,58,7,0.894,0.859,F,-2.981,Minor,0.0471,0.159,134.947
+spotify:track:0bI7K9Becu2dtXK1Q3cZNB,don't be shy,"tiësto, karol g",38,32,0.77,0.787,B,-3.748,Minor,0.0583,0.198,119.986
+spotify:track:0tgVpDi06FyKpA1z0VMD4v,perfect,ed sheeran,4,262,0.599,0.448,G#,-6.312,Major,0.0232,0.163,95.05
+spotify:track:6hH6QJ9ZAO0Z6m7PfvLoXW,chicken teriyaki,rosalía,152,1,0.788,0.4,D,-6.454,Major,0.115,0.454,97.936
+spotify:track:1zi7xx7UVEFkmKfv06H8x0,one dance,"drake, wizkid, kyla",12,120,0.792,0.625,C#,-5.609,Major,0.0536,0.00776,103.967
+spotify:track:2BEcap3xJtmiPaHKyfQi4e,nostálgico,"rvssian, rauw alejandro, chris brown",40,28,0.734,0.846,A,-3.425,Minor,0.0489,0.166,98.026
+spotify:track:4jPy3l0RUwlUI9T5XHBW2m,mood (feat. iann dior),"24kgoldn, iann dior",1,85,0.701,0.716,G,-3.671,Minor,0.0361,0.174,91.007
+spotify:track:003vvx7Niy0yvhvHt4a68B,mr. brightside,the killers,98,87,0.352,0.911,C#,-5.23,Major,0.0747,0.00121,148.033
+spotify:track:4bV5sf2B4hWBBd5HQ8S7KB,nobody like u,"4*town (from disney and pixar’s turning red), jordan fisher, finneas o'connell, topher ngo, grayson villanueva, josh levi",157,1,0.905,0.631,A,-10.06,Minor,0.177,0.129,105.026
+spotify:track:5enxwA8aAbwZbf5qCHORXi,all too well (10 minute version) (taylor's version) (from the vault),taylor swift,1,19,0.631,0.518,C,-8.771,Major,0.0303,0.274,93.023
+spotify:track:21jGcNKet2qwijlDFuPiPb,circles,post malone,1,134,0.695,0.762,C,-3.497,Major,0.0395,0.192,120.042
+spotify:track:5kqNIqFjijuzvVLhuY9B8j,la zona,bad bunny,60,7,0.762,0.801,C#,-3.661,Minor,0.0409,0.2,93.992
+spotify:track:3dYD57lRAUcMHufyqn9GcI,take me to church,hozier,108,75,0.566,0.664,E,-5.303,Minor,0.0464,0.634,128.945
+spotify:track:4xqrdfXkTW4T0RauPLv3WA,heather,conan gray,12,87,0.357,0.425,F,-7.301,Major,0.0333,0.584,102.078
+spotify:track:7iL6o9tox1zgHpKUfh9vuC,in da club,50 cent,77,6,0.899,0.713,F#,-2.752,Minor,0.366,0.255,90.051
+spotify:track:5719MEdRQcH4c3phXqX7WN,mal feito - ao vivo,"hugo & guilherme, marília mendonça",72,10,0.732,0.831,C,-3.791,Minor,0.0691,0.554,123.942
+spotify:track:4UPQiDmYScn2C6S2C2WATY,just a cloud away,pharrell williams,165,1,0.888,0.459,D,-8.154,Major,0.0357,0.426,112.56
+spotify:track:4UG2Fm0E98LhE2dlNxiAXx,this is what falling in love feels like,jvke,142,3,0.424,0.438,B,-5.53,Major,0.0553,0.617,128.983
+spotify:track:2N8m6CYs74qQO4mjVcXO30,dance monkey,tones and i,1,140,0.824,0.587,F#,-6.401,Minor,0.0937,0.69,98.029
+spotify:track:2tGvwE8GcFKwNdAXMnlbfl,happier,olivia rodrigo,12,44,0.395,0.443,F#,-9.72,Major,0.133,0.765,168.924
+spotify:track:2ZRo7axmMPeSVUvDbGkJah,hope,xxxtentacion,42,35,0.592,0.457,A,-6.081,Minor,0.0603,0.661,146.04
+spotify:track:5W1qmxHrMlQGGAiFA3ZQqP,se le ve,"dímelo flow, dalex, sech, justin quiles, arcangel, de la ghetto, lenny tavárez",110,12,0.562,0.755,G,-4.367,Minor,0.112,0.0967,83.997
+spotify:track:07MDkzWARZaLEdKxo6yArG,meet me at our spot,"the anxiety, willow, tyler cole",24,29,0.773,0.47,D,-7.93,Major,0.0299,0.0153,94.995
+spotify:track:0nrRP2bk19rLc0orkWPQk2,wake me up,avicii,13,68,0.532,0.783,D,-5.697,Major,0.0523,0.0038,124.08
+spotify:track:2dG9k8jtnkjzJjUToz9i9i,"residente: bzrp music sessions, vol. 49","bizarrap, residente",18,3,0.586,0.74,C#,-2.997,Minor,0.404,0.555,71.378
+spotify:track:4gvrJnKCKIPiacNsWVQwEU,love nwantiti (feat. dj yo! & ax'el) - remix,"ckay, dj yo!, ax'el",14,27,0.579,0.596,G#,-4.823,Major,0.0561,0.436,119.9
+spotify:track:3vySEUpD0tc801F2WZDLYw,freaky deaky,"tyga, doja cat",83,4,0.799,0.653,D,-5.453,Minor,0.037,0.019,104.019
+spotify:track:29m79w9xPMH4YCD6r8JSmV,excuses,"ap dhillon, gurinder gill, intense",56,10,0.837,0.717,F,-7.749,Minor,0.0822,0.0842,94.984
+spotify:track:48q0vSHcJdhK3IiXH8C5WJ,why'd you only call me when you're high?,arctic monkeys,104,33,0.691,0.631,D,-6.478,Major,0.0368,0.0483,92.004
+spotify:track:285pBltuF7vW8TeWk8hdRR,lucid dreams,juice wrld,3,194,0.511,0.566,F#,-7.23,Minor,0.2,0.349,83.903
+spotify:track:2vXKRlJBXyOcvZYTdNeckS,lost in the fire (feat. the weeknd),"gesaffelstein, the weeknd",12,21,0.658,0.671,D,-12.21,Major,0.0363,0.0933,100.966
+spotify:track:4kXxEhuatrvwrTQycA7s9B,bizcochito,rosalía,180,1,0.93,0.774,C#,-4.203,Major,0.0744,0.605,116.972
+spotify:track:7FIWs0pqAYbP91WWM0vlTQ,godzilla (feat. juice wrld),"eminem, juice wrld",4,76,0.808,0.745,A#,-5.26,Minor,0.342,0.145,165.995
+spotify:track:22skzmqfdWrjJylampe0kt,can't hold us (feat. ray dalton),"macklemore & ryan lewis, macklemore, ryan lewis, ray dalton",149,22,0.633,0.927,D,-4.468,Major,0.0839,0.0267,146.097
+spotify:track:35mvY5S1H3J2QZyna3TFe0,positions,ariana grande,1,74,0.737,0.802,C,-4.771,Major,0.0878,0.468,144.015
+spotify:track:7BbaIYAdi3pg4MGl6PHwPv,monëy so big,yeat,184,3,0.693,0.575,D,-7.633,Major,0.0906,0.121,138.016
+spotify:track:161DnLWsx1i3u1JT05lzqU,talking to the moon,bruno mars,45,50,0.498,0.59,C#,-4.721,Minor,0.032,0.511,145.867
+spotify:track:4kroNlz8BTfswE4M0i3YCh,hentai,rosalía,186,1,0.583,0.297,G,-11.273,Minor,0.406,0.879,124.279
+spotify:track:5lAnYvAIkSDNXqfo7DyFUm,ain't shit,doja cat,22,21,0.855,0.488,D#,-4.601,Major,0.208,0.506,124.097
+spotify:track:02VBYrHfVwfEWXk5DXyf0T,leave the door open,"bruno mars, anderson .paak, silk sonic",5,55,0.586,0.616,F,-7.964,Major,0.0324,0.182,148.088
+spotify:track:0IGUXY4JbK18bu9oD4mPIm,tomboy,(g)i-dle,189,1,0.755,0.87,C#,-2.414,Minor,0.0936,0.00988,124.032
+spotify:track:6RUKPb4LETWmmr3iAEQktW,something just like this,"the chainsmokers, coldplay",2,172,0.617,0.635,B,-6.769,Minor,0.0317,0.0498,103.019
+spotify:track:2USlegnFJLrVLpoVfPimKB,thunder,"gabry ponte, lum!x, prezioso",110,16,0.67,0.896,C#,-4.673,Major,0.058,0.0342,101.216
+spotify:track:39LLxExYz6ewLAcYrzQQyP,levitating,dua lipa,52,38,0.695,0.884,F#,-2.278,Minor,0.0753,0.0561,103.014
+spotify:track:3rq5w4bQGigXOfdN30ATJt,do i wanna know?,arctic monkeys,117,34,0.548,0.532,F,-7.596,Major,0.0323,0.186,85.03
+spotify:track:53RxHysDJ0cjugMcPymwja,abalo emocional - ao vivo,luan santana,194,1,0.441,0.915,D#,-4.096,Minor,0.112,0.306,185.936
+spotify:track:6v3KW9xbzN5yKLt9YKDYA2,señorita,"shawn mendes, camila cabello",1,138,0.759,0.548,A,-6.049,Minor,0.029,0.0392,116.967
+spotify:track:3UmaczJpikHgJFyBTAJVoz,stan,"eminem, dido",138,6,0.78,0.768,F#,-4.325,Minor,0.238,0.0371,80.063
+spotify:track:2gMXnyrvIjhVBUZwvLZDMP,before you go,lewis capaldi,19,122,0.459,0.575,D#,-4.858,Major,0.0573,0.604,111.881
+spotify:track:7H0ya83CMmgFcOhw0UB6ow,space song,beach house,174,10,0.508,0.792,C,-7.311,Minor,0.0297,0.229,147.067
+spotify:track:5uCax9HTNlzGybIStD3vDh,say you won't let go,james arthur,7,268,0.358,0.557,A#,-7.398,Major,0.059,0.695,85.043
+spotify:track:60ynsPSSKe6O3sfwRnIBRf,streets,doja cat,9,45,0.749,0.463,B,-8.433,Major,0.0842,0.21,90.035
+spotify:track:2tTmW7RDtMQtBk7m2rYeSw,"quevedo: bzrp music sessions, vol. 52","bizarrap, quevedo",1,5,0.621,0.782,D,-5.548,Major,0.044,0.0125,128.033
+spotify:track:4Dvkj6JhhA12EX05fT7y2e,as it was,harry styles,1,19,0.52,0.731,F#,-5.338,Minor,0.0557,0.342,173.93
+spotify:track:6Sq7ltF9Qa7SNFBsV5Cogx,me porto bonito,"bad bunny, chencho corleone",2,14,0.911,0.712,C#,-5.105,Minor,0.0817,0.0901,92.005
+spotify:track:1IHWl5LamUGEuP4ozKQSXZ,tití me preguntó,bad bunny,4,14,0.65,0.715,F,-5.198,Minor,0.253,0.0993,106.672
+spotify:track:75FEaRjZTKLhTrFGsfMUXR,running up that hill (a deal with god),kate bush,1,11,0.629,0.547,A#,-13.123,Minor,0.055,0.72,108.375
+spotify:track:5ildQOEKmJuWGl2vRkFdYc,despechá,rosalía,6,2,0.919,0.623,G,-6.521,Major,0.0992,0.184,130.037
+spotify:track:5Eax0qFko2dh7Rl2lYs3bx,efecto,bad bunny,7,14,0.801,0.475,G,-8.797,Minor,0.0516,0.141,98.047
+spotify:track:6xGruZOHLs39ZbVccQTuPZ,glimpse of us,joji,1,9,0.44,0.317,G#,-9.258,Major,0.0531,0.891,169.914
+spotify:track:3k3NWokhRRkEPhCzPmV8TW,ojitos lindos,"bad bunny, bomba estéreo",3,14,0.647,0.686,D#,-5.745,Minor,0.0413,0.08,79.928
+spotify:track:4k6Uh1HXdhtusDW5y8Gbvy,bad habit,steve lacy,10,5,0.686,0.494,C#,-7.093,Major,0.0355,0.613,168.946
+spotify:track:6Xom58OOXk2SoU711L2IXO,moscow mule,bad bunny,2,14,0.804,0.674,F,-5.453,Minor,0.0333,0.294,99.968
+spotify:track:5ww2BF9slyYgNOk37BlC4u,la bachata,manuel turizo,13,6,0.835,0.679,G,-5.329,Minor,0.0364,0.583,124.98
+spotify:track:7dSZ6zGTQx66c2GF91xCrb,provenza,karol g,6,16,0.87,0.516,C#,-8.006,Major,0.0541,0.656,111.005
+spotify:track:0xzI1KAr0Yd9tv8jlIk3sn,bad decisions (with bts & snoop dogg),"benny blanco, bts, snoop dogg",15,1,0.762,0.861,C,-3.296,Major,0.0955,0.0185,120.048
+spotify:track:4h9wh7iOZ0GGn8QVp4RAOB,i ain't worried,onerepublic,13,10,0.704,0.797,C,-5.927,Major,0.0475,0.0826,139.994
+spotify:track:0mBP9X2gPCuapvpZ7TGDk3,left and right (feat. jung kook of bts),"charlie puth, jung kook, bts",7,7,0.881,0.592,D,-4.898,Major,0.0324,0.619,101.058
+spotify:track:3LtpKP5abr2qqjunvjlX5i,doja,central cee,15,3,0.911,0.573,F#,-7.43,Major,0.288,0.38,140.04
+spotify:track:5pyoxDZ1PX0KxBxiRVxA4U,break my soul,beyoncé,12,8,0.693,0.887,C#,-5.039,Minor,0.0795,0.0581,114.942
+spotify:track:6HMtHNpW6YPi1hrw9tgF8P,about damn time,lizzo,9,15,0.836,0.743,A#,-6.305,Minor,0.0653,0.0974,108.965
+spotify:track:0g2Bbgy7P41pFjMWJuzsf4,staying alive (feat. drake & lil baby),"dj khaled, drake, lil baby",21,1,0.718,0.461,E,-7.676,Minor,0.0797,0.068,129.953
+spotify:track:41oY4WCTj5kccfesTVFnvN,tarot,"bad bunny, jhay cortez",9,14,0.795,0.684,B,-3.971,Minor,0.0419,0.0225,114.011
+spotify:track:2rurDawMfoKP4uHyb2kJBt,te felicito,"shakira, rauw alejandro",13,16,0.695,0.636,F,-4.654,Major,0.317,0.234,174.14
+spotify:track:76OGwb5RA9h4FxQPT33ekc,snap,rosa linn,26,5,0.565,0.636,C,-8.198,Major,0.0638,0.107,170.01
+spotify:track:1qEmFfgcLObUfQm0j1W2CK,late night talking,harry styles,2,12,0.714,0.728,A#,-4.595,Major,0.0468,0.298,114.996
+spotify:track:4tYFy8ALRjIZvnvSLw5lxN,party,"bad bunny, rauw alejandro",6,14,0.829,0.799,A,-5.389,Major,0.0897,0.0151,97.013
+spotify:track:0O6u0VJ46W86TxN9wgyqDj,i like you (a happier song) (with doja cat),"post malone, doja cat",10,10,0.733,0.67,F,-6.009,Major,0.0751,0.121,100.964
+spotify:track:3F5CgOj3wFlRv51JsHbxhe,jimmy cooks (feat. 21 savage),"drake, 21 savage",7,8,0.529,0.673,C,-4.711,Major,0.175,0.000307,165.921
+spotify:track:5IgjP7X4th6nMNDh4akUHb,under the influence,chris brown,32,3,0.733,0.69,A,-5.529,Minor,0.0427,0.0635,116.992
+spotify:track:4h4QlmocP3IuwYEj2j14p8,sunroof,"nicky youre, dazy",28,14,0.768,0.714,A#,-5.11,Major,0.0401,0.352,131.443
+spotify:track:4zN21mbAuaD0WqtmaTZZeP,ferrari,"james hype, miggy dela rosa",36,10,0.847,0.69,C#,-7.877,Minor,0.0493,0.0127,125.004
+spotify:track:1797zYiX4cKosMH836X9Gt,la corriente,"bad bunny, tony dize",17,14,0.663,0.786,B,-3.51,Minor,0.195,0.229,196.12
+spotify:track:7ef4DlsgrMEH11cDZd32M6,one kiss (with dua lipa),"calvin harris, dua lipa",2,83,0.791,0.862,A,-3.24,Minor,0.11,0.037,123.994
+spotify:track:0hquQWY3xvYqN4qtiquniF,vegas (from the original motion picture soundtrack elvis),doja cat,26,10,0.801,0.601,G#,-7.574,Minor,0.255,0.0777,159.969
+spotify:track:2LBqCSwhJGcFQeTHMVGwy3,die for you,the weeknd,41,26,0.586,0.525,C#,-7.163,Minor,0.0615,0.111,133.629
+spotify:track:0T5iIrXA4p5GsubkhuBIKV,until i found you,stephen sanchez,30,14,0.539,0.508,A#,-6.05,Major,0.0288,0.727,101.358
+spotify:track:0wHFktze2PHC5jDt3B17DC,first class,jack harlow,2,18,0.902,0.582,F,-5.902,Minor,0.109,0.111,107.005
+spotify:track:6VBhH7CyP56BXjp8VsDFPZ,"kesariya (from ""brahmastra"")","pritam, arijit singh, amitabh bhattacharya",33,4,0.577,0.574,C,-6.525,Major,0.0278,0.572,94.009
+spotify:track:1dm6z1fWB0cErMszU25dy2,después de la playa,bad bunny,7,14,0.564,0.903,F,-3.221,Major,0.307,0.356,78.293
+spotify:track:3fjN3y5x4hN53rykAN2LHQ,cómo dormiste?,rels b,53,1,0.627,0.429,C#,-8.255,Major,0.234,0.238,126.426
+spotify:track:4hceSKjrkDTO0nMKFcb3sj,"villano antillano: bzrp music sessions, vol. 51","bizarrap, villano antillano",45,9,0.82,0.752,C#,-7.635,Minor,0.0648,0.0584,127.999
+spotify:track:6DoL1yYIwEW7VZMRaJhoJI,la llevo al cielo (ft. ñengo flow),"chris jedi, anuel aa, chencho corleone, ñengo flow",53,12,0.795,0.845,A,-3.809,Minor,0.135,0.105,170.023
+spotify:track:1Hohk6AufHZOrrhMXZppax,alien superstar,beyoncé,24,2,0.545,0.641,A#,-6.398,Minor,0.0998,0.00453,121.892
+spotify:track:59nOXPmaKlBfGMDeOVGrIK,wait for u (feat. drake & tems),"future, drake, tems",10,15,0.463,0.642,C#,-4.474,Major,0.34,0.314,83.389
+spotify:track:5CzixCxDkRXX9mScCmah8O,un ratito,bad bunny,10,14,0.787,0.546,C,-7.094,Minor,0.0532,0.305,93.05
+spotify:track:2bbwjxA68m9PHZFWgF1fze,givenchy,duki,25,3,0.607,0.619,G#,-6.726,Major,0.396,0.142,102.974
+spotify:track:31i56LZnwE6uSu3exoHjtB,neverita,bad bunny,15,14,0.876,0.498,A#,-7.511,Major,0.0478,0.0706,122.016
+spotify:track:09mEdoA6zrmBPgTEN5qXmN,call out my name,the weeknd,1,42,0.461,0.593,C#,-4.954,Major,0.0356,0.17,134.17
+spotify:track:3hUxzQpSfdDqwM3ZTFQY0K,august,taylor swift,11,7,0.532,0.623,F,-9.208,Major,0.0331,0.538,89.937
+spotify:track:2z9YkcLojiOE7Eu2p9lPZR,normal,feid,57,5,0.712,0.557,E,-4.861,Minor,0.115,0.0397,170.079
+spotify:track:1xzi1Jcr7mEi9K2RfzLOqS,cuff it,beyoncé,30,2,0.78,0.689,G,-5.668,Major,0.141,0.0368,115.042
+spotify:track:1cKHdTo9u0ZymJdPGSh6nq,i was never there,"the weeknd, gesaffelstein",17,10,0.323,0.737,A#,-4.008,Major,0.0338,0.142,113.26
+spotify:track:6wtZPYBIXUvCpXwVjMCJBf,ultra solo remix,"polimá westcoast, pailita, feid, paloma mami, de la ghetto",44,8,0.909,0.824,C#,-4.627,Major,0.0797,0.0777,109.97
+spotify:track:4cacyP5c3PMlfnyjpg13xW,betty (get money),yung gravy,78,5,0.723,0.772,C#,-6.784,Major,0.0792,0.00524,102.004
+spotify:track:7gwT3HGL84vF7bgtwL1N88,ojos marrones,lasso,72,6,0.809,0.649,G#,-4.433,Minor,0.0416,0.0407,120.014
+spotify:track:2MuWTIM3b0YEAskbeeFE1i,master of puppets,metallica,20,6,0.543,0.836,E,-9.11,Minor,0.0353,0.000647,105.173
+spotify:track:7MXVkk9YMctZqd1Srtv4MB,starboy,"the weeknd, daft punk",1,97,0.679,0.587,G,-7.015,Major,0.276,0.141,186.003
+spotify:track:44XjoNvtwevktFKjvVe1vH,andrea,"bad bunny, buscabulla",21,14,0.797,0.616,C#,-10.229,Minor,0.375,0.762,103.071
+spotify:track:6VrQTLzzuyGIYjUDe4kAZk,un coco,bad bunny,25,14,0.839,0.69,B,-4.464,Major,0.0615,0.207,151.991
+spotify:track:02jLfqc9gMo8PkHEGHY3OT,si te la encuentras por ahí,feid,86,1,0.743,0.576,G#,-3.552,Minor,0.076,0.151,171.945
+spotify:track:7fZBQnc0zXwVybgCIrQQil,belly dancer,"imanbek, byor",77,11,0.845,0.797,C#,-4.984,Major,0.139,0.0582,121.985
+spotify:track:5YbPxJwPfrj7uswNwoF1pJ,last last,burna boy,93,5,0.795,0.565,D#,-4.457,Minor,0.0948,0.131,87.925
+spotify:track:4d4ZXH4dr5bYfgErHiZCX2,dos mil 16,bad bunny,19,14,0.817,0.67,C#,-6.534,Major,0.0506,0.123,130.058
+spotify:track:6clzeGvi1CFioMOolbAOlX,"stay with me (with justin timberlake, halsey & pharrell)","calvin harris, justin timberlake, halsey, pharrell williams",86,3,0.81,0.733,A,-6.338,Major,0.0444,0.276,125.975
+spotify:track:7a8GawTVgHZvBLQOh46he7,i wanna be yours,arctic monkeys,103,5,0.464,0.417,C,-9.345,Minor,0.0256,0.136,67.528
+spotify:track:4RvWPyQ5RL0ao9LPZeSouE,everybody wants to rule the world,tears for fears,105,10,0.645,0.795,G,-12.095,Major,0.0527,0.347,112.067
+spotify:track:1R0a2iXumgCiFb7HEZ7gUE,don’t blame me,taylor swift,72,13,0.615,0.534,A,-6.719,Minor,0.0386,0.106,135.917
+spotify:track:62ke5zFUJN6RvtXZgVH0F8,only love can hurt like this,paloma faith,93,12,0.566,0.885,G#,-4.528,Major,0.0818,0.0958,90.99
+spotify:track:1JSTJqkT5qHq8MDJnJbRE1,every breath you take,the police,109,61,0.82,0.452,C#,-9.796,Major,0.0348,0.543,117.401
+spotify:track:1ei3hzQmrgealgRKFxIcWn,in the stars,benson boone,54,15,0.362,0.54,A#,-6.031,Major,0.0528,0.338,78.007
+spotify:track:0zCgWGmDF0aih5qexATyBn,after dark,mr.kitty,112,17,0.579,0.601,G#,-10.492,Major,0.0322,0.0673,140.019
+spotify:track:5kVZxyMY1gfdCLiChsfjn1,yo no soy celoso,bad bunny,11,14,0.872,0.588,C,-6.276,Major,0.0492,0.275,142.004
+spotify:track:5O2P9iiztwhomNh8xkR9lJ,night changes,one direction,111,11,0.672,0.52,G#,-7.747,Major,0.0353,0.859,120.001
+spotify:track:7fBv7CLKzipRk6EC6TWHOB,the hills,the weeknd,52,50,0.585,0.564,C,-7.063,Minor,0.0515,0.0671,113.003
+spotify:track:3GYlZ7tbxLOxe6ewMNVTkw,tv,billie eilish,27,3,0.412,0.236,E,-15.159,Minor,0.0379,0.83,140.214
+spotify:track:28GCbKgjlVD9eDmasGbe0T,me fui de vacaciones,bad bunny,14,14,0.714,0.645,A#,-5.493,Major,0.0514,0.229,85.046
+spotify:track:5jt25aFjW2kNoBqaEVaz5W,la inocente,"mora, feid",121,6,0.757,0.789,F,-3.46,Minor,0.0583,0.307,91.911
+spotify:track:1FEiijYPJtyswChfcpv3p0,summertime sadness,lana del rey,122,3,0.568,0.646,C#,-6.793,Minor,0.0332,0.0464,111.945
+spotify:track:1Fid2jjqsHViMX6xNH70hE,atlantis,seafret,126,3,0.4,0.479,G#,-7.989,Minor,0.0308,0.0529,166.159
+spotify:track:10xV5l9nhLvFpR8mqzs0bL,numb,"marshmello, khalid",114,9,0.912,0.774,C,-4.673,Minor,0.0455,0.121,119.966
+spotify:track:0OTNHGKcqQbk51bOYe462Y,ultra solo,"polimá westcoast, pailita",42,16,0.802,0.846,C#,-4.495,Major,0.207,0.233,109.982
+spotify:track:3BnDvpeuGOj21Ir2aVEtQo,calm down,rema,130,5,0.814,0.789,B,-6.29,Major,0.0405,0.365,107.003
+spotify:track:0oiv4E896TUTTeQU0cmIui,massive,drake,18,8,0.499,0.671,E,-6.774,Minor,0.0561,0.114,124.994
+spotify:track:2uflssWlCaJ6CbTMOsUpNI,aguacero,bad bunny,22,14,0.861,0.645,F#,-6.96,Minor,0.0743,0.423,121.391
+spotify:track:5rJ7bdPmr8nfmm2JQ8xHOz,pop!,nayeon,68,7,0.793,0.859,D,-2.998,Major,0.0544,0.0356,97.001
+spotify:track:3AVrVz5rK8Hrqo9YGiVGN5,apocalypse,cigarettes after sex,135,5,0.369,0.467,F,-9.018,Major,0.0274,0.0194,94.473
+spotify:track:0E0DRHf5PfMeor0ZCwB3oT,otro atardecer,"bad bunny, the marías",24,14,0.777,0.595,D,-6.79,Major,0.0375,0.59,108.02
+spotify:track:4w273WCBXwM4P3jTX5HkB2,el rescate,"grupo marca registrada, junior h",129,3,0.794,0.594,G,-8.698,Minor,0.139,0.283,99.238
+spotify:track:7o2CTH4ctstm8TNelqjb51,sweet child o' mine,guns n' roses,101,10,0.454,0.91,F#,-7.766,Major,0.0448,0.0866,125.116
+spotify:track:71wFwRo8xGc4lrcyKwsvba,callaita,"bad bunny, tainy",7,67,0.608,0.626,D,-4.773,Major,0.301,0.597,176.086
+spotify:track:3h8tI65xdfpQyTAy7Grqwa,potion (with dua lipa & young thug),"calvin harris, dua lipa, young thug",26,10,0.824,0.697,B,-4.869,Minor,0.0473,0.158,99.987
+spotify:track:1WCEAGGRD066z2Q89ObXTq,crazy what love can do,"david guetta, becky hill, ella henderson",127,14,0.601,0.713,E,-3.758,Minor,0.0449,0.0282,122.872
+spotify:track:40SBS57su9xLiE1WqkXOVr,afraid to feel,lf system,150,5,0.578,0.912,C#,-3.929,Major,0.114,0.0166,127.87
+spotify:track:1gH1h30wkQdd9zhY3j7a8T,the shade,rex orange county,161,3,0.898,0.509,F,-7.973,Major,0.062,0.391,119.869
+spotify:track:32vE1nuG8T9c8bhmZdRY6d,cooped up (with roddy ricch),"post malone, roddy ricch",18,13,0.669,0.773,C,-5.619,Major,0.153,0.038,93.923
+spotify:track:5gDWsRxpJ2lZAffh5p7K0w,stargirl interlude,"the weeknd, lana del rey",168,4,0.715,0.47,F,-12.638,Minor,0.0772,0.353,89.965
+spotify:track:0314PeD1sQNonfVWix3B2K,energy (feat. beam),"beyoncé, beam",34,2,0.903,0.519,C#,-9.151,Major,0.26,0.281,114.991
+spotify:track:6uvh0In7u1Xn4HgxOfAn8O,matilda,harry styles,5,12,0.507,0.294,D,-10.0,Major,0.04,0.896,114.199
+spotify:track:5LYMamLv12UPbemOaTPyeV,music for a sushi restaurant,harry styles,6,12,0.72,0.715,B,-4.652,Major,0.04,0.258,107.041
+spotify:track:2DgdHcjWmO3qd50RzuBLgZ,house of memories,panic! at the disco,64,16,0.506,0.817,B,-5.051,Minor,0.0335,0.00272,109.952
+spotify:track:2SwQShWjZsxoGviEyaEMOX,nerdesin,ezhel,164,3,0.816,0.696,G#,-6.75,Minor,0.153,0.201,100.004
+spotify:track:3GdWfmQBiiJrDUvSZS1bGv,never sleep (with lil baby feat. travis scott),"nav, lil baby, travis scott",101,2,0.819,0.651,C#,-5.829,Major,0.169,0.00639,139.957
+spotify:track:7AwVSKaQxpidrtYBerkHKk,pipoco,"ana castela, melody, dj chris no beat",100,4,0.774,0.742,G#,-4.178,Major,0.0766,0.473,134.991
+spotify:track:48AJSd42lXpicsGqcgopof,x última vez,"daddy yankee, bad bunny",18,20,0.812,0.855,G,-3.725,Major,0.0554,0.0789,90.04
+spotify:track:7JJmb5XwzOO8jgpou264Ml,there's nothing holdin' me back,shawn mendes,5,72,0.866,0.813,B,-4.063,Minor,0.0554,0.38,121.998
+spotify:track:2m6Ko3CY1qXNNja8AlugNc,angel baby,troye sivan,59,19,0.559,0.559,B,-6.425,Major,0.0358,0.0145,72.498
+spotify:track:3HyR1j49TY5ACP2lseF1jx,summer renaissance,beyoncé,46,2,0.674,0.625,C#,-9.593,Major,0.0514,0.0843,120.004
+spotify:track:1I4dwH7C0jBAEtz5DjlJgQ,come back home,sofia carson,193,1,0.552,0.531,G,-7.732,Major,0.0421,0.241,144.946
+spotify:track:10SRMwb9EuVS1K9rYsBfHQ,yet to come,bts,7,8,0.559,0.885,C#,-4.515,Major,0.189,0.0432,172.029
+spotify:track:5qaEfEh1AtSdrdrByCP7qR,demons,imagine dragons,194,2,0.505,0.71,D#,-3.015,Major,0.0321,0.19,89.938
+spotify:track:7lvDsmTRXFE3dK4OjvRiWB,pasoori,"shae gill, ali sethi",109,16,0.714,0.596,B,-6.206,Minor,0.043,0.0657,91.991
+spotify:track:4EWCNWgDS8707fNSZ1oaA5,heartless,kanye west,198,1,0.79,0.647,A#,-5.983,Minor,0.136,0.0515,87.999
+spotify:track:1MpCaOeUWhox2Fgigbe1cL,i'm that girl,beyoncé,33,1,0.554,0.535,F,-8.959,Minor,0.186,0.0616,105.865
+spotify:track:2mqTtvbKxH7SoEQ2oGAnsA,church girl,beyoncé,39,1,0.792,0.919,D,-5.688,Major,0.276,0.0381,92.028
+spotify:track:0mKGwFMHzTprtS2vpR3b6s,cozy,beyoncé,50,1,0.556,0.63,G,-8.15,Major,0.102,0.000828,149.147
+spotify:track:0Fl4eWzVaMUOdXcOrj6F1q,virgo's groove,beyoncé,77,1,0.683,0.85,B,-5.042,Minor,0.0699,0.0781,107.988
+spotify:track:6ufcuVInt0ocHrUimDjGlb,plastic off the sofa,beyoncé,85,1,0.618,0.712,C#,-8.246,Major,0.114,0.14,97.057
+spotify:track:1w7cgGZR86yWz1pA2puVJD,heated,beyoncé,93,1,0.785,0.732,C#,-5.724,Major,0.164,0.0636,110.952
+spotify:track:5YLGlPYkZBDXieMwzVve7g,move (feat. grace jones & tems),"beyoncé, grace jones, tems",96,1,0.876,0.628,C#,-6.595,Major,0.0935,0.0165,118.028
+spotify:track:1LCm0lFnEsxR2oPqyHLGX9,thique,beyoncé,102,1,0.823,0.536,F,-10.123,Minor,0.319,0.0616,128.955
+spotify:track:4DByEumlGTZKSzuVEZ35eo,pure/honey,beyoncé,114,1,0.857,0.558,C#,-7.888,Major,0.134,0.0122,123.973
+spotify:track:3k4CoiIQXiNBrwrmbBMDxj,all up in your mind,beyoncé,148,1,0.744,0.577,A,-7.228,Major,0.0631,0.0672,135.869
+spotify:track:2XMAWynSTIst5KmLSv0Npf,america has a problem,beyoncé,152,1,0.789,0.614,C#,-6.491,Major,0.0579,0.00348,126.035
+spotify:track:7KWKWJnbGJ3Soag6Oopion,cachorrinhas,luísa sonza,109,2,0.709,0.696,G#,-4.837,Minor,0.275,0.16,98.119
+spotify:track:5SHpuW2qjkQtFRpE6P9Nks,the 30th,billie eilish,64,2,0.387,0.135,G,-14.398,Major,0.051,0.929,82.987
+spotify:track:5vC8UAOHeG95ehRzZChniB,ai preto,"l7nnon, dj biel do furduncinho, bianca",140,5,0.953,0.57,F#,-5.149,Major,0.245,0.537,129.947
+spotify:track:1c2hJSwcCfoPEw1su83Sw0,hold my hand,lady gaga,110,10,0.53,0.612,G,-4.286,Major,0.0331,0.0403,148.009
+spotify:track:760jhRscwGbIIe1m1IIQpU,surface pressure,jessica darrow,26,3,0.65,0.584,D,-8.286,Major,0.307,0.0174,180.088
+spotify:track:2SLwbpExuoBDZBpjfefCtV,out of time,the weeknd,10,2,0.65,0.76,C,-4.422,Minor,0.0446,0.255,93.057
+spotify:track:6Ab81Bs9fcOwaTYuBsUUpI,eazy,"the game, kanye west",35,1,0.716,0.551,C#,-6.987,Major,0.47,0.167,82.393
+spotify:track:0mL82sxCRjrs3br407IdJh,is there someone else?,the weeknd,11,2,0.702,0.586,A,-7.83,Minor,0.0313,0.0388,134.951
+spotify:track:4TGwERXRlyQtBdggYTHo6j,entre nosotros (remix) [con nicki nicole],"tiago pzk, lit killah, maria becerra, nicki nicole",53,2,0.7,0.438,F,-5.784,Minor,0.0433,0.401,170.106
+spotify:track:2KnLkZ3z7PO3kgVGHGqDpD,it'll be okay,shawn mendes,55,7,0.398,0.286,G,-11.881,Major,0.033,0.616,78.262
+spotify:track:37BZB0z9T8Xu7U3e65qxFy,save your tears (with ariana grande) (remix),"the weeknd, ariana grande",5,39,0.65,0.825,C,-4.645,Major,0.0325,0.0215,118.091
+spotify:track:5dXWFMwD7I7zXsInONVl0H,i hate u,sza,19,7,0.535,0.388,G,-9.805,Minor,0.155,0.507,106.703
+spotify:track:3nOz1U41SZZ0N3fuUWr9nb,i am woman,emmy meli,51,8,0.646,0.471,A#,-9.247,Major,0.157,0.122,170.084
+spotify:track:3KyKxJ4P3pVCgaZwaq2rUC,gasoline,the weeknd,13,2,0.728,0.741,F#,-7.075,Minor,0.0473,0.000582,123.006
+spotify:track:2Ghp894n1laIf2w98VeAOJ,how do i make you love me?,the weeknd,14,2,0.805,0.498,G,-7.927,Minor,0.0737,0.0203,121.006
+spotify:track:2D4dV2KXDTszzJ3p3cFqhA,less than zero,the weeknd,23,2,0.535,0.791,C,-5.55,Major,0.0327,0.00096,142.981
+spotify:track:7sMBvZCSUl99bJLXZaLa0b,smokin out the window,"bruno mars, anderson .paak, silk sonic",8,11,0.627,0.618,D,-8.529,Major,0.0437,0.0558,82.03
+spotify:track:0lEjxUUlKqjqXrVlIHFduD,p power (feat. drake),"gunna, drake",81,1,0.828,0.591,C#,-6.217,Major,0.109,0.0199,119.251
+spotify:track:09gysnJpfQ3ublBmJDfcEC,sad girlz luv money remix (feat. kali uchis and moliy),"amaarae, kali uchis, moliy",23,12,0.87,0.523,C#,-8.052,Minor,0.0602,0.433,110.02
+spotify:track:4b1yxSdlumA8N4fEk4UOZp,the family madrigal,"stephanie beatriz, olga merediz, encanto - cast",87,2,0.594,0.628,C#,-6.345,Major,0.359,0.12,141.391
+spotify:track:0eu4C55hL6x29mmeAjytzC,life goes on,oliver tree,15,20,0.7,0.49,C,-5.187,Major,0.076,0.186,79.982
+spotify:track:2vgUijXOTRMnWXDtvgMp2b,take my breath,the weeknd,22,2,0.698,0.769,G#,-7.154,Major,0.0368,0.0128,121.02
+spotify:track:1c4htMHiolERc0YJvZNdlc,vai lá em casa hoje,"george henrique & rodrigo, marília mendonça",66,9,0.456,0.83,G#,-3.646,Minor,0.281,0.53,157.628
+spotify:track:3XoYqtiWHhsk59frZupImG,what else can i do?,"diane guerrero, stephanie beatriz",101,2,0.718,0.709,E,-5.568,Major,0.039,0.258,119.974
+spotify:track:5rohUzwEoRsUvAA1Bf3DLo,dos oruguitas,sebastian yatra,104,2,0.423,0.355,C,-10.565,Major,0.0454,0.761,93.788
+spotify:track:6nkoWsFZeFt5dUdNmlIceh,bloqueado - ao vivo,gusttavo lima,106,4,0.828,0.721,C#,-4.274,Minor,0.0558,0.153,129.092
+spotify:track:6P096SaOzrgGxs8NWOfX7M,salimo de noche,"tiago pzk, trueno",72,12,0.669,0.628,D,-4.177,Major,0.0526,0.294,83.803
+spotify:track:3eJH2nAjvNXdmPfBkALiPZ,acapulco,jason derulo,90,15,0.774,0.792,A#,-4.021,Major,0.0523,0.051,122.062
+spotify:track:5Ts1DYOuouQLgzTaisxWYh,love grows (where my rosemary goes),edison lighthouse,112,3,0.568,0.824,A,-4.613,Major,0.0299,0.403,108.625
+spotify:track:7bp3zmEvpHLa0h32nhDUkB,l’enfer,stromae,113,1,0.4,0.547,D,-8.381,Minor,0.177,0.33,177.595
+spotify:track:1E5Xu8dur0fAjSP1VpVhAZ,best friends,the weeknd,26,2,0.737,0.564,E,-7.045,Minor,0.105,0.436,90.0
+spotify:track:4qsOrxBv09HhNSpsgMRXdC,esqueça-me se for capaz,"marília mendonça, maiara & maraisa",67,11,0.799,0.685,F#,-5.366,Minor,0.0725,0.276,122.013
+spotify:track:1NhjYYcYTRywc0di98xHxf,"here we go… again (feat. tyler, the creator)","the weeknd, tyler, the creator",25,2,0.469,0.623,C#,-4.432,Major,0.0302,0.345,134.943
+spotify:track:68HocO7fx9z0MgDU0ZPHro,every summertime,niki,124,2,0.628,0.676,F#,-4.227,Major,0.0424,0.393,78.996
+spotify:track:6IAZHEBUIGJ6NJKxxOBIEr,rolling in the deep,adele,36,16,0.73,0.769,G#,-5.114,Major,0.0298,0.138,104.948
+spotify:track:4HzqWEdAbzcVFDv0pvxV4w,sobrio,maluma,41,28,0.762,0.77,F,-2.758,Major,0.223,0.138,177.998
+spotify:track:6f3Slt0GbA2bPZlz0aIFXN,the business,tiësto,9,64,0.798,0.62,G#,-7.079,Minor,0.232,0.414,120.031
+spotify:track:0yL7K9MzC20uBesZTPY81r,pandora,"dj matt d, menor mc, mc gp, vulgo fk",129,3,0.688,0.458,C#,-9.138,Minor,0.588,0.14,124.553
+spotify:track:4hJhHbkhZFnxmWbAkZRoe0,peru,"fireboy dml, ed sheeran",89,4,0.956,0.417,G,-7.892,Minor,0.0926,0.572,108.015
+spotify:track:29TPjc8wxfz4XMn21O7VsZ,sky,playboi carti,113,14,0.785,0.903,D,-4.184,Major,0.21,0.258,139.98
+spotify:track:7n2FZQsaLb7ZRfRPfEeIvr,eleven,ive,103,7,0.828,0.731,A,-3.033,Major,0.111,0.0617,119.978
+spotify:track:0k1WUmIRnG3xU6fvvDVfRG,way 2 sexy (with future & young thug),"drake, future, young thug",5,20,0.803,0.597,B,-6.035,Minor,0.141,0.000619,136.008
+spotify:track:1kjs5eR4DMzyB0gm1Z8waV,dance crip,trueno,79,9,0.857,0.766,C,-3.699,Major,0.0978,0.108,106.024
+spotify:track:3JCaq3KDSROg3TXhdiDa9n,ley seca,"jhay cortez, anuel aa",44,20,0.759,0.842,G#,-3.758,Major,0.096,0.101,105.059
+spotify:track:4pt5fDVTg5GhEvEtlz9dKk,i wanna be your slave,måneskin,8,35,0.75,0.608,C#,-4.008,Major,0.0387,0.00165,132.507
+spotify:track:5VTjBl3ddZEiG2LrH4VzyR,toma toma vapo vapo,"zé felipe, mc danny",75,8,0.763,0.859,E,-3.3,Minor,0.0479,0.322,164.055
+spotify:track:0WSEq9Ko4kFPt8yo3ICd6T,praise god,kanye west,16,19,0.798,0.545,C#,-6.466,Major,0.168,0.00904,118.029
+spotify:track:1FlL8ycld6uVDDyhV7P5FA,cúrame,rauw alejandro,35,26,0.765,0.625,A,-3.599,Minor,0.0548,0.584,102.101
+spotify:track:4cG7HUWYHBV6R6tHn1gxrl,friday (feat. mufasa & hypeman) - dopamine re-edit,"riton, nightcrawlers, mufasa & hypeman, dopamine",15,48,0.824,0.862,D,-3.424,Major,0.126,0.0076,122.98
+spotify:track:4XvcHTUfIlWfyJTRG0aqlo,2055,sleepy hallow,31,27,0.829,0.512,F#,-5.865,Minor,0.187,0.492,80.511
+spotify:track:45bE4HXI0AwGZXfZtMp8JR,you broke me first,tate mcrae,13,78,0.667,0.373,E,-9.389,Major,0.05,0.785,124.148
+spotify:track:5JCoSi02qi3jJeHdZXMmR8,favorite crime,olivia rodrigo,11,31,0.369,0.272,A,-10.497,Major,0.0364,0.866,172.929
+spotify:track:2VxeLyX666F8uXCJ0dZF8B,shallow,"lady gaga, bradley cooper",3,171,0.572,0.385,G,-6.362,Major,0.0308,0.371,95.799
+spotify:track:6E90gq0KO6FYZVOXx8kCcC,astronaut in the ocean,masked wolf,3,53,0.778,0.695,E,-6.865,Minor,0.0913,0.175,149.996
+spotify:track:05bfbizlM5AX6Mf1RRyMho,am remix,"nio garcia, j balvin, bad bunny",14,30,0.743,0.655,F#,-5.015,Minor,0.159,0.114,172.031
+spotify:track:3U4isOIWM3VvDubwSI3y7a,all of me,john legend,110,145,0.422,0.264,G#,-7.064,Major,0.0322,0.922,119.93
+spotify:track:1qE8DOtw7zdXHMgZm20eLM,the feels,twice,57,16,0.808,0.903,A,-2.179,Major,0.0729,0.0899,120.044
+spotify:track:6Dy1jexKYriXAVG6evyUTJ,out out (feat. charli xcx & saweetie),"joel corry, jax jones, charli xcx, saweetie",42,21,0.787,0.833,G#,-4.403,Major,0.0478,0.018,123.97
+spotify:track:5UlnuulVAVmmesw4VzqHdG,enemy - from the series arcane league of legends,"imagine dragons, arcane, league of legends",171,3,0.722,0.745,G,-4.164,Major,0.256,0.247,77.029
+spotify:track:04sN26COy28wTXYj3dMoiZ,bored,billie eilish,51,16,0.614,0.318,G,-12.695,Major,0.0478,0.896,119.959
+spotify:track:6D2TCm4nf5nxAcdGJ7w3QP,qué más pues?,"j balvin, maria becerra",9,34,0.903,0.817,G#,-3.972,Major,0.095,0.0272,102.014
+spotify:track:1J14CdDAvBTE1AJYUOwl6C,arcade,duncan laurence,23,52,0.453,0.35,A,-11.639,Minor,0.0425,0.827,72.017
+spotify:track:3FAJ6O0NOHQV8Mc5Ri6ENp,heartbreak anniversary,giveon,8,47,0.449,0.465,C,-8.964,Major,0.0791,0.524,89.087
+spotify:track:5902W4uHWzhtOff1UK7the,when i’m gone (with katy perry),"alesso, katy perry",135,3,0.685,0.886,C,-4.179,Major,0.034,0.028,125.034
+spotify:track:3QFInJAm9eyaho5vBzxInN,family ties (with kendrick lamar),"baby keem, kendrick lamar",30,20,0.711,0.611,C#,-5.453,Major,0.33,0.00588,134.093
+spotify:track:32BeYxKPrig1LefHsC0Xuo,happier than ever - edit,billie eilish,70,17,0.334,0.599,C,-5.742,Major,0.0365,0.0468,161.74
+spotify:track:4cktbXiXOapiLBMprHFErI,memories,maroon 5,2,116,0.775,0.327,B,-7.241,Major,0.0557,0.841,91.05
+spotify:track:7iHHlCbsFou5DZSW5HCPfs,ella - remix,"boza, lunay, lenny tavárez, juhn, beéle",188,1,0.747,0.812,D#,-4.274,Minor,0.111,0.341,180.062
+spotify:track:18vXApRmJSgQ6wG2ll9AOg,rapstar,polo g,3,40,0.789,0.536,F#,-6.862,Major,0.242,0.41,81.039
+spotify:track:04S1pkp1VaIqjg8zZqknR5,enchanted,taylor swift,61,10,0.535,0.618,G#,-3.913,Major,0.0273,0.0716,81.975
+spotify:track:0hQNbQKW2dDATH1ngj4TI6,wa da da,kep1er,191,1,0.785,0.907,A#,-2.657,Major,0.0938,0.00122,126.004
+spotify:track:0cOa970mzTWAxKtltpkpLc,miénteme,"tini, maria becerra",41,35,0.85,0.541,D,-4.522,Major,0.0674,0.161,92.003
+spotify:track:72g37RoelSnovZakG5MwnF,parada louca,"mari fernandez, marcynho sensação",107,3,0.693,0.936,G,-1.322,Major,0.0524,0.302,166.034
+spotify:track:40iJIUlhi6renaREYGeIDS,fair trade (with travis scott),"drake, travis scott",3,19,0.666,0.465,C#,-8.545,Major,0.26,0.0503,167.937
+spotify:track:4qu63nuBpdn0qHUHuObEj1,leave before you love me (with jonas brothers),"marshmello, jonas brothers",52,30,0.721,0.738,G,-4.77,Major,0.0403,0.00226,119.976
+spotify:track:6gBFPUFcJLzWGx4lenP6h2,goosebumps,travis scott,13,226,0.841,0.728,G,-3.37,Major,0.0484,0.0847,130.049
+spotify:track:0bBd6K5X4W7t9GyXcaVOA7,sigue,"j balvin, ed sheeran",45,1,0.889,0.641,G,-4.494,Major,0.0668,0.0515,87.99
+spotify:track:3XjN0mvFkQp1FMVM9Ro5hm,rumbatón,daddy yankee,58,1,0.685,0.909,D#,-4.034,Minor,0.0396,0.0471,95.004
+spotify:track:2bdqU7C4softKNcMYDFi96,chaotic,tate mcrae,83,1,0.412,0.382,D,-7.023,Minor,0.0497,0.59,81.493
+spotify:track:50eJOxJiGmJ7PBZaTKpje1,make up sex (feat. blackbear),"machine gun kelly, blackbear",91,1,0.665,0.678,F,-4.122,Minor,0.0315,0.00156,131.986
+spotify:track:6HJIZUOiZDE814XMhRGSZN,soy el unico,yahritza y su esencia,97,1,0.708,0.449,E,-4.369,Minor,0.0286,0.451,84.396
+spotify:track:2oBMZYteeO8DyXV9gDx6Za,feel my rhythm,red velvet,114,1,0.412,0.94,C#,-2.171,Major,0.215,0.0648,157.964
+spotify:track:5UWwZ5lm5PKu6eKsHAGxOk,everlong,foo fighters,164,1,0.413,0.881,B,-5.541,Minor,0.0367,5.99e-05,158.066
+spotify:track:65MqlYPOWReasKWcuCaOCW,remix,daddy yankee,166,1,0.819,0.781,C#,-4.879,Major,0.0547,0.0323,100.062
+spotify:track:3tBZ60j1jQ7NJm8IjelyQe,emo girl (feat. willow),"machine gun kelly, willow",111,2,0.412,0.881,D,-3.502,Major,0.087,0.00039,165.012
+spotify:track:0MMyJUC3WNnFS1lit5pTjk,"jealousy, jealousy",olivia rodrigo,17,29,0.695,0.575,A#,-6.334,Minor,0.116,0.198,163.929
+spotify:track:272vIYVYzfAgHUQRUYWmhP,para siempre,"daddy yankee, sech",193,1,0.794,0.828,G#,-5.883,Minor,0.0756,0.0999,90.015
+spotify:track:7BqBn9nzAq8spo5e7cZ0dJ,just the way you are,bruno mars,133,22,0.635,0.841,F,-5.379,Major,0.0422,0.0134,109.021
+spotify:track:50kpGaPAhYJ3sGmk6vplg0,love yourself,justin bieber,62,50,0.609,0.378,E,-9.828,Major,0.438,0.835,100.418
+spotify:track:51Zw1cKDgkad0CXv23HCMU,daylight,harry styles,10,2,0.686,0.445,C,-7.189,Major,0.0398,0.484,145.5
+spotify:track:3i058E8uxTsYqJ5NWZzqSj,little freak,harry styles,8,2,0.559,0.535,D#,-7.723,Major,0.039,0.719,141.96
+spotify:track:06JvOZ39sK8D8SqiqfaxDU,true love,"kanye west, xxxtentacion",24,1,0.712,0.861,F,-5.487,Minor,0.25,0.0182,84.042
+spotify:track:4j6kId9QIqhoXvqHKgSKa0,grapejuice,harry styles,11,2,0.645,0.721,F,-4.394,Major,0.0336,0.357,182.928
+spotify:track:0rzaRSujxA0bKyjJl6vHYq,satellite,harry styles,14,2,0.576,0.457,C,-6.473,Major,0.0304,0.143,138.984
+spotify:track:2FeBslNBMdR9V58uv6hd2t,n95,kendrick lamar,3,3,0.79,0.67,C#,-5.527,Major,0.105,0.377,139.956
+spotify:track:1mw0RgNXIpYRyyCdBQbLgA,love of my life,harry styles,15,2,0.555,0.536,G,-8.233,Major,0.0452,0.669,118.057
+spotify:track:35TyJIMR3xRouUuo2sjS6v,cinema,harry styles,13,2,0.829,0.644,A,-7.696,Minor,0.0427,0.354,105.993
+spotify:track:69w5X6uTrOaWM32IetSzvO,daydreaming,harry styles,16,2,0.707,0.811,E,-5.298,Minor,0.0304,0.311,113.971
+spotify:track:2NcQic8JxdjAlAHuNbOIRE,keep driving,harry styles,19,2,0.721,0.479,A,-9.669,Major,0.226,0.321,164.948
+spotify:track:6gI9b2VsoWhjhIuIeToDVs,die hard,"kendrick lamar, blxst, amanda reifer",8,3,0.775,0.736,C#,-8.072,Minor,0.247,0.319,100.988
+spotify:track:6qj02zSeEJGWZ4c0dn5QzJ,boyfriends,harry styles,22,2,0.417,0.202,C,-10.976,Major,0.0357,0.935,118.029
+spotify:track:6hFwju6M40CKovKBPu5IpY,acorda pedrinho,jovem dionisio,77,2,0.876,0.359,B,-11.169,Minor,0.341,0.187,124.016
+spotify:track:18HOjcvTVV7W8YzBuOsAPS,un verano sin ti,bad bunny,20,4,0.503,0.496,F,-9.123,Minor,0.0556,0.693,187.844
+spotify:track:2NMjggapJcXXM7WccGEBUO,enséñame a bailar,bad bunny,27,4,0.81,0.789,G#,-5.08,Major,0.0846,0.191,105.009
+spotify:track:6EbVuwU7EnKeF2hdpViXCH,die young (feat. 347aidan),"sleepy hallow, 347aidan",97,1,0.808,0.582,B,-6.26,Major,0.338,0.827,77.471
+spotify:track:1r8ZCjfrQxoy2wVaBUbpwg,thousand miles,the kid laroi,18,6,0.376,0.657,G,-4.658,Major,0.0768,0.0858,80.565
+spotify:track:0UvZcEfpzVyx47QsRbjyBz,el apagón,bad bunny,28,4,0.629,0.698,G#,-4.485,Major,0.308,0.0509,117.765
+spotify:track:63WuQOXohQIxOxIFA2K7bR,supermodel,måneskin,89,3,0.636,0.876,G,-3.413,Major,0.0555,0.00164,120.983
+spotify:track:0wihfILRNOwE2156Shezc8,agosto,bad bunny,30,4,0.849,0.584,C#,-8.195,Minor,0.115,0.0929,115.018
+spotify:track:3sa06xVNmLLYIxdNNmVQN8,where did you go? (feat. mnek),"jax jones, mnek",116,7,0.763,0.782,G,-4.541,Minor,0.0346,0.182,127.034
+spotify:track:6Qyc6fS4DsZjB2mRW9DsQs,iris,the goo goo dolls,124,5,0.315,0.715,B,-8.072,Minor,0.0362,0.00125,155.925
+spotify:track:5oH4DQAuu1J1800RzUsBWa,that that (prod. & feat. suga of bts),"psy, suga",21,5,0.905,0.962,E,-3.197,Major,0.0856,0.0299,129.969
+spotify:track:6kYGOFNUMxpab09L5Ukoke,rich spirit,kendrick lamar,17,3,0.852,0.421,A#,-9.153,Minor,0.208,0.428,95.977
+spotify:track:0LnS7aOdOdI1dNKZqdOLz4,dua lipa,jack harlow,37,4,0.833,0.652,B,-6.942,Major,0.0762,0.00161,158.022
+spotify:track:1qMMYpVatbRITKCfq1gasi,puffin on zootiez,future,40,5,0.883,0.657,G#,-5.748,Major,0.305,0.0603,124.992
+spotify:track:2NWaWZZLFMcr5P4uI2KvWy,en el radio un cochinero,victor cibrian,148,1,0.696,0.623,F#,-8.738,Minor,0.0438,0.466,154.028
+spotify:track:30W8VKHrAZmHzObnwAoc1u,tus lágrimas,"mora, sech",93,6,0.683,0.714,C#,-4.898,Major,0.252,0.181,173.963
+spotify:track:3ehHqgYRzmeUi345MfHS2N,parís,"morat, duki",130,2,0.582,0.804,B,-4.155,Major,0.0389,0.0493,138.014
+spotify:track:3jjujdWJ72nww5eGnfs2E7,adore you,harry styles,6,104,0.676,0.771,G#,-3.675,Major,0.0483,0.0237,99.048
+spotify:track:296nXCOv97WJNRWzIBQnoj,fearless,le sserafim,149,4,0.863,0.62,G,-7.167,Major,0.135,0.0508,103.971
+spotify:track:6Jkm5kUldvIqxzI1Pa7nXH,10 things i hate about you,leah kate,117,6,0.544,0.786,G#,-2.97,Major,0.0501,0.00991,153.967
+spotify:track:0Q5VnK2DYzRyfqQRJuUtvi,love dive,ive,51,8,0.703,0.709,C#,-4.169,Minor,0.0433,0.00379,117.941
+spotify:track:2qmG7dokbGpDGD0T5wORWt,balanço da rede,"matheus fernandes, xand avião",171,2,0.764,0.796,F#,-4.611,Minor,0.033,0.193,140.072
+spotify:track:75UMtPC77vqKRwfSuYuNPO,san lucas,kevin kaarl,149,5,0.577,0.363,G,-12.378,Major,0.0263,0.86,91.511
+spotify:track:3tYTyAt1q6BFBiGyYVOLhi,silent hill,"kendrick lamar, kodak black",21,3,0.907,0.577,C#,-6.737,Minor,0.0767,0.438,140.07
+spotify:track:05zd5Nv0e02ZqrlC8A2cwx,united in grief,kendrick lamar,11,3,0.529,0.845,G#,-8.142,Major,0.404,0.244,85.63
+spotify:track:2XRn6Qu0Wd1KvOND8JbaTx,beautiful girl,luciano,59,5,0.839,0.412,B,-8.816,Minor,0.0935,0.287,139.901
+spotify:track:4IaxDf2FixiQXq0mW7key9,zoom,jessi,89,6,0.874,0.6,F#,-6.064,Major,0.158,0.00942,100.012
+spotify:track:0U1W2LZVUX7qTm7dDpqxh6,when you're gone,shawn mendes,21,9,0.603,0.691,F,-5.805,Major,0.0372,0.0248,147.148
+spotify:track:69xohKu8C1fsflYAiSNbwM,run bts,bts,11,1,0.724,0.818,G#,-3.747,Major,0.168,0.0201,77.004
+spotify:track:4JzCFEc3O2UEdjKzevvFH5,for youth,bts,30,1,0.633,0.511,D,-5.665,Major,0.0368,0.434,116.855
+spotify:track:1IthE5GNiRzFN5CVaCa445,born singer,bts,43,1,0.602,0.841,G#,-3.334,Minor,0.109,0.0354,157.937
+spotify:track:3S68RFe1lsdCdTMPIMJM3X,cash in cash out,"pharrell williams, 21 savage, tyler, the creator",53,1,0.877,0.56,G,-3.751,Major,0.0596,0.00721,119.971
+spotify:track:1BkY0N8ChFk2mdLbAUu8ZK,pass the dutchie,musical youth,85,2,0.805,0.418,G,-14.374,Major,0.0979,0.459,149.724
+spotify:track:6kxaaIeowajN7w21PfMLbu,so good,halsey,95,1,0.576,0.627,D#,-4.649,Minor,0.0449,0.0385,164.998
+spotify:track:6ojZtz3sZr6ynvejLOqgCj,nos comemos (feat. ozuna),"tiago pzk, ozuna",140,2,0.827,0.819,F#,-3.701,Major,0.052,0.1,92.017
+spotify:track:31tf1qEai5o5f4r66Kd0pU,me and your mama,childish gambino,158,2,0.554,0.433,F,-12.628,Major,0.0341,0.0116,117.996
+spotify:track:4RtPruLRZbyirtJGqYHPQm,antes de perderte,duki,173,1,0.812,0.925,F,-3.092,Minor,0.113,0.487,110.031
+spotify:track:5W7DOVGQLTigu09afW7QMT,295,sidhu moose wala,141,2,0.557,0.794,B,-5.698,Minor,0.2,0.179,91.366
+spotify:track:4a9tbd947vo9K8Vti9JwcI,boy with luv (feat. halsey),"bts, halsey",3,46,0.645,0.862,B,-4.761,Minor,0.0845,0.0933,119.947
+spotify:track:0rKtyWc8bvkriBthvHKY8d,slow dancing in the dark,joji,75,36,0.515,0.479,D#,-7.458,Major,0.0261,0.544,88.964
+spotify:track:1HvTxgCj0mTzQlEo0zLvFb,in my head,lil tjay,30,1,0.684,0.545,C#,-6.885,Major,0.121,0.159,143.049
+spotify:track:40w8JmvwYUP2HUiXPxjy99,me arrepentí,"ak4:20, pailita, cris mj",80,1,0.861,0.786,C,-4.934,Major,0.164,0.289,92.031
+spotify:track:6bQ5823aHmFVKLZW8E7rRo,si quieren frontear,"duki, de la ghetto, quevedo",113,1,0.789,0.837,A#,-3.247,Major,0.23,0.125,81.536
+spotify:track:1ZMiCix7XSAbfAJlEZWMCp,falling,harry styles,29,81,0.567,0.267,E,-6.502,Major,0.0299,0.839,110.011
+spotify:track:4WghJOMjDpGdlk3b8aJIgy,up at night (feat. justin bieber),"kehlani, justin bieber",131,1,0.563,0.756,C,-3.852,Minor,0.0579,0.196,100.012
+spotify:track:45S5WTQEGOB1VHr1Q4FuPl,golden,harry styles,44,34,0.448,0.838,E,-5.257,Minor,0.0557,0.21,139.863
+spotify:track:7afaZ37wJJL6880z1NRgJS,fim de semana no rio,teto,139,1,0.867,0.494,C#,-6.514,Minor,0.084,0.118,118.868
+spotify:track:3TSLqZssCoCdDlMhCJ08XW,still life,bigbang,148,1,0.68,0.584,G#,-4.457,Major,0.034,0.443,118.06
+spotify:track:0B7wvvmu9EISAwZnOpjhNI,when i was your man,bruno mars,181,2,0.601,0.271,C,-8.688,Major,0.0403,0.937,145.494
+spotify:track:5Ohxk2dO5COHF1krpoPigN,sign of the times,harry styles,14,39,0.516,0.595,F,-4.63,Major,0.0313,0.0275,119.972
+spotify:track:3hRV0jL3vUpRrcy398teAU,the night we met,lord huron,55,29,0.544,0.369,D,-9.514,Major,0.038,0.969,87.01
+spotify:track:7KA4W4McWYRpgf0fWsJZWB,see you again (feat. kali uchis),"tyler, the creator, kali uchis",144,2,0.558,0.559,F#,-9.222,Major,0.0959,0.371,78.558
+spotify:track:3QGxgNaqaFSpORp2OVLXHR,212,"chefin, mainstreet",89,1,0.789,0.519,D,-4.84,Minor,0.0697,0.659,154.037
+spotify:track:1G1R0XgChe18Zr1o6tlmN6,watercolor eyes - from “euphoria” an hbo original series,lana del rey,90,1,0.444,0.26,G,-10.045,Major,0.0316,0.964,120.443
+spotify:track:3xRH6FPVtheDyNla3T1FE7,hrs & hrs,muni long,119,1,0.511,0.525,G#,-4.595,Minor,0.183,0.604,139.885
+spotify:track:10hMM5nsZQf66ldBlgWBfG,all for us - from the hbo original series euphoria,"labrinth, zendaya",108,3,0.348,0.652,D#,-7.145,Major,0.0931,0.0165,70.956
+spotify:track:3M0lSi5WW79CXQamgSBIjx,swim,chase atlantic,134,1,0.666,0.542,G#,-6.429,Major,0.0392,0.27,120.134
+spotify:track:3oRW9ZGPRbLRMneQ5lwflt,waiting on a miracle,stephanie beatriz,155,1,0.48,0.554,C#,-8.145,Minor,0.069,0.171,190.066
+spotify:track:1mSviQV9iQnGSRyvTIuxAj,problemón,"alvaro diaz, rauw alejandro",158,1,0.706,0.739,A#,-3.753,Major,0.0586,0.266,91.906
+spotify:track:186NCtNk1tUYS7c2DxgJ7O,christmas tree,v,100,2,0.437,0.384,F,-8.384,Major,0.042,0.699,139.009
+spotify:track:7m9OqQk4RVRkw9JJdeAw96,jocelyn flores,xxxtentacion,7,216,0.872,0.391,C,-9.144,Minor,0.242,0.469,134.021
+spotify:track:2SJZdZ5DLtlRosJ2xHJJJa,chance,paulo londra,56,1,0.721,0.463,C#,-9.483,Minor,0.0646,0.241,137.915
+spotify:track:73cnVqsbZygieKi8xF10sO,psychofreak (feat. willow),"camila cabello, willow",71,1,0.629,0.64,G,-7.638,Minor,0.0752,0.342,179.989
+spotify:track:6bTdZ7xfKp3NqqADJ8HLyj,vampiro,"matuê, wiu, teto",82,1,0.782,0.643,G#,-4.956,Minor,0.0438,0.0136,114.994
+spotify:track:6ws54n2IzyrIxxyzlG2bVJ,right on,lil baby,103,1,0.535,0.618,D,-5.668,Major,0.382,0.0245,165.991
+spotify:track:1jIMjbzcGCcCQn5iMu9CUc,that's hilarious,charlie puth,112,1,0.714,0.442,F#,-5.909,Major,0.0605,0.742,108.039
+spotify:track:4QWumyD2uwiePBBha9XBHI,no ouvidinho,felipe amorim,154,1,0.885,0.834,D#,-3.374,Major,0.0394,0.403,124.018
+spotify:track:2Foc5Q5nqNiosCNqttzHof,get lucky (feat. pharrell williams & nile rodgers) - radio edit,"daft punk, pharrell williams, nile rodgers",167,1,0.794,0.811,F#,-8.966,Minor,0.038,0.0426,116.047
+spotify:track:2uky0VCI2EZni0nArOPznM,"paulo londra: bzrp music sessions, vol. 23","bizarrap, paulo londra",19,1,0.456,0.91,C,-2.659,Major,0.136,0.256,95.927
+spotify:track:2gzhQaCTeNgxpeB2TPllyY,with you,"jimin, ha sung woon",32,1,0.532,0.426,D#,-6.117,Major,0.0288,0.639,149.898
+spotify:track:6Z165JvPnS8PYvGW8oLGLc,flowers,lauren spencer smith,72,2,0.684,0.449,D#,-9.738,Major,0.611,0.869,66.165
+spotify:track:123hB20IVD2yw1NMIgrqb3,imdat,cakal,97,1,0.786,0.748,E,-7.568,Minor,0.162,0.267,133.967
+spotify:track:5IQvs70wHdurk63TnCV6ZP,we made it,"t-low, miksu / macloud",99,1,0.782,0.711,F,-5.383,Minor,0.0558,0.585,116.049
+spotify:track:2UN0lp72LAusrXi8LLVomt,2step (feat. lil baby),"ed sheeran, lil baby",131,1,0.693,0.643,E,-5.867,Minor,0.0828,0.138,95.055
+spotify:track:1dp8aQANyTRKssDeAYPiZe,scrape it off (feat. lil uzi vert & don toliver),"pusha t, lil uzi vert, don toliver",184,1,0.594,0.679,G,-3.702,Major,0.345,0.484,106.726
+spotify:track:6fxVffaTuwjgEk5h9QyRjy,photograph,ed sheeran,41,154,0.614,0.379,E,-10.48,Major,0.0476,0.607,107.989
+spotify:track:6OrTKLtcF7EBayOV2QqkSK,hold that heat (feat. travis scott),"southside, future, travis scott",196,1,0.744,0.608,D,-6.386,Major,0.0442,0.0295,130.045
+spotify:track:4xIhSUJantE6BMl3u8dtCJ,father time (feat. sampha),"kendrick lamar, sampha",14,2,0.514,0.779,A#,-4.365,Minor,0.344,0.181,152.869
+spotify:track:7pj6P5WnxkZsw3XRc8eMe1,count me out,kendrick lamar,24,2,0.776,0.431,E,-7.544,Minor,0.091,0.671,133.999
+spotify:track:0YeUVm23SAkUruwEx9LWnt,savior,"kendrick lamar, baby keem, sam dew",29,2,0.605,0.692,G#,-7.45,Major,0.446,0.495,124.84
+spotify:track:5uU1uuyaUIBOiiUSQG7Wl3,you proof,morgan wallen,91,2,0.731,0.85,A,-4.913,Major,0.0336,0.252,119.706
+spotify:track:6OZwia8loN0aPS0vTvsBjR,tout va bien (feat. ninho & naps),"alonzo, ninho, naps",183,1,0.66,0.72,D#,-5.874,Minor,0.0753,0.301,99.937
+spotify:track:2KdKh9vHbKW0tZLqtpxxI0,honest (feat. don toliver),"justin bieber, don toliver",29,4,0.81,0.655,G#,-6.779,Minor,0.0698,0.127,150.002
+spotify:track:0RAvy97QRPzO2AfK5Dw6j3,we cry together,"kendrick lamar, taylour paige",22,2,0.648,0.68,B,-7.276,Major,0.345,0.292,106.89
+spotify:track:5p56JT5F9a1z9pwXnqTg7d,worldwide steppers,kendrick lamar,20,1,0.514,0.472,G#,-11.106,Minor,0.368,0.753,77.215
+spotify:track:401160izncPtca3CmX3dvM,purple hearts,"kendrick lamar, summer walker, ghostface killah",27,1,0.567,0.824,D#,-6.973,Minor,0.296,0.167,138.202
+spotify:track:2Az5ykbQiZtFWtACCMvWlP,rich - interlude,kendrick lamar,41,1,0.481,0.406,G,-11.52,Major,0.0775,0.864,91.589
+spotify:track:7zvfDihYiJ8RQ1nRcpKBF5,mr. morale,"kendrick lamar, tanna leone",53,1,0.727,0.53,A,-8.616,Major,0.312,0.283,174.025
+spotify:track:2IwbW2jd0Ncv99Aroe77Ru,crown,kendrick lamar,54,1,0.355,0.245,C#,-13.475,Minor,0.0358,0.801,173.329
+spotify:track:19Fg3WrTfo35Ji3PtfZE6J,auntie diaries,kendrick lamar,61,1,0.52,0.375,C,-13.409,Major,0.358,0.745,127.544
+spotify:track:5PPUw4Xo3Hz6rl4GpBfd3c,savior - interlude,kendrick lamar,73,1,0.618,0.43,F,-9.38,Minor,0.216,0.807,117.125
+spotify:track:5LOiuvbH62YGtnwe6Ltt4T,mirror,kendrick lamar,76,1,0.652,0.67,D,-8.766,Major,0.0639,0.225,91.933
+spotify:track:6NZOc8kO0Fxo0fLPvIdLnW,mother i sober (feat. beth gibbons of portishead),"kendrick lamar, beth gibbons",79,1,0.492,0.369,G#,-14.861,Minor,0.329,0.87,140.012
+spotify:track:2vHzOWRKYPLu8umRPIFuOq,stefania (kalush orchestra),kalush,109,1,0.832,0.817,D,-5.182,Major,0.0422,0.145,104.985
+spotify:track:5MMW4CZsZiZt2iuqAXzzWC,the heart part 5,kendrick lamar,44,2,0.7,0.812,C#,-8.128,Minor,0.297,0.183,97.405
+spotify:track:3EMp20j5E42MxfFbsEsIvD,churchill downs (feat. drake),"jack harlow, drake",57,2,0.71,0.522,B,-9.102,Major,0.36,0.615,96.448
+spotify:track:6Pif6RkFoYzLygdqktus4Q,the foundations of decay,my chemical romance,140,1,0.363,0.67,C#,-6.652,Minor,0.0552,0.000582,150.15
+spotify:track:4d1CG5ei1E2vGbvmgf5KKv,this love (taylor’s version),taylor swift,50,2,0.47,0.494,E,-8.672,Major,0.0349,0.302,144.039
+spotify:track:3XREkzDHsWdBL5tybyCDBH,slomo,chanel,179,1,0.728,0.814,C#,-3.29,Minor,0.0571,0.125,104.962
+spotify:track:3nhGk6VnrDHy67pXvMhdPa,space man,sam ryder,186,1,0.467,0.828,B,-2.22,Major,0.0489,0.181,79.978
+spotify:track:2HbKqm4o0w5wEeEFXm2sD4,money trees,"kendrick lamar, jay rock",143,8,0.716,0.531,G,-7.355,Major,0.122,0.0703,71.994
+spotify:track:1ZMGp9MTXbtAPvcKa0U3zS,brividi,"mahmood, blanco",9,2,0.523,0.614,G,-4.435,Major,0.0347,0.448,122.962
+spotify:track:42Xba467wgGvYrR2EE6s0i,cigarettes,juice wrld,27,1,0.597,0.615,D,-6.346,Major,0.0421,0.0303,160.014
+spotify:track:79nEEoEPY2w8EXj9hjn5oc,ginseng strip 2002,yung lean,44,2,0.601,0.712,C#,-9.433,Major,0.0431,0.0848,114.998
+spotify:track:1PNs0uGru3TcrA94kpyGnc,do we have a problem?,"nicki minaj, lil baby",48,1,0.842,0.505,C#,-8.627,Minor,0.402,0.472,119.993
+spotify:track:3a94TbZOxhkI9xuNwYL53b,black summer,red hot chili peppers,79,1,0.417,0.682,C#,-5.071,Major,0.0295,0.0267,105.542
+spotify:track:0hluyTCTSua59xYuIRqpe5,ovunque sarai,irama,112,1,0.359,0.434,C,-6.068,Major,0.0305,0.582,79.133
+spotify:track:11iIikXxC6NP0Ma8vMD27x,alien blues,vundabar,118,4,0.467,0.757,D#,-5.093,Major,0.033,0.0807,82.282
+spotify:track:6BczFLHW9aIf9aWn5NFuNL,don't play that,"king von, 21 savage",144,1,0.947,0.605,A#,-8.621,Minor,0.346,0.0748,129.988
+spotify:track:3t4KHjd8uQpJJ2fa0fRIpR,high,the chainsmokers,70,2,0.601,0.787,C,-6.178,Major,0.031,0.0492,134.981
+spotify:track:0jLeyuu6mtsD384054xLah,ciao ciao,la rappresentante di lista,151,1,0.747,0.819,E,-4.602,Minor,0.134,0.125,117.994
+spotify:track:5elW2CKSoqjYoJ32AGDxf1,polaroid love,enhypen,158,2,0.738,0.67,G,-3.766,Minor,0.0439,0.458,138.055
+spotify:track:6N22FZs2ZhPBYi3b9XPajV,still don't know my name,labrinth,53,16,0.316,0.63,F,-5.963,Major,0.117,0.471,89.643
+spotify:track:0GsZZWhBMIQXAmPYPJ3PRQ,insuperabile,rkomi,180,1,0.667,0.848,E,-5.195,Minor,0.0851,0.0344,122.035
+spotify:track:5HujDMiRNqZwEzVAh3oFD3,farfalle,sangiovanni,181,1,0.733,0.784,D#,-5.211,Major,0.0606,0.0927,120.016
+spotify:track:2t16D9V5FmmRAJjsSpwvZf,when i r.i.p.,labrinth,192,1,0.417,0.551,G#,-6.456,Minor,0.174,0.73,87.614
+spotify:track:2QWEMqQMJR1KDf6hDjJOs6,arson,j-hope,37,1,0.938,0.798,C#,-3.998,Major,0.103,0.00813,99.992
+spotify:track:7GARzfC1mwhDuk4t9WOACq,more,j-hope,22,3,0.783,0.722,D,-4.864,Major,0.0357,0.00537,97.031
+spotify:track:3ujiq7yK4Uan5z4876fHLK,layla,"dj robin, schürze",61,3,0.442,0.922,F,-2.918,Minor,0.0695,0.00134,140.082
+spotify:track:5lfWrciYtohtIMVDVZd0Rf,"stay with me (with justin timberlake, halsey, & pharrell)","calvin harris, justin timberlake, halsey, pharrell williams",86,1,0.81,0.733,A,-6.338,Major,0.0444,0.276,125.975
+spotify:track:4rmVZajAF7PkrCagGPHbqa,sticky,drake,17,5,0.853,0.495,F#,-14.63,Major,0.14,0.0917,137.027
+spotify:track:13Irp51zj01BZu2XtDrnAg,2 be loved (am i ready),lizzo,167,1,0.721,0.769,G,-4.111,Major,0.105,0.0922,155.932
+spotify:track:0i4UV3HjjvsUuV3BajEXoD,baile no morro,"mc tairon, mc vitin da igrejinha, dj win",154,3,0.714,0.404,D#,-7.903,Minor,0.453,0.457,130.088
+spotify:track:5PZAbR6JHYYV9xp5gv0XES,bandido,"zé felipe, mc mari",125,4,0.882,0.721,B,-2.851,Minor,0.0512,0.0958,120.018
+spotify:track:737gzPI5VAmgUGWiJ9yXuu,"1, 2, 3 (feat. jason derulo & de la ghetto)","sofía reyes, jason derulo, de la ghetto",31,36,0.792,0.895,C#,-3.112,Minor,0.0587,0.165,94.968
+spotify:track:3gUzi41YOt3VExeyHSLsMj,s!r! (feat. lazza & sfera ebbasta),"thasup, lazza, sfera ebbasta",185,1,0.675,0.739,F#,-4.603,Minor,0.0524,0.387,149.959
+spotify:track:3AbNNvo2OmyeDMvRBgf9vk,la loto,"tini, becky g, anitta",157,2,0.855,0.83,C#,-2.815,Major,0.106,0.0783,90.009
+spotify:track:21szgNA72iLwvBxHQLgwBh,die first,nessa barrett,194,1,0.444,0.669,G#,-6.727,Minor,0.125,0.0669,183.441
+spotify:track:7CAdT0HdiQNlt1C7xk2hep,stay alive (prod. suga of bts),jung kook,10,1,0.512,0.76,D,-5.889,Minor,0.0682,0.299,130.096
+spotify:track:6N1K5OVVCopBjGViHs2IvP,the joker and the queen (feat. taylor swift),"ed sheeran, taylor swift",20,1,0.528,0.309,C,-7.398,Major,0.0329,0.924,133.83
+spotify:track:4huBDGP4I3S0pYI0EaRN1c,city of gods,"fivio foreign, kanye west, alicia keys",57,1,0.474,0.801,G#,-5.978,Minor,0.375,0.102,147.356
+spotify:track:4LwU4Vp6od3Sb08CsP99GC,the next episode,"dr. dre, snoop dogg",86,1,0.922,0.909,A#,-2.429,Minor,0.27,0.0281,95.295
+spotify:track:7lcI4X8RZxK4zIknJcwpBq,bussin,"nicki minaj, lil baby",122,1,0.893,0.699,B,-8.059,Major,0.0517,0.0576,139.972
+spotify:track:7KXjTSCq5nL1LoYtL7XAwS,humble.,kendrick lamar,1,96,0.908,0.621,C#,-6.638,Minor,0.102,0.000282,150.011
+spotify:track:6potEImiklXkwD9qFzpu15,forever,labrinth,185,1,0.563,0.459,E,-7.781,Minor,0.0292,0.92,79.983
+spotify:track:70pwY1UfPmSVE3ybPjFy0p,worst day,future,192,1,0.646,0.597,C#,-6.045,Major,0.401,0.11,88.506
+spotify:track:0fv2KH6hac06J86hBUTcSf,new magic wand,"tyler, the creator",54,3,0.621,0.73,F,-5.414,Minor,0.107,0.0967,139.566
+spotify:track:35wvL50xvKpCHEJPxLOLPI,si estuviésemos juntos,bad bunny,197,1,0.672,0.594,C#,-6.813,Minor,0.0789,0.0626,171.854
+spotify:track:35COLcFjvONwVv6jkG23gI,boys don't cry,anitta,107,1,0.589,0.842,F,-4.86,Major,0.0372,0.00178,164.163
+spotify:track:6MOst484piqXpzPPRRe8i5,vice city,xxxtentacion,181,1,0.853,0.467,A,-6.843,Minor,0.195,0.00596,87.023
+spotify:track:0KCSJzsQVxkloxoT7dyrqV,the rumbling (tv size),sim,192,1,0.408,0.875,G#,-1.536,Major,0.0546,1.68e-05,144.975
+spotify:track:1Ov37jtRQ2YNAe8HzfczkL,wildest dreams (taylor's version),taylor swift,29,11,0.583,0.67,G#,-7.289,Major,0.0646,0.0374,140.061
+spotify:track:6NHpyYvJyQsg2nXXzGYc2R,thought you should know,morgan wallen,123,1,0.529,0.695,F#,-6.174,Major,0.0278,0.488,139.993
+spotify:track:6wyhUr4Xw8z5uSy0AhoZfU,i'm on one (feat. drake),"future, drake",48,2,0.773,0.707,B,-5.71,Major,0.0568,0.0103,76.977
+spotify:track:7IBLt4Qarf4JDLxIQDv2O5,d.m.b.,a$ap rocky,159,1,0.727,0.616,G#,-8.487,Major,0.338,0.542,140.014
+spotify:track:7Bot6AB2dsvZEyqzUL8AUH,i'd do anything to make you smile,jack harlow,187,1,0.832,0.522,D,-7.244,Major,0.05,0.012,150.044
+spotify:track:3FSwpQ9dBZBeBV6UdYHI2R,712pm,future,61,1,0.711,0.686,F,-6.409,Minor,0.271,0.0355,146.971
+spotify:track:7rWCWzPRftzZTZtIyQtaDU,keep it burnin (feat. kanye west),"future, kanye west",85,1,0.652,0.578,C,-6.187,Major,0.161,0.00861,87.395
+spotify:track:0AAVJIN4plafvmNKqRCltG,i'm dat n****,future,86,1,0.911,0.573,D,-5.573,Major,0.163,0.0112,144.026
+spotify:track:4XJRpBOG0bU3Nxnvam3FnC,love you better,future,131,1,0.709,0.357,F,-9.289,Major,0.214,0.478,75.494
+spotify:track:7HCX1Ch3mklJyEdpwPZBFW,for a nut (feat. gunna & young thug),"future, gunna, young thug",139,1,0.824,0.667,A#,-6.603,Minor,0.0814,0.00321,82.037
+spotify:track:2tzgSUZOUKopYbRqQOVT8X,massaging me,future,180,1,0.916,0.453,C#,-4.148,Major,0.158,0.000189,145.007
+spotify:track:1Ijpng3ZLhTRcEd8iqh4p4,gold stacks,future,190,1,0.763,0.526,F,-6.753,Minor,0.355,0.00937,181.856
+spotify:track:5bLGQqcpsz5ISWeihZfJnR,are you entertained (feat. ed sheeran),"russ, ed sheeran",60,1,0.587,0.61,A#,-6.881,Minor,0.234,0.0402,130.063
+spotify:track:0N9C80kcgL0xXGduKnYKWi,love lost,"mac miller, the temper trap",175,1,0.735,0.812,D,-4.417,Major,0.151,0.528,109.835
+spotify:track:4xxeEWGQNFQ6qehlnev5LS,te amo demais,marília mendonça,177,1,0.713,0.625,C,-3.473,Major,0.0268,0.573,114.023
+spotify:track:3uJFmluXzYedoJcvhpC1AW,hot shit (feat. ye & lil durk),"cardi b, kanye west, lil durk",54,2,0.878,0.685,A,-5.28,Major,0.225,0.00152,157.003
+spotify:track:00imgaPlYRrMGn9o83hfmk,loose change,brent faiyaz,178,1,0.574,0.369,C#,-8.931,Minor,0.0814,0.753,84.975
+spotify:track:3XgGQ1wjo5khvq2UImjyNF,all mine,brent faiyaz,188,1,0.617,0.378,A,-8.54,Major,0.0315,0.428,141.967
+spotify:track:5QvW5lK6mkfTegpAK9JOO7,paris to tokyo,"fivio foreign, the kid laroi",198,1,0.642,0.787,F,-6.389,Minor,0.17,0.0185,146.733
+spotify:track:3Z7CaxQkqbIs1rewKi6v4W,hot in it,"tiësto, charli xcx",150,1,0.748,0.841,G,-5.08,Major,0.177,0.00445,123.045
+spotify:track:7sA2SKTo1QbTSSYn5YvJC4,sharks,imagine dragons,111,2,0.927,0.642,A#,-4.466,Minor,0.0657,0.00791,123.969
+spotify:track:6Kfoo60npYPdvNxMPMiDpX,wrapped around your finger,post malone,69,1,0.744,0.628,D,-5.435,Major,0.0287,0.0493,119.966
+spotify:track:1NvpO1o8SpkdH3txtJQQc7,lemon tree,post malone,71,1,0.611,0.584,B,-6.897,Minor,0.0301,0.083,116.106
+spotify:track:67dU06KGaJHLLlo5Y5bkD2,reputation,post malone,74,1,0.314,0.439,D,-5.726,Major,0.0311,0.671,180.119
+spotify:track:2OcSE0EXzgUuqkM1NIJPHJ,wasting angels (with the kid laroi),"post malone, the kid laroi",75,1,0.583,0.43,A,-7.748,Major,0.0353,0.801,84.967
+spotify:track:4IxeKzzxUSEgivgtbSbyIK,i cannot be (a sadder song) (with gunna),"post malone, gunna",86,1,0.517,0.668,C#,-6.012,Major,0.116,0.0712,79.782
+spotify:track:2meHtZ7N97pJfvTL4hYtfv,insane,post malone,97,1,0.645,0.671,A#,-7.208,Minor,0.0459,0.0597,82.546
+spotify:track:6R9c642Hs3tOdLowjYaWt2,love/hate letter to alcohol (with fleet foxes),"post malone, fleet foxes",115,1,0.475,0.569,E,-7.073,Minor,0.0343,0.037,108.007
+spotify:track:1oc92BMKYkNxK17C2GtyRM,distraction,polo g,121,1,0.713,0.689,B,-5.99,Major,0.255,0.16,156.934
+spotify:track:5Ja2u1FPlVxrxeMWEa2dcn,when i’m alone,post malone,177,1,0.485,0.656,A#,-6.121,Minor,0.0528,0.0346,140.107
+spotify:track:7JyFwJC3uRpiNfq7oKafgn,euthanasia,post malone,191,1,0.301,0.303,E,-12.39,Major,0.0458,0.177,141.997
+spotify:track:4C6Uex2ILwJi9sZXRdmqXp,super freaky girl,nicki minaj,16,1,0.95,0.891,D,-2.653,Major,0.241,0.0645,133.01
+spotify:track:6i1g5ZRmJZAkDwBaUZ3f2i,caile,luar la l,75,1,0.704,0.756,C,-4.948,Major,0.448,0.298,121.737
+spotify:track:79HZAZNnOE97rb2hnI0XQr,lokera,"rauw alejandro, lyanno, brray",95,1,0.834,0.828,B,-2.657,Minor,0.0452,0.21,102.019
+spotify:track:2HZLXBOnaSRhXStMLrq9fD,mary on a cross,ghost,135,1,0.466,0.9,B,-4.469,Major,0.0447,0.000235,130.02
+spotify:track:2pIUpMhHL6L9Z5lnKxJJr9,attention,newjeans,137,1,0.811,0.648,A#,-3.684,Minor,0.0368,0.236,104.988
+spotify:track:6qyS9qBy0mEk3qYaH8mPss,murder in my mind,kordhell,163,1,0.712,0.972,A#,-0.514,Major,0.112,0.00547,119.966
+spotify:track:0a4MMyCrzT0En247IhqZbD,hype boy,newjeans,171,1,0.593,0.935,E,-3.43,Minor,0.225,0.268,99.976
+spotify:track:5kpxVMDvYGRmNqawPqDTYR,jgl,"la adictiva banda san josé de mesillas, luis r conriquez",173,1,0.702,0.586,G#,-5.317,Major,0.118,0.55,112.852
+spotify:track:7DbdUf8aHSYoliSjO6LZv6,"sex, drugs, etc.",beach weather,175,1,0.572,0.839,E,-5.083,Minor,0.0377,0.013,143.969
+spotify:track:4UyVCLbNG8yhrqbzeSmdho,don't you worry,"black eyed peas, shakira, david guetta",189,1,0.816,0.874,B,-4.822,Major,0.0308,0.201,131.967
+spotify:track:6tTeRmhhuwDl5Y4UiJdHuO,attention,"omah lay, justin bieber",104,1,0.817,0.72,F,-8.134,Minor,0.0809,0.172,119.989
+spotify:track:374EllG6WyKdKvklfanNZT,ay! (feat. lil wayne),"machine gun kelly, lil wayne",114,1,0.741,0.616,D,-6.686,Major,0.034,0.052,147.008
+spotify:track:7JIIY2oDPFkURYMCLJuzhe,"elliot's song - from ""euphoria"" an hbo original series","dominic fike, zendaya",130,1,0.394,0.327,E,-14.291,Major,0.114,0.849,93.358
+spotify:track:1W1N3usYjgI3XGQA0iX9Vq,sehnsucht,"miksu / macloud, t-low",200,1,0.804,0.645,F#,-7.069,Minor,0.0773,0.642,142.09
+spotify:track:5zyZM1EiSqrniyqtprwxpv,falling back,drake,10,1,0.718,0.758,A#,-8.29,Major,0.0703,0.238,118.989
+spotify:track:7a5fliY9SsZENrQWQBZron,texts go green,drake,25,1,0.765,0.627,C,-4.607,Major,0.0622,0.000916,118.997
+spotify:track:0nAZGkBGKQCXyaoSJfRhC1,a keeper,drake,28,1,0.6,0.482,C#,-11.596,Major,0.0701,0.512,121.909
+spotify:track:7sT7kZEYd1MrmzLLIRVZas,calling my name,drake,30,1,0.826,0.276,B,-11.227,Minor,0.266,0.62,123.985
+spotify:track:7IaeavdRzXYQWfu2Wt5GlU,currents,drake,38,1,0.883,0.283,C,-12.653,Major,0.113,0.104,122.013
+spotify:track:23Z3bbYcl1PdcPJemLa4zc,flight's booked,drake,49,1,0.593,0.41,D#,-13.097,Minor,0.0531,0.886,122.584
+spotify:track:5lVmzrKaqPpPYtF7udoiNq,intro,drake,61,1,0.193,0.0218,C,-31.16,Minor,0.0389,0.955,125.501
+spotify:track:1MJHXJ8bdoynpEtCLCbkWf,overdrive,drake,68,1,0.502,0.645,D,-10.611,Minor,0.122,0.444,109.739
+spotify:track:5KW4KhJIAbVVSH6pJ4GPkb,tie that binds,drake,87,1,0.775,0.688,E,-10.912,Minor,0.0593,0.0176,120.017
+spotify:track:0PKpNkxX3FkcfgxCQUXXds,down hill,drake,89,1,0.718,0.319,D#,-11.261,Major,0.0435,0.965,109.994
+spotify:track:2vy9Ry1TNjCD85TiCbTz0r,liability,drake,96,1,0.557,0.706,C,-6.592,Major,0.0649,0.268,105.013
+spotify:track:28n8z9IQKyjMPxmvYMBqZa,the kind of love we make,luke combs,194,1,0.608,0.745,C#,-4.13,Major,0.0277,0.0226,102.025
+spotify:track:0qYW2jULeN9giEty0ee9Fy,botadinha saliente,mc rogerinho,105,1,0.985,0.698,C,-2.531,Major,0.0341,0.142,119.959
+spotify:track:1M5OUvKG03C0QtzvxRS4Zk,depende,"dj guuga, wesley safadão, zé felipe",129,1,0.886,0.909,D,-1.84,Minor,0.0642,0.125,130.027
+spotify:track:3ITkrUvAA6gzxer2UIom3P,molhando o volante,jorge & mateus,186,2,0.772,0.647,A#,-5.404,Major,0.0758,0.707,130.183
+spotify:track:7BKLCZ1jbUBVqRi2FVlTVw,closer,"the chainsmokers, halsey",2,179,0.748,0.524,G#,-5.599,Major,0.0338,0.414,95.01
+spotify:track:3XYRV7ZSHqIRDG87DKTtry,permission to dance,bts,5,26,0.702,0.741,A,-5.33,Major,0.0427,0.00544,124.925
+spotify:track:6krYS8KtmNAYyb5uTZiYW4,dawn fm,the weeknd,27,1,0.28,0.478,A,-8.755,Minor,0.037,0.674,111.65
+spotify:track:5XbA7TAqsD0fj0dGBrbb0D,i heard you’re married (feat. lil wayne),"the weeknd, lil wayne",28,1,0.736,0.848,A,-5.494,Minor,0.171,0.103,109.946
+spotify:track:6zzdyvVWjGrQBraSvuqJPY,starry eyes,the weeknd,35,1,0.309,0.418,A,-8.622,Minor,0.031,0.465,134.23
+spotify:track:759ndr57jb0URg4j9YSWml,a tale by quincy,the weeknd,54,1,0.447,0.513,F,-8.67,Minor,0.127,0.679,67.289
+spotify:track:6a4GH1gljLL7VvmO9u5O92,don’t break my heart,the weeknd,55,1,0.767,0.618,A#,-7.163,Major,0.032,0.31,121.959
+spotify:track:3vJcz8exedHCjQ9ed95NqU,every angel is terrifying,the weeknd,62,1,0.447,0.959,C,-5.59,Major,0.348,0.109,118.167
+spotify:track:1NlK2NtpuUazpziLhnJwEV,phantom regret by jim,the weeknd,92,1,0.394,0.519,A,-11.042,Minor,0.0465,0.75,110.113
+spotify:track:3XLbDUB5BX2WqL2qoAsvtb,thought i was playing,"gunna, 21 savage",94,1,0.679,0.73,C#,-7.483,Major,0.0689,0.00421,148.038
+spotify:track:6gPPoRYJwCsoB2VVdPJfmo,miserable man,david kushner,135,1,0.632,0.349,A#,-10.289,Major,0.0346,0.926,109.981
+spotify:track:0boodYr1uIpSVmGSP65Fmk,25k jacket (feat. lil baby),"gunna, lil baby",141,1,0.903,0.537,F,-6.854,Minor,0.283,0.16,115.013
+spotify:track:2iCDO8ePNuCvMiMFc0FQdA,alotta cake,gunna,146,1,0.895,0.543,B,-6.766,Minor,0.298,0.181,120.078
+spotify:track:2ZGEjmwyeZ3rpEezkZwqOP,mop (feat. young thug),"gunna, young thug",160,1,0.878,0.575,A,-8.732,Major,0.284,0.00293,144.918
+spotify:track:6M3PsepEj5gyJoIi7Xvr7u,take my breath - single version,the weeknd,7,21,0.747,0.739,G#,-6.008,Major,0.0487,0.0106,120.996
+spotify:track:0lJE8f0lx8mUSfMyxeYpiC,bar,"tini, l-gante",99,9,0.523,0.691,C#,-3.802,Major,0.0833,0.133,94.148
+spotify:track:0So2sgVa8aJiARPl2P29u2,pope is a rockstar,sales,108,5,0.725,0.446,E,-8.958,Minor,0.0287,0.85,90.024
+spotify:track:1TUuhV75FeOF6UObRsABo2,don't think jesus,morgan wallen,96,1,0.578,0.431,D,-7.034,Major,0.0269,0.469,116.979
+spotify:track:3GbQcjKWT7eVpUfzqwUjxv,late to da party (f*ck bet) (feat. youngboy never broke again),"lil nas x, youngboy never broke again",86,1,0.872,0.422,C#,-7.415,Minor,0.363,0.0254,149.956
+spotify:track:7My9ca9QEIR8MvIOdIrTWA,from the d 2 the lbc (with snoop dogg),"eminem, snoop dogg",135,1,0.73,0.785,A,-7.986,Minor,0.243,0.105,82.037
+spotify:track:4axSuOg3BqsowKjRpj59RU,carolina - from the motion picture “where the crawdads sing”,taylor swift,152,1,0.476,0.189,B,-13.777,Minor,0.0329,0.904,115.851

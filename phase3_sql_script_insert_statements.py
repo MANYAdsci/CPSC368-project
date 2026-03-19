@@ -1,9 +1,9 @@
 import pandas as pd
 
 # Load cleaned datasets
-data22 = pd.read_csv("cleaned_data_2022.csv")
-data23 = pd.read_csv("cleaned_data_2023.csv")
-data24 = pd.read_csv("cleaned_data_2024.csv")
+data22 = pd.read_csv("CleanedData/cleaned_data_2022.csv")
+data23 = pd.read_csv("CleanedData/cleaned_data_2023.csv")
+data24 = pd.read_csv("CleanedData/cleaned_data_2024.csv")
 
 
 def format_value(value):

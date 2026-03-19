@@ -80,9 +80,9 @@ CREATE TABLE TOP_SONG_2022 (
     weeks_on_chart NUMBER NOT NULL,
     danceability NUMBER NOT NULL,
     energy NUMBER NOT NULL,
-    key VARCHAR2(20) NOT NULL,
+    music_key VARCHAR2(20) NOT NULL,
     loudness NUMBER NOT NULL,
-    mode VARCHAR2(20) NOT NULL,
+    music_mode VARCHAR2(20) NOT NULL,
     speechiness NUMBER NOT NULL,
     acousticness NUMBER NOT NULL,
     tempo NUMBER NOT NULL,
@@ -95,8 +95,8 @@ CREATE TABLE TOP_SONG_2023 (
     artist_names VARCHAR2(500) NOT NULL,
     streams NUMBER NOT NULL,
     bpm NUMBER NOT NULL,
-    key VARCHAR2(20),
-    mode VARCHAR2(20) NOT NULL,
+    music_key VARCHAR2(20),
+    music_mode VARCHAR2(20) NOT NULL,
     danceability_pct NUMBER NOT NULL,
     valence_pct NUMBER NOT NULL,
     energy_pct NUMBER NOT NULL,
@@ -147,9 +147,9 @@ CREATE TABLE TOP_SONG_2024 (
 {format_value(clean_number(row["weeks_on_chart"]))},
 {format_value(clean_number(row["danceability"]))},
 {format_value(clean_number(row["energy"]))},
-{format_value(row["key"])},
+{format_value(row["music_key"])},
 {format_value(clean_number(row["loudness"]))},
-{format_value(row["mode"])},
+{format_value(row["music_mode"])},
 {format_value(clean_number(row["speechiness"]))},
 {format_value(clean_number(row["acousticness"]))},
 {format_value(clean_number(row["tempo"]))}
@@ -171,8 +171,8 @@ CREATE TABLE TOP_SONG_2024 (
 {format_value(row["artist_names"])},
 {format_value(clean_number(row["streams"]))},
 {format_value(clean_number(row["bpm"]))},
-{format_value(row["key"])},
-{format_value(row["mode"])},
+{format_value(row["music_key"])},
+{format_value(row["music_mode"])},
 {format_value(clean_number(row["danceability"]))},
 {format_value(clean_number(row["valence"]))},
 {format_value(clean_number(row["energy"]))},
@@ -206,3 +206,5 @@ CREATE TABLE TOP_SONG_2024 (
     f.write("\nCOMMIT;\n")
 
 print("SQL file successfully generated: load_phase3_reduced.sql")
+
+

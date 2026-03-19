@@ -1,4 +1,4 @@
-track_name,artist_names,streams,bpm,key,mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness
+track_name,artist_names,streams,bpm,music_key,music_mode,danceability,valence,energy,acousticness,instrumentalness,liveness,speechiness
 seven (feat. latto) (explicit ver.),"latto, jung kook",141381703,125,B,Major,0.8,0.89,0.83,0.31,0.0,0.08,0.04
 lala,myke towers,133716286,92,C#,Major,0.71,0.61,0.74,0.07,0.0,0.1,0.04
 vampire,olivia rodrigo,140003974,138,F,Major,0.51,0.32,0.53,0.17,0.0,0.31,0.06

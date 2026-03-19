@@ -50,9 +50,9 @@ CREATE TABLE TOP_SONG_2022 (
     weeks_on_chart NUMBER NOT NULL,
     danceability NUMBER NOT NULL,
     energy NUMBER NOT NULL,
-    key VARCHAR2(20) NOT NULL,
+    music_key VARCHAR2(20) NOT NULL,
     loudness NUMBER NOT NULL,
-    mode VARCHAR2(20) NOT NULL,
+    music_mode VARCHAR2(20) NOT NULL,
     speechiness NUMBER NOT NULL,
     acousticness NUMBER NOT NULL,
     tempo NUMBER NOT NULL,
@@ -65,8 +65,8 @@ CREATE TABLE TOP_SONG_2023 (
     artist_names VARCHAR2(500) NOT NULL,
     streams NUMBER NOT NULL,
     bpm NUMBER NOT NULL,
-    key VARCHAR2(20),
-    mode VARCHAR2(20) NOT NULL,
+    music_key VARCHAR2(20),
+    music_mode VARCHAR2(20) NOT NULL,
     danceability_pct NUMBER NOT NULL,
     valence_pct NUMBER NOT NULL,
     energy_pct NUMBER NOT NULL,
@@ -2064,7 +2064,7 @@ INSERT INTO Song VALUES (
 'lauren spencer smith'
 );
 INSERT INTO Song VALUES (
-'imdat',
+'i̇mdat',
 'cakal'
 );
 INSERT INTO Song VALUES (
@@ -28734,7 +28734,7 @@ INSERT INTO TOP_SONG_2022 VALUES (
 );
 INSERT INTO TOP_SONG_2022 VALUES (
 495,
-'imdat',
+'i̇mdat',
 'cakal',
 'spotify:track:123hB20IVD2yw1NMIgrqb3',
 97,
